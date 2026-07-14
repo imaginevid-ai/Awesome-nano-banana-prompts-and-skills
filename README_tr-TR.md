@@ -98,7 +98,7 @@ Değişkenler, kaynaklı bir promptu tüm briefi baştan yazmadan güvenilir bi�
 |--------|-------|
 | Toplam prompt | **27** |
 | Öne çıkan | **9** |
-| Son güncelleme | **14 Temmuz 2026 Salı 17:03:44 UTC** |
+| Son güncelleme | **14 Temmuz 2026 Salı 20:50:45 UTC** |
 
 </div>
 
@@ -1532,6 +1532,6 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 **[Prompt gönder](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Depoya Star ver](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-07-14T17:03:44.860Z</sub>
+<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-07-14T20:50:45.425Z</sub>
 
 </div>
