@@ -1,0 +1,1235 @@
+[
+  {
+    "id": 1,
+    "model": "nano-banana",
+    "title": {
+      "en": "Swiss Geometric Embossed Logo"
+    },
+    "description": {
+      "en": "Turn a brand mark into a centered monochrome relief with a liquid-glass rim and restrained Swiss-design spacing."
+    },
+    "content": {
+      "en": "(change [BRAND] and [COLOR])\n\n3D embossed glossy contour render of center-aligned [BRAND] on a flat surface, perfectly centered composition with ample negative space surrounding the object for a premium minimalist aesthetic. Monochromatic [COLOR] palette with soft tonal gradients. The object is defined by a raised, smooth, liquid-like glass bezel or chrome rim, creating a blind emboss effect where the interior matches the background. Matte surface finish with fine film grain or noise texture overlay. Soft diffuse lighting, strong specular highlights on the rounded edges, top-down view."
+    },
+    "sourceLink": "https://x.com/AmirMushich/status/1995542490049290680",
+    "sourcePublishedAt": "2025-12-01T17:16:19.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G7GW1EjWgAAgtWV.jpg"
+    ],
+    "author": {
+      "name": "AmirMušić",
+      "link": "https://x.com/AmirMushich"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 1,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1995542490049290680",
+      "prompt_tweet_id": "1995542493606101113",
+      "prompt_source": "reply_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 3731,
+      "bookmarkCount": 3968,
+      "viewCount": 243114,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 2,
+    "model": "nano-banana",
+    "title": {
+      "en": "Tactile Wax Seal Brand Mark"
+    },
+    "description": {
+      "en": "Render a supplied logo as a glossy, irregular wax seal with raised relief and soft product lighting."
+    },
+    "content": {
+      "en": "[MATERIAL COLOR] glossy wax seal icon depicting [BRAND] logo, lying flat on a plain white background. The seal is made of thick, deformed plastic or wax with an irregular, squashed shape and a prominent 'drip' or smear extending to the right side. The center features a clear, raised relief impression of the subject. The lighting is soft and even, creating smooth specular highlights on the curved, glossy edges. The shadow cast is soft and minimal."
+    },
+    "sourceLink": "https://x.com/AmirMushich/status/1998766162033713370",
+    "sourcePublishedAt": "2025-12-10T14:46:02.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G70LO0WXQAIlvMY.jpg"
+    ],
+    "author": {
+      "name": "AmirMušić",
+      "link": "https://x.com/AmirMushich"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 2,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1998766162033713370",
+      "prompt_tweet_id": "1998766163728220604",
+      "prompt_source": "reply_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 2220,
+      "bookmarkCount": 2245,
+      "viewCount": 171305,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 3,
+    "model": "nano-banana",
+    "title": {
+      "en": "Fashion Collage for a Social Campaign"
+    },
+    "description": {
+      "en": "A detailed art-direction system for combining fashion photography, collage fragments, typography, and controlled visual disorder."
+    },
+    "content": {
+      "en": "[BRAND NAME]. Act as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns.\nPHASE 1: CONCEPTUAL FRAMEWORK\nCreate a dynamic digital collage that merges fashion photography with graphic design chaos. This is controlled rebellion – a composition that feels spontaneous and energetic while maintaining brand coherence. The aesthetic is anti-polished: torn edges, layered textures, hand-drawn elements, and bold color blocking that screams confidence and movement.\nPHASE 2: MODEL & PHOTOGRAPHY\n- Subject: One model (diverse casting, age 18-30) in a dynamic, confident pose\n- Pose Energy: 80% attitude, 20% natural – sitting, jumping, mid-motion, or power stance (avoid static standing)\n- Outfit: Street style/athleisure that aligns with [BRAND NAME] aesthetic – casual but styled\n- Hero Product: Feature 1 signature [BRAND NAME] product prominently (sneakers, bag, apparel) – this is the visual anchor\n- Photography Style: Editorial fashion cutout – model extracted from background with clean edges\n- Camera Angle: Slight low angle to empower subject (hero perspective)\n- Crop: Full body or 3/4 body showing hero product clearly\n- Background Removal: Model cut out cleanly for layering over collage elements\nPHASE 3: COLOR BLOCKING FOUNDATION\n- Primary Color Blob: Large organic shape (40-60% of composition) in bold, saturated brand color behind/around model\n- Shape Style: Irregular, hand-painted aesthetic – think Photoshop brush strokes or torn paper texture (NOT perfect geometric shapes)\n- Color Selection (Autonomous): Choose 1 hero color from [BRAND NAME] palette:\n- Texture: Visible brush strokes, grain, or subtle noise (15-25% opacity) – avoid flat digital fills\n- Placement: Blob positioned to frame model without obscuring key product details\nPHASE 4: GRAPHIC ELEMENTS LAYER\nAdd 3-5 abstract graphic elements scattered across composition:\n- Element Types:\n- Color Palette: Use 2-3 accent colors total (main blob color + 1-2 contrasting tones from brand palette)\n- Placement: Asymmetric scatter – top-left and bottom-right zones primarily (avoid center crowding)\n- Scale: Mix small (5% of canvas) and medium (15% of canvas) elements – nothing overpowering\n- Aesthetic: Analog/handmade feel – imperfect circles, rough edges, visible texture\nPHASE 5: TYPOGRAPHY INTEGRATION\n- Brand Logo: Clean [BRAND NAME] logo placed in upper-left or upper-right quadrant (10-15% of width)\n- Slogan/Tagline: If [BRAND NAME] has an iconic slogan, integrate it using:\n- Supporting Copy: Optional 1-line descriptor (e.g., \"A MOMENT OF YOUR STYLE\") in smaller uppercase sans-serif\n- Type Treatment: Mix of aligned and slightly rotated text (2-5° angles) for dynamic energy\n- Hierarchy: Logo largest → Slogan medium → Copy smallest\nPHASE 6: TEXTURE & BACKGROUND\n- Base Layer: Off-white or light gray textured background (NOT pure white)\n- Texture Options (Autonomous selection):\n- Color: RGB 245-250 (near-white with warmth) – maintains brightness while adding depth\n- Treatment: Texture should be felt, not seen – enhances tactility without competing with foreground\nPHASE 7: COMPOSITION RULES\n- Layout: Asymmetric balance – model off-center, graphic elements counter-balance\n- Breathing Room: 15-20% negative space (textured background visible) to prevent claustrophobia\n- Layering Order: Background texture → Color blob → Graphic elements → Model (cutout) → Typography top layer\n- Focal Point: Model + hero product = primary focus (60% visual weight), graphics support (40%)\n- Movement: Diagonal lines and angled elements create directional flow (top-left to bottom-right or vice versa)\nPHASE 8: BRAND INTELLIGENCE (AUTONOMOUS)\nAutonomously adapt composition based on [BRAND NAME] personality:\n- Streetwear/Sportswear (Nike, Adidas, Supreme):\n- Luxury Streetwear (Balenciaga, Off-White, Gucci):\n- Beauty/Lifestyle (Glossier, Fenty, Skims):\n- Tech/Modern (Apple, Tesla, Beats):\nPHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL)\n- Bottom Strip: Clean white or light gray bar at bottom 8-10% of frame\n- Content: Social media handles (Instagram, Facebook, Twitter) in small sans-serif\n- Layout: Three-column grid with platform icons or text handles\n- Aesthetic: Minimal and professional – contrast with chaotic collage above\nTECHNICAL SPECS:\n- Aspect Ratio: 4:5 (Instagram feed) or 1:1 (square social post)\n- Resolution: 2400x3000px minimum (high-quality for zoom and detail)\n- Color Mode: sRGB, vibrant saturation (Instagram-optimized)\n- File Aesthetic: Digital collage that mimics analog craft (Photoshop + hand-drawn hybrid)\n- Model Photography: 85mm lens, f/2.8, shallow depth of field on original shoot (before cutout)\n- Style Reference: Nike social campaigns, Spotify wrapped graphics, Gen Z Instagram aesthetics, Hypebeast x streetwear collabs\n- Mood: Confident, energetic, youthful, authentic chaos, anti-corporate polish"
+    },
+    "sourceLink": "https://x.com/AmirMushich/status/2020895358126002197",
+    "sourcePublishedAt": "2026-02-09T16:19:34.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HAupnj7XgAIL_ja.jpg"
+    ],
+    "author": {
+      "name": "AmirMušić",
+      "link": "https://x.com/AmirMushich"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 3,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2020895358126002197",
+      "prompt_tweet_id": "2020895361032708297",
+      "prompt_source": "reply_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 1215,
+      "bookmarkCount": 1413,
+      "viewCount": 90512,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 4,
+    "model": "nano-banana",
+    "title": {
+      "en": "Integrated Social Ad Template"
+    },
+    "description": {
+      "en": "Build a reusable social advertisement whose brand, headline, visual system, and CTA can be changed through compact variables."
+    },
+    "content": {
+      "en": "[BRAND NAME] | [HEADLINE] | [SUB-TEXT] | [CTA]. Act as a Senior Art Director.\n\nPHASE 1: INTEGRATED COMPOSITION & OVERLAP.\n- Layout: Seamless fusion of 2D graphics and 3D photography.\n- Overlap Logic: The subject and their primary \"Product Prop\" (e.g., a car, a device) must physically overlap the graphic panel to break the \"wall\" between design and photo.\n- Unity: Geometric shapes from the graphic side must bleed into the photographic sky area.\n\nPHASE 2: BRAND & CATEGORY SIMULATION.\nAutonomously analyze the [BRAND NAME] and its industry category:\n- INDUSTRY CONTEXT: \n  * If Automotive: Include the vehicle and a person interacting with it.\n  * If Tech: Include flagship devices/gadgets.\n  * If Fashion/Lifestyle: Focus on editorial poses and premium accessories.\n- SHAPE SIMULATION: Match shapes to brand identity (e.g., Sharp/Speed for Auto, Minimalist/Grid for Tech).\n- COLOR SIMULATION: Use the brand's primary signature hue for both the graphic pattern and the subject's outfit/accents.\n\nPHASE 3: TYPOGRAPHY & CUSTOM CONTENT.\n- Headline: Display \"[HEADLINE]\" in a bold, modern Sans-Serif font. (If [HEADLINE] is empty, generate a high-energy slogan for [BRAND NAME]).\n- Sub-headline: Display \"[SUB-TEXT]\" below the headline.\n- Button: Create a minimalist pill-shaped CTA button with the text: \"[CTA]\".\n- Interaction: Text layers should have 3D depth, sitting partially behind the subject or product prop.\n\nPHASE 4: PHOTOGRAPHY & SUBJECT.\n- Perspective: Extreme low-angle (worm’s eye view) looking up.\n- Subject: A diverse persona reflecting the brand's audience.\n- Environment: Massive, clear blue sky as the backdrop.\n- Visual Link: Subject's styling must incorporate the Brand's primary color.\n\nPHASE 5: FINAL VISUAL STYLE.\nHigh-end commercial aesthetic. Crisp, saturated, professional fusion of flat vector art and realistic photography."
+    },
+    "sourceLink": "https://x.com/AmirMushich/status/2026316195977146728",
+    "sourcePublishedAt": "2026-02-24T15:20:02.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HB7r12tWMAA1nTv.jpg"
+    ],
+    "author": {
+      "name": "AmirMušić",
+      "link": "https://x.com/AmirMushich"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 4,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2026316195977146728",
+      "prompt_tweet_id": "2026316198367957327",
+      "prompt_source": "reply_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 2310,
+      "bookmarkCount": 3675,
+      "viewCount": 192667,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 5,
+    "model": "nano-banana",
+    "title": {
+      "en": "Restore and Colorize an Old Photograph"
+    },
+    "description": {
+      "en": "Repair scratches, tears, and fading while preserving the people, lighting, and atmosphere of the source photograph."
+    },
+    "content": {
+      "en": "Fix any scratches or tears, remove fading, and then color it with realistic skin tones, clothing colors, and background colors. Preserve the original lighting and atmosphere, and don't alter people's features.\n\n🔖 Save it as a bookmark and share it to help you relive those beautiful memories."
+    },
+    "sourceLink": "https://x.com/Waheeb33/status/2052070897813750227",
+    "sourcePublishedAt": "2026-05-06T17:00:02.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HHpJfykbAAAqqzm.jpg",
+      "https://pbs.twimg.com/media/HHpJfyMaUAEx6ei.jpg"
+    ],
+    "author": {
+      "name": "WAH",
+      "link": "https://x.com/Waheeb33"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 5,
+    "needReferenceImages": true,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2052070897813750227",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 5,
+      "bookmarkCount": 3,
+      "viewCount": 136,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 6,
+    "model": "nano-banana",
+    "title": {
+      "en": "Gemini 2.5 vs 3.1 Editorial Portrait Benchmark"
+    },
+    "description": {
+      "en": "A controlled portrait brief shown across Gemini 2.5 Flash Image and Gemini 3.1 Flash Image for visual comparison."
+    },
+    "content": {
+      "en": "Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean female portrait subject with small teardrop gemstone earring detail, delicate understated sparkle, natural basic body, about 160-165 cm visual height, 83-62-88 body proportion anchor, balanced torso-to-leg ratio around 4:6, low-contrast waist curve, modest bust and hips, smooth natural silhouette, young beautiful Korean idol face, refined small face, clear bright eyes, polished youthful beauty, photogenic K-pop portrait balance, straight medium-to-long hair with a sleek wet texture, clean straight lengths, separated damp strands, minimal wave, natural black hair, soft realistic shine, clean dark depth, none, looking directly at the camera, direct eye contact, innocent clear eyes, delicate soft expression, pure transparent mood. show the selected styling only through collar edge, neckline fabric, partial shoulder line, small accessory details near the face, eyewear, and earrings; keep torso clothing, lower-body garments, legwear, and shoes off-frame rather than widening the crop. render selected historic library window corner only as soft background color, environmental light, atmosphere, and faint spatial shapes behind the face; do not widen the frame just to reveal the full room or complete environment, indoor fluorescent everyday environment, cool-white overhead room light, practical daily interior brightness, plain lived-in space, local warm practical-light pool on the subject, lamp-driven amber highlight zone, warm falloff across face hands and clothing. Inspired by Masumi Ishida, luminous summer film image language. luminous youth-photobook portraiture, gentle summer-color brightness, softly lifted exposure, airy pastel balance, washed film texture, transparent tonal softness. The composition uses tight facial close-up portrait, face dominant in frame, balanced proportions, clean frontal readability, shoulder-level camera position, level lens axis near the shoulder line, stable upper-body portrait viewpoint, camera positioned directly in front of the subject, 0-degree front view, frontal torso orientation, shot on 20mm ultra-wide-angle lens, very wide field of view, strong perspective expansion, close foreground enlargement, visible edge stretching, deep subject-to-background spatial inclusion, peripheral edge blur, center sharpness with soft frame edges, field curvature softness, reduced corner resolution, lens falloff away from the image center. warm digital portrait rendering, flattering skin-tone response, soft highlight roll-off, smooth color transitions, gentle contrast curve, polished color, natural photographic detail, coherent fabric construction, clear facial readability, realistic spatial depth, do not add visible text unless explicitly requested."
+    },
+    "sourceLink": "https://x.com/VIBEQUIRKLABS/status/2066727367410876908",
+    "sourcePublishedAt": "2026-06-16T03:39:36.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HK571nBakAAxshH.jpg",
+      "https://pbs.twimg.com/media/HK571nkbkAAJ7Wu.jpg",
+      "https://pbs.twimg.com/media/HK5792CaEAAs9YT.jpg",
+      "https://pbs.twimg.com/media/HK58Db6a4AAws5c.jpg"
+    ],
+    "author": {
+      "name": "Nailai7981",
+      "link": "https://x.com/VIBEQUIRKLABS"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 6,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 66,
+          "title": "Benchmarks & Model Comparisons",
+          "slug": "benchmarks-model-comparisons"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2066727367410876908",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 10,
+      "bookmarkCount": 2,
+      "viewCount": 1178,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 7,
+    "model": "nano-banana",
+    "title": {
+      "en": "France Tribute Relief Poster"
+    },
+    "description": {
+      "en": "Compose a sculpted national tribute poster from a profile portrait, Paris landmarks, flag colors, and embossed display type."
+    },
+    "content": {
+      "en": "Create a 1:1 ultra-detailed luxury France tribute artwork featuring a completely different elegant woman (not the reference model), shown in dramatic side profile with porcelain skin, long wavy brunette hair flowing softly behind her, bold blue upper lip and red lower lip lipstick inspired by the French flag, long eyelashes, and a calm, confident expression.\n\nThe composition blends the woman's face seamlessly with iconic French landmarks including the Eiffel Tower, Arc de Triomphe, Sacré-Cœur Basilica, and classic Parisian architecture. A realistic French tricolor flag waves near the Eiffel Tower, while elegant blue, white, and red paint splashes and ornamental flourishes merge into the composition.\n\nOn the left side, large vertical embossed metallic text reading \"FRANCE\" in bold serif typography with blue, white, and red enamel textures. At the bottom, an ornate French Football Federation (FFF)-inspired crest with gold accents, laurel leaves, and two gold stars integrated into the design.\n\nThe entire artwork should feel like a premium 3D sculpted poster with embossed textures, carved details, luxury metallic finishes, intricate relief artwork, crisp shadows, museum-quality craftsmanship, dramatic studio lighting, soft white background, symmetrical composition, vibrant French national colors, photorealistic materials, ultra-high detail, masterpiece quality, 8K, 1:1 aspect ratio. The woman's facial features and hairstyle must be completely different from the reference image while preserving the same premium artistic style and composition."
+    },
+    "sourceLink": "https://x.com/AIwithkhan/status/2075940468970721456",
+    "sourcePublishedAt": "2026-07-11T13:49:11.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM842XhbgAAIfMr.jpg"
+    ],
+    "author": {
+      "name": "Smiling Khan",
+      "link": "https://x.com/AIwithkhan"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 7,
+    "needReferenceImages": true,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075940468970721456",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 47,
+      "bookmarkCount": 8,
+      "viewCount": 3358,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 8,
+    "model": "nano-banana",
+    "title": {
+      "en": "Neo-Noir Sci-Fi Portrait with Negative Space"
+    },
+    "description": {
+      "en": "Use a face reference to stage a restrained low-angle portrait beneath an expansive overcast sky."
+    },
+    "content": {
+      "en": "Create a low-angle neo-noir sci-fi still, chest-up portrait of a person with a slight upward gaze. Place the subject in the lower-right third, leaving vast negative space with about 80 percent empty sky above. The subject wears a matte shearling-collar heavy coat over a dark knit sweater in a desaturated olive and charcoal palette. The background is a blank, overcast sky with subtle haze. Use soft ambient daylight with negative fill on camera-left. Use image for face reference."
+    },
+    "sourceLink": "https://x.com/iamsofiaijaz/status/2076307753258410285",
+    "sourcePublishedAt": "2026-07-12T14:08:38.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNCG4yGbgAA4Txd.jpg"
+    ],
+    "author": {
+      "name": "Aijaz",
+      "link": "https://x.com/iamsofiaijaz"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 8,
+    "needReferenceImages": true,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076307753258410285",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 53,
+      "bookmarkCount": 27,
+      "viewCount": 2197,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 9,
+    "model": "nano-banana",
+    "title": {
+      "en": "Rugged Outdoor Lifestyle Portrait"
+    },
+    "description": {
+      "en": "Place a referenced face into a naturally lit outdoor editorial scene with technical clothing and a softly blurred vintage 4x4."
+    },
+    "content": {
+      "en": "Clean cinematic outdoor lifestyle portrait of a young rugged male figure standing in three-quarter angle, head bowed slightly downward and turned to the side, gaze cast down with a calm, quietly contemplative expression. He has voluminous dark curly hair with natural texture and volume, tousled and full. A full well-groomed dark beard and mustache cover his jaw and cheeks. He wears a dark navy-black technical hooded jacket/anorak — structured and outdoorsy with a relaxed hood resting behind the neck, clean minimal design with a small zippered chest pocket detail, both hands tucked casually into the front pockets. Dark olive-green trousers visible at the bottom of the frame, with a hint of a light-colored base layer peeking at the waist. He stands on a sandy, gravelly outdoor ground surface. Directly behind him, a rugged vintage off-road vehicle — a classic boxy 4x4 SUV in dark forest green with a white roof and roof rack — is parked and softly blurred, suggesting an adventure or overlanding lifestyle setting. The background beyond the vehicle shows soft blurred dark green trees and foliage, suggesting a forest or wilderness campsite location. The lighting is bright, natural, and directional — strong outdoor daylight from the upper right catching his hair, forehead, and the jacket shoulder in warm natural highlights, with soft natural shadow across the rest of the face and body. Color palette: dark navy jacket, olive green trousers, warm natural skin tones, muted forest green vehicle and background, warm sandy ground tones. Photography style: outdoor adventure lifestyle editorial, clean natural light, 85mm lens, shallow depth of field with vehicle and background softly blurred, photorealistic, 8K.\nUse the provided face reference image for all facial details — bone structure, eyes, brow, nose, jawline, beard, and skin tone should be taken entirely from the reference photo. Apply only the downward contemplative gaze and bright natural outdoor lighting on top of the reference face."
+    },
+    "sourceLink": "https://x.com/iamahmedfaraz66/status/2076336951184249038",
+    "sourcePublishedAt": "2026-07-12T16:04:40.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNChcwZacAAmyXi.jpg"
+    ],
+    "author": {
+      "name": "Ahmad Faraz",
+      "link": "https://x.com/iamahmedfaraz66"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 9,
+    "needReferenceImages": true,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076336951184249038",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 44,
+      "bookmarkCount": 7,
+      "viewCount": 862,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 10,
+    "model": "nano-banana",
+    "title": {
+      "en": "High-Fashion Tennis Campaign"
+    },
+    "description": {
+      "en": "Create a minimalist sports editorial with an oversized racket, reflective studio floor, and giant background typography."
+    },
+    "content": {
+      "en": "A clean high-fashion sports editorial featuring a confident female tennis athlete in an all-white luxury tennis outfit posing with an oversized tennis racket that towers above her like a modern art sculpture. She rests one foot casually on the racket while striking a powerful fashion pose against a seamless white studio backdrop. Behind her, giant bold black typography reading \"FOCUS\" spans the entire background, creating a striking graphic composition. Glossy reflective floor with scattered tennis balls, minimalist luxury aesthetic, cinematic softbox lighting, ultra-sharp details, premium athletic campaign, Vogue-style editorial photography, balanced composition, high contrast, photorealistic, 8K, 1:1 aspect ratio."
+    },
+    "sourceLink": "https://x.com/AIwithkhan/status/2076644507245048242",
+    "sourcePublishedAt": "2026-07-13T12:26:47.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNG5K0gaEAAPTuo.jpg"
+    ],
+    "author": {
+      "name": "Smiling Khan",
+      "link": "https://x.com/AIwithkhan"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 10,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076644507245048242",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 89,
+      "bookmarkCount": 27,
+      "viewCount": 1790,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 11,
+    "model": "nano-banana",
+    "title": {
+      "en": "Open-Book Sci-Fi Story Diorama"
+    },
+    "description": {
+      "en": "Transform four science-fiction subjects into a structured 2x2 encyclopedia spread with toy-like dioramas and model-sheet details."
+    },
+    "content": {
+      "en": "2x2 grid, 16:9, do this for 4 famous scifi movies: {INPUT: $ SUBJECT\n\nA = {\n  open storybook diorama,\n  cute 3D character world,\n  warm clay/vinyl miniature materials,\n  labeled origin panels,\n  model-sheet side views,\n  accessory callouts,\n  collectible character design\n}\n\nB = {\n  dense illustrated encyclopedia,\n  tiny worldbuilding details,\n  micro-architecture,\n  miniature people / animals / objects,\n  hand-painted storybook charm,\n  inspectable hidden scenes\n}\n\nC = {\n  designer toy proportions,\n  rounded expressive faces,\n  cozy fantasy-adventure mood,\n  tactile handcrafted props,\n  organized page layout\n}\n\nSUBJECT_CORE = stylize($ SUBJECT)\nwhere:\n- preserve the main identity of $ SUBJECT\n- convert it into a charming collectible character, object, creature, building, or scene\n- simplify proportions into cute readable forms\n- make it feel like the hero of a storybook universe\n\nBOOK_WORLD = infer_world($ SUBJECT)\nwhere:\n- create an open book or field-guide spread\n- left page: title, origin, values, symbols, short quote, icons, tiny lore text\n- center: dimensional pop-up diorama of the subject’s world\n- right page: model sheet, expressions, accessories, palette, material swatches\n- fill the world with small props, creatures, signs, tools, plants, and narrative fragments inferred from $ SUBJECT\n\nMATERIAL_FUSION:\n- character and props rendered as soft matte clay / vinyl / miniature sculpture\n- pages rendered as warm aged paper with printed labels and tiny diagrams\n- small details rendered with storybook illustration charm\n- environmental pieces built as handcrafted diorama objects\n\nCOLOR_RULES:\n- warm parchment base\n- cozy saturated accents\n- teal, ochre, coral, forest green, cream, clay brown, soft blue\n- avoid harsh neon or photorealistic material\n\nOUTPUT:\nA premium open-book character encyclopedia diorama for $ SUBJECT, combining toy design, storybook lore, miniature worldbuilding, and model-sheet clarity.}"
+    },
+    "sourceLink": "https://x.com/Gdgtify/status/2076749503290351717",
+    "sourcePublishedAt": "2026-07-13T19:24:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM022LJXwAABIO2.jpg"
+    ],
+    "author": {
+      "name": "Gadgetify",
+      "link": "https://x.com/Gdgtify"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 11,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076749503290351717",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 4,
+      "bookmarkCount": 5,
+      "viewCount": 299,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 12,
+    "model": "nano-banana",
+    "title": {
+      "en": "Character Turnaround Sheet for a Rugged Hero"
+    },
+    "description": {
+      "en": "A compact cinematic character sheet showing one rugged figure from the front, side, and back."
+    },
+    "content": {
+      "en": "Character reference sheet- rugged Indian man, intense expression, wavy hair, thick beard, maroon striped shirt, black jeans — front view, profile view, back view, cinematic realism."
+    },
+    "sourceLink": "https://x.com/GowthamCinemas/status/2029505882984501485",
+    "sourcePublishedAt": "2026-03-05T10:34:43.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HCpAukXbwAAfxDK.jpg"
+    ],
+    "author": {
+      "name": "Gowtham",
+      "link": "https://x.com/GowthamCinemas"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 12,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2029505882984501485",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 250,
+      "bookmarkCount": 78,
+      "viewCount": 10449,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 13,
+    "model": "nano-banana",
+    "title": {
+      "en": "Photorealistic Futuristic Mecha"
+    },
+    "description": {
+      "en": "A reusable style recipe for transforming creatures or machines into metallic, cinematic mecha designs."
+    },
+    "content": {
+      "en": "Theme: Futuristic Mecha Design with Photorealistic Details Color Image: Metallic shades of gunmetal gray and steel, with glowing red or neon accents Color Pallet: Main color: #4B4E50 Sub color: #A3A5A8, #2E2F31, #FF3B30 Accent color: #FF0000, #1E1E1E Camera Settings: Close-up or dynamic low-angle shots, slight depth of field for dramatic focus, high contrast with sharp details Film Stock/Analog Settings: High-resolution digital photography with post-apocalyptic grading Lighting: Dramatic, high contrast lighting with a mix of cool and warm tones, occasional backlighting or side-lighting for a cinematic feel Vibe: Intense, futuristic, action-packed, and slightly dystopian Content Transformation (Optional): Converts organic animals or creatures into hyper-realistic mechanical designs Font Setting(Optional): Main: Orbitron 18px, Sub: Roboto 14px Additional Effects: Motion blur, dust and particle effects for action scenes, subtle reflections on metallic surfaces"
+    },
+    "sourceLink": "https://x.com/getkomusen/status/2049059361557746159",
+    "sourcePublishedAt": "2026-04-28T09:33:16.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HG-4lhZasAA35Gb.jpg"
+    ],
+    "author": {
+      "name": "四季橘/Shikikitsu@AIイラストとTRPG(希望)",
+      "link": "https://x.com/getkomusen"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 13,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2049059361557746159",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 4,
+      "bookmarkCount": 0,
+      "viewCount": 362,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 14,
+    "model": "nano-banana",
+    "title": {
+      "en": "Luxury Cruise Ship Technical Infographic"
+    },
+    "description": {
+      "en": "Present a fictional cruise ship through deck cutaways, specifications, interior highlights, and performance gauges."
+    },
+    "content": {
+      "en": "An ultra-detailed, vertical infographic poster for a fictional luxury cruise ship named \"Titan of the Seas.\" The central focus is a massive, multi-deck ship rendered in a sophisticated deep red and gold color scheme. The layout features various data visualization elements, including technical specification tables, deck plan cutaways, interior highlight photos, and performance gauges. The aesthetic is clean and editorial, utilizing a soft cream background with professional typography to create a high-luxury informational moodboard."
+    },
+    "sourceLink": "https://x.com/Minahil42298354/status/2052972122432016547",
+    "sourcePublishedAt": "2026-05-09T04:41:11.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HH2fQ-KWIAMnfi9.jpg"
+    ],
+    "author": {
+      "name": "Minahil",
+      "link": "https://x.com/Minahil42298354"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 14,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2052972122432016547",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 115,
+      "bookmarkCount": 38,
+      "viewCount": 2897,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 15,
+    "model": "nano-banana",
+    "title": {
+      "en": "Illustrated Travel Maps with Cultural Callouts"
+    },
+    "description": {
+      "en": "Build richly labeled country maps from miniature landmarks, local food, wildlife, statistics, and bilingual captions."
+    },
+    "content": {
+      "en": "Two vertical, highly detailed, illustrated travel infographic maps showcasing Japan and Russia. Each poster features a stylized, colorful 3D-rendered country map surrounded by deep blue seas, populated with miniature cultural landmarks, regional food items, and local wildlife connected to specific city labels. The top of each poster displays a bold, artistic title banner with the country's name, localized slogans, and cultural border motifs like cherry blossoms or traditional patterns. The bottom sections include key demographic statistics alongside a row of circular vignette photos highlighting local architecture, cuisine, and scenery, all tied together by a descriptive quote translated into both the native language and English."
+    },
+    "sourceLink": "https://x.com/Minahil42298354/status/2056672835125284972",
+    "sourcePublishedAt": "2026-05-19T09:46:29.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HIrFCDWXsAAl99J.jpg",
+      "https://pbs.twimg.com/media/HIrFCAjW0AIZGnN.jpg"
+    ],
+    "author": {
+      "name": "Minahil",
+      "link": "https://x.com/Minahil42298354"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 15,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2056672835125284972",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 63,
+      "bookmarkCount": 14,
+      "viewCount": 2117,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 16,
+    "model": "nano-banana",
+    "title": {
+      "en": "Technical Outerwear Specification Sheet"
+    },
+    "description": {
+      "en": "Lay out a complete menswear design sheet with garment angles, material close-ups, modular accessories, and technical specifications."
+    },
+    "content": {
+      "en": "An AMZ Collection fashion design spec sheet and product layout presented as a tall, vertical infographic for men's technical outerwear. On the left side, a full-body shot features a 32-year-old male model with a short beard and a faded haircut, wearing a rugged, multi-pocketed utility jacket and matching cargo pants in deep olive green and slate grey with bright orange accents. The top of the sheet prominently displays the title \"AMZLECTION - URBAN FRONTIER SERIES\" and \"AERO SHELL PARKA SYSTEM\" in a bold, clean sans-serif typeface, accompanied by a bio detailing his occupation as a systems engineer and urban explorer. The right side features a technical \"Articulation & Layer Study\" breakdown showing multiple back and front silhouette angles detailing the zip-in system, articulated sleeves, and hood stowage. The center section provides macro close-up macro shots highlighting the technical textures, including ripstop tech fabric, a seal-zip closure, and a grip-liner sleeve cuff. Below, a \"Modular Styling\" column showcases alternative ways to style the garment, such as a full protection system or a light urban shell. The bottom of the layout features grid sections labeled \"Modular Add-Ons\" displaying accessories like a utility belt, touchscreen-compatible tech gloves, an EDC multi-tool, and a headlamp. Adjacent to this is an \"Urban Palette & Mats\" swatch color bar showing slate grey, olive green, night black, blaze orange, and technical ivory, followed by a comprehensive \"Technical Specifications\" block outlining the fabric, insulation, closures, pockets, and features of the high-performance gear."
+    },
+    "sourceLink": "https://x.com/Minahil42298354/status/2059570046972670409",
+    "sourcePublishedAt": "2026-05-27T09:38:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HJUQCtgWcAQ8xE1.jpg"
+    ],
+    "author": {
+      "name": "Minahil",
+      "link": "https://x.com/Minahil42298354"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 16,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2059570046972670409",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 35,
+      "bookmarkCount": 10,
+      "viewCount": 1224,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 17,
+    "model": "nano-banana",
+    "title": {
+      "en": "Four-Panel Engineering Cutaway Board"
+    },
+    "description": {
+      "en": "Compare four consumer devices in a precise grid using exploded assemblies, transparent cutaways, measurements, and engineering callouts."
+    },
+    "content": {
+      "en": "Ultra-detailed technical engineering infographic, clean white background, divided into a precise 2×2 grid by sharp black separator lines. Blueprint-style industrial design visualization featuring photorealistic 3D renders, transparent cutaways, exploded views, dimensional annotations, technical callout boxes, measurement guides, and color-coded engineering arrows (red, blue, green, orange). Professional product design presentation, Apple-style industrial design documentation, high-end technical illustration.\n\nTOP LEFT: Modern smartphone shown in angled perspective with display removed, exposing densely packed internal components. Visible L-shaped battery, advanced logic board, processor chip, camera module, Face ID sensors, Taptic Engine, thermal pathways, ribbon cables, screws, connectors, and cooling architecture. Precise engineering labels and dimension lines surrounding components.\n\nTOP RIGHT: Professional mirrorless camera with large zoom lens. Longitudinal cutaway through lens assembly revealing multiple glass elements, optical groups, aperture mechanism, image sensor, shutter system, electronic components, and viewfinder structure. Additional exploded sub-diagram illustrating aperture blade construction and assembly sequence. Detailed optical engineering annotations.\n\nBOTTOM LEFT: Premium wireless earbud charging case displayed partially transparent and split open. One earbud seated inside, second earbud floating above in exploded-view configuration. Internal lithium-polymer battery, miniature logic board, charging contacts, wiring channels, magnets, and compact electronic architecture clearly visible through transparent shell. Technical callouts and component identification markers.\n\nBOTTOM RIGHT: Modern mechanical keyboard with charcoal-gray keycaps and single red accent key. Horizontal transparent cutaway sections exposing mechanical switches, switch housings, springs, stabilizers, PCB circuitry, LEDs, and internal frame structure. Lower margin includes enlarged switch cross-section diagram and geometric PCB schematic blueprint. Engineering measurements and component annotations throughout.\n\nHighly detailed CAD visualization, industrial design presentation board, precision engineering drawing, exploded assembly diagrams, transparent materials, photorealistic rendering, ultra-sharp focus, clean typography, scientific infographic aesthetics, professional product teardown documentation, white paper style, 8K resolution, museum-quality technical illustration, symmetrical layout, exceptional clarity."
+    },
+    "sourceLink": "https://x.com/luciaverseai/status/2062938095109255382",
+    "sourcePublishedAt": "2026-06-05T16:42:24.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HKEHL3YbsAAFhpN.jpg"
+    ],
+    "author": {
+      "name": "⁠ luciaAI",
+      "link": "https://x.com/luciaverseai"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 17,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2062938095109255382",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 40,
+      "bookmarkCount": 14,
+      "viewCount": 1868,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 18,
+    "model": "nano-banana",
+    "title": {
+      "en": "Eight-Panel Anime Friendship Storyboard"
+    },
+    "description": {
+      "en": "An emotionally paced storyboard brief with shot direction for a silent child finding friendship after losing a paper windmill."
+    },
+    "content": {
+      "en": "STORY\n\nPanel 1\n\nWarm cloudy evening after light rain.\n\nA small neighborhood park glows under golden sunset light.\n\nChildren are laughing and playing together.\n\nIn the distance, the long-haired girl sits alone on a swing.\n\nThe empty swing beside her slowly moves in the wind.\n\nCamera note:\nWide establishing shot.\n\n⸻\n\nPanel 2\n\nClose-up.\n\nThe girl watches the other children from afar while quietly spinning her handmade paper windmill.\n\nA faint sad smile appears.\n\nCamera note:\nSlow push-in.\n\n⸻\n\nPanel 3\n\nA sudden gust of wind lifts the paper windmill from her hands.\n\nIt flies across the park.\n\nThe girl stands and runs after it.\n\nCamera note:\nTracking shot.\n\n⸻\n\nPanel 4\n\nThe windmill lands near a group of children playing.\n\nThe girl hesitates and freezes.\n\nShe is too shy to approach them.\n\nFrom her perspective the group feels intimidating and distant.\n\nCamera note:\nLow-angle emotional POV.\n\n⸻\n\nPanel 5\n\nOne of the children notices the windmill.\n\nInstead of simply returning it, the group carefully repairs a torn corner and decorates it with colorful drawings and messages.\n\nThe girl watches in surprise.\n\nCamera note:\nMedium emotional shot.\n\n⸻\n\nPanel 6\n\nThe kindest child walks toward her with a warm smile and gently offers the windmill back.\n\nThe group invites her to join them.\n\nCamera note:\nSoft close-up.\n\n⸻\n\nPanel 7\n\nThe girl’s eyes fill with tears.\n\nFor the first time she smiles openly.\n\nShe runs toward the group while clutching the repaired windmill.\n\nCamera note:\nDynamic running shot with sunset backlight.\n\n⸻\n\nPanel 8\n\nFinal emotional wide shot.\n\nThe girl and her new friends laugh together beneath glowing sunset clouds.\n\nThe once-empty swing gently moves in the background.\n\nThe repaired windmill spins in the warm evening breeze.\n\nMood:\nBittersweet, heartwarming, unforgettable.\n\nCamera note:\nLarge cinematic ending frame.\n\nFINAL GOAL\n\nCreate a breathtaking premium anime film development board that tells a deeply emotional story about loneliness, kindness, and finding friendship.\n\nThe artwork should feel like a lost masterpiece from a classic theatrical anime studio, with stunning painted backgrounds, expressive character acting, emotional visual storytelling, and a touching ending that leaves a lasting emotional impact."
+    },
+    "sourceLink": "https://x.com/codewithhajra/status/2067971258134745321",
+    "sourcePublishedAt": "2026-06-19T14:02:23.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HLLo2ekWEAASktJ.jpg",
+      "https://pbs.twimg.com/amplify_video_thumb/2067971201561989120/img/HGb-fSrVr8UrbrJi.jpg"
+    ],
+    "author": {
+      "name": "H A J R A",
+      "link": "https://x.com/codewithhajra"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 18,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2067971258134745321",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 68,
+      "bookmarkCount": 21,
+      "viewCount": 5600,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 19,
+    "model": "nano-banana",
+    "title": {
+      "en": "1990s Indie Bedroom Portrait"
+    },
+    "description": {
+      "en": "Recreate a candid lo-fi bedroom portrait with direct flash, collage-covered walls, film grain, and nostalgic indie styling."
+    },
+    "content": {
+      "en": "A candid 1990s-inspired indie bedroom portrait of a young woman sitting cross-legged on a worn vintage patterned couch. She has short messy dark hair, natural makeup, soft skin texture, and a thoughtful, distant expression while looking slightly off-camera. She wears an oversized faded pastel pink Nirvana band T-shirt, blue denim shorts, and retro white tube socks with red and blue stripes.\nThe room is decorated with a collage-covered wall filled with music magazine clippings, cassette tape advertisements, Polaroid photos, handwritten notes, concert memorabilia, and alternative rock posters, creating a nostalgic DIY bedroom aesthetic. Soft direct flash photography illuminates the scene, producing subtle shadows, realistic skin details, and authentic film-camera imperfections.\nShot on 35mm film with a disposable camera look, featuring visible film grain, dust particles, slight color fading, muted vintage tones, and a purple-tinted photo frame border. Cozy indie-rock atmosphere, early 2000s Tumblr aesthetic, authentic lo-fi documentary style, casual home environment, highly detailed, realistic candid photography, nostalgic youth culture mood, vertical composition, editorial lifestyle portrait.\nKeywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassette culture, film photography, disposable camera flash, nostalgic youth, vintage magazines, alternative music scene, lo-fi portrait, authentic candid moment, 35mm grain, cozy vintage interior."
+    },
+    "sourceLink": "https://x.com/jzaib4269/status/2068691563522458015",
+    "sourcePublishedAt": "2026-06-21T13:44:37.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HLV3_jxboAAadnf.jpg",
+      "https://pbs.twimg.com/media/HLV3_pxbkAA_BSc.jpg"
+    ],
+    "author": {
+      "name": "Jahan Zaib",
+      "link": "https://x.com/jzaib4269"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 19,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2068691563522458015",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 72,
+      "bookmarkCount": 28,
+      "viewCount": 3212,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 20,
+    "model": "nano-banana",
+    "title": {
+      "en": "Golden-Hour Mountain Meadow"
+    },
+    "description": {
+      "en": "A structured landscape brief for a winding path, wildflower meadow, solitary tree, distant wildlife, and glowing mountain range."
+    },
+    "content": {
+      "en": "\"subject\": \"A serene landscape transformation of a mountain scene\",\n    \"setting\": \"A scenic meadow at golden hour with a dirt walking path leading toward a majestic mountain range\",\n    \"visual_elements\": {\n      \"foreground\": [\n        \"A winding, narrow dirt path leading into the distance\",\n        \"Lush tall grass and vibrant wildflowers including purple lupines and red poppies\",\n        \"Scattered natural rocks and stones along the path edges\"\n      ],\n      \"midground\": [\n        \"A prominent, old gnarled tree with bare, twisted branches standing alone in the field\",\n        \"Gentle, rolling meadow slopes\",\n        \"Small wild animals, likely deer, grazing in the distance\"\n      ],\n      \"background\": [\n        \"Towering, jagged mountain peaks illuminated by the warm, amber glow of the setting sun\",\n        \"Dense forest covering the lower slopes of the mountains\"\n      ],\n      \"atmosphere\": {\n        \"lighting\": \"Warm, dramatic golden hour sunset, soft side-lighting, long shadows\",\n        \"sky\": \"Painterly clouds with hues of orange, gold, and soft violet\",\n        \"mood\": \"Tranquil, magical, ethereal, peaceful\"\n      }\n    },\n    \"technical_specifications\": {\n      \"resolution\": \"4k\",\n      \"style\": \"Photorealistic, cinematic, high detail, sharp focus\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}"
+    },
+    "sourceLink": "https://x.com/nxnusratul/status/2070499219476230359",
+    "sourcePublishedAt": "2026-06-26T13:27:36.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HLvkD0RbgAAWXzv.jpg"
+    ],
+    "author": {
+      "name": "NUSRAT",
+      "link": "https://x.com/nxnusratul"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 20,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Environments, Architecture & Worldbuilding",
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2070499219476230359",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 26,
+      "bookmarkCount": 3,
+      "viewCount": 531,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 21,
+    "model": "nano-banana",
+    "title": {
+      "en": "Surreal Giantess in Venice"
+    },
+    "description": {
+      "en": "Stage a playful forced-perspective travel photograph in which a giant figure sits among the landmarks of St. Mark's Square."
+    },
+    "content": {
+      "en": "Create a surreal giantess travel photography scene featuring a beautiful young woman wearing a white embroidered summer dress, white crew socks, and white sneakers. She is sitting gracefully among the iconic architecture of St. Mark's Square, Venice, Italy, appearing hundreds of feet tall, with one leg crossed over the other and her hands resting behind her for support. She smiles peacefully with her eyes closed, enjoying the warm sunshine and gentle breeze. Below her, crowds of tourists gather, taking photos and looking up in amazement, emphasizing her enormous scale. Capture the famous bell tower and basilica in the background under a bright blue sky with soft clouds. Use realistic forced perspective, natural daylight, cinematic travel photography, ultra-detailed skin and fabric textures, photorealistic architecture, vibrant colors, editorial travel magazine style, 8K, HDR, vertical 9: 16 composition, no text, no logos, no watermarks, no UI elements."
+    },
+    "sourceLink": "https://x.com/AIwithkhan/status/2071930341552701579",
+    "sourcePublishedAt": "2026-06-30T12:14:22.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMD5qkpXIAAEnOO.jpg"
+    ],
+    "author": {
+      "name": "Smiling Khan",
+      "link": "https://x.com/AIwithkhan"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 21,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Environments, Architecture & Worldbuilding",
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2071930341552701579",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 101,
+      "bookmarkCount": 45,
+      "viewCount": 7051,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 22,
+    "model": "nano-banana",
+    "title": {
+      "en": "Doodle-Layer Mirror Selfie"
+    },
+    "description": {
+      "en": "Place a referenced character in a bright bedroom mirror selfie, then layer handwritten notes, playful icons, and a glowing outline over the photograph."
+    },
+    "content": {
+      "en": "Using the attached character reference, create an ultra-realistic full-body mirror selfie in a bright, minimalist bedroom with large white wardrobe doors, light wooden flooring, and a neatly made bed. The woman wears a casual oversized red cardigan over a graphic white T-shirt, loose light-wash baggy jeans, red socks, and a trendy crossbody bag. She holds her smartphone in front of her face while posing confidently with one hand in her pocket.\n\nDecorate the mirror with playful hand-drawn doodles and handwritten notes in a scrapbook style. Include a glowing white outline tracing around her body, a small golden crown above her head, smiling sun doodle, stars, hearts, sparkles, flowers, arrows, clouds, and a cute sleeping cat illustration resting on the bed. Add colorful handwritten captions such as \"Good vibes ❤️\", \"Today is a good day\", \"Main character energy\", \"Oops... too cool today\", \"Messy hair, don't care\", and \"Supervisor of fits\" in a casual marker handwriting style with black text, red hearts, yellow highlights, and blue accent strokes.\n\nCreate a cheerful Gen Z aesthetic with bright natural lighting, soft shadows, clean interior design, vibrant doodle elements, lifestyle influencer vibe, cozy bedroom atmosphere, playful visual storytelling, ultra-realistic photography mixed with hand-drawn illustrations, Instagram/TikTok aesthetic, highly detailed, 8K, magazine-quality composition."
+    },
+    "sourceLink": "https://x.com/AIwithkhan/status/2073778025649541492",
+    "sourcePublishedAt": "2026-07-05T14:36:24.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMeKH7ibMAAmCHU.jpg"
+    ],
+    "author": {
+      "name": "Smiling Khan",
+      "link": "https://x.com/AIwithkhan"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 22,
+    "needReferenceImages": true,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2073778025649541492",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 89,
+      "bookmarkCount": 35,
+      "viewCount": 6930,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 23,
+    "model": "nano-banana",
+    "title": {
+      "en": "Reference Photo to Collectible Figurine"
+    },
+    "description": {
+      "en": "Turn an uploaded character photo into a realistic desk-scale collectible with its modeling screen, acrylic base, and illustrated packaging."
+    },
+    "content": {
+      "en": "Create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations."
+    },
+    "sourceLink": "https://x.com/GeminiApp/status/1962647019090256101",
+    "sourcePublishedAt": "2025-09-01T22:41:28.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/Gzy4V72WwAA7PRR.jpg",
+      "https://pbs.twimg.com/media/Gzy4d2ka0AAtnQV.jpg",
+      "https://pbs.twimg.com/media/Gzy4h2qXUAA3FA5.jpg",
+      "https://pbs.twimg.com/media/Gzy4oMyWwAAmyWW.jpg"
+    ],
+    "author": {
+      "name": "Google Gemini",
+      "link": "https://x.com/GeminiApp"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 23,
+    "needReferenceImages": true,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1962647019090256101",
+      "prompt_tweet_id": "1962647022068187208",
+      "prompt_source": "thread_reply_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 6420,
+      "bookmarkCount": 5733,
+      "viewCount": 2716241,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 24,
+    "model": "nano-banana",
+    "title": {
+      "en": "Object Dissolving into LEGO Bricks"
+    },
+    "description": {
+      "en": "Freeze an everyday object halfway through a tactile transformation into floating LEGO bricks while preserving its original colors and textures."
+    },
+    "content": {
+      "en": "Minimalist food photograph, [1080x1080] – a single [OBJECT] rests on a light, matte surface and is captured mid-transformation into a lego bricks 3D form: one half remains intact while the other organically fragments into large, floating lego bricks that drift outward, each brick revealing the object’s texture, ingredients, and colors. Studio lighting with soft, realistic shadows, shallow depth of field, tasteful perspective and composition, hyperrealistic detail, stylish geometric abstraction, high resolution, cinematic close-up"
+    },
+    "sourceLink": "https://x.com/AmirMushich/status/1969076111628734881",
+    "sourcePublishedAt": "2025-09-19T16:28:23.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G1OQSQTW0AcNWdd.jpg"
+    ],
+    "author": {
+      "name": "AmirMušić",
+      "link": "https://x.com/AmirMushich"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 24,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1969076111628734881",
+      "prompt_tweet_id": "1969076117408501917",
+      "prompt_source": "thread_reply_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 1274,
+      "bookmarkCount": 1305,
+      "viewCount": 96103,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 25,
+    "model": "nano-banana",
+    "title": {
+      "en": "Top-Down Editorial Product Photograph"
+    },
+    "description": {
+      "en": "Build a reusable overhead product scene with natural sunlight, controlled negative space, and optional supporting elements."
+    },
+    "content": {
+      "en": "A high-end editorial photo of a [IMAGE UPLOADED] placed flat on a [YOUR SURFACE], captured from a direct top-down view. The surface is gently disturbed to suggest recent motion or interaction. The front of the product is fully visible and properly oriented upright. The area around the product is intentionally left open to optionally place [YOUR ELEMENTS] that visually enhance the scene. Natural sunlight from the upper left casts warm, realistic shadows. 3D realism, luxury product photography, shallow depth of field, 1:1 format."
+    },
+    "sourceLink": "https://x.com/Kerroudjm/status/1971586126248133068",
+    "sourcePublishedAt": "2025-09-26T14:42:17.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G1x51QZWEAAvZ9-.jpg"
+    ],
+    "author": {
+      "name": "Mo",
+      "link": "https://x.com/Kerroudjm"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 25,
+    "needReferenceImages": true,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1971586126248133068",
+      "prompt_source": "alt_text_prompt",
+      "model_evidence": "nano-banana",
+      "likeCount": 1386,
+      "bookmarkCount": 1974,
+      "viewCount": 143909,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 26,
+    "model": "nano-banana",
+    "title": {
+      "en": "Dark Chrome Logo in a White Void"
+    },
+    "description": {
+      "en": "Render an exact brand mark as a heavy polished-metal object with micro-scratches, edge bloom, shallow focus, and visible film grain."
+    },
+    "content": {
+      "en": "BRAND NAME], the official trademark logo rendered strictly as a solid 3D object, maintaining the exact original vector shape and proportions without any artistic reinterpretation or distortion. The logo is crafted from dark, highly polished chrome metal with subtle surface micro-scratches and imperfections that break the mirror finish. The object is perfectly centered in a vast, infinite pure white void with no visible background elements or studio equipment. The lighting creates a soft, cinematic bloom (halo effect) along the metallic edges. 50mm lens aesthetic with a shallow depth of field gently blurring the furthest points of the object. A pronounced, visible film grain overlay is applied to the entire image."
+    },
+    "sourceLink": "https://x.com/AmirMushich/status/2000614012422136108",
+    "sourcePublishedAt": "2025-12-15T17:08:44.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G8OagDzXAAEjhzO.jpg"
+    ],
+    "author": {
+      "name": "AmirMušić",
+      "link": "https://x.com/AmirMushich"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 26,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2000614012422136108",
+      "prompt_tweet_id": "2000614017942143074",
+      "prompt_source": "thread_reply_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 2359,
+      "bookmarkCount": 2642,
+      "viewCount": 126274,
+      "collected_at": "2026-07-14"
+    }
+  },
+  {
+    "id": 27,
+    "model": "nano-banana",
+    "title": {
+      "en": "Notion-Style Monochrome Avatar"
+    },
+    "description": {
+      "en": "Create a personable black-and-white vector portrait using confident monoline contours and selective solid fills instead of generic icon geometry."
+    },
+    "content": {
+      "en": "A minimalist, black-and-white flat vector illustration portrait of [NAME], rendered in the expressive \"Notion avatar\" art style.\nLINE WORK & VIBE:\nStyle: Use THICK, UNIFORM black outlines (monoline weight). The lines should feel organic, smooth, and confident, not rigidly geometric or robotic like generic icons.\nVibe: The character should have a distinct personality and a relaxed, cool, or friendly expression. Focus on stylized features, unique hairstyles, and defining accessories to convey character.\nSELECTIVE BLACK FILLS (CRITICAL):\nUnlike pure outline icons, utilize Solid Black Fills selectively and strategically.\nWhere to Fill: Use solid black for prominent hair masses, beards, eyebrows, sunglasses, or dark clothing elements.\nWhere to Keep White: The skin, main face area, and lighter elements must remain pure flat white inside the thick outlines.\nCOMPOSITION & TECHNICAL:\nNo shading, no gray tones, no gradients. Only pure Black and pure White.\nClean bust or headshot composition centered on a white background.\nHigh contrast, clean 2D vector graphics."
+    },
+    "sourceLink": "https://x.com/AmirMushich/status/2014418990018261493",
+    "sourcePublishedAt": "2026-01-22T19:24:47.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/G_SnZVIWkAAoaF9.jpg"
+    ],
+    "author": {
+      "name": "AmirMušić",
+      "link": "https://x.com/AmirMushich"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 27,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2014418990018261493",
+      "prompt_tweet_id": "2014418991674994859",
+      "prompt_source": "thread_reply_prompt_normalized",
+      "model_evidence": "nano-banana",
+      "likeCount": 883,
+      "bookmarkCount": 976,
+      "viewCount": 84246,
+      "collected_at": "2026-07-14"
+    }
+  }
+]
