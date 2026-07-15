@@ -98,7 +98,7 @@ As variáveis tornam um prompt documentado reutilizável sem obrigar a reescreve
 |--------|-------|
 | Total de prompts | **29** |
 | Destaque | **9** |
-| Última atualização | **quarta-feira, 15 de julho de 2026 às 14:24:13 UTC** |
+| Última atualização | **quarta-feira, 15 de julho de 2026 às 14:25:43 UTC** |
 
 </div>
 
@@ -1611,6 +1611,6 @@ Disponibilizado sob a licença [CC BY 4.0](https://creativecommons.org/licenses/
 **[Enviar prompt](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma Star ao repositório](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>README gerado automaticamente. Última atualização: 2026-07-15T14:24:13.486Z</sub>
+<sub>README gerado automaticamente. Última atualização: 2026-07-15T14:25:43.467Z</sub>
 
 </div>
