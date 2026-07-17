@@ -1329,5 +1329,101 @@
       "model_evidence": "nano-banana",
       "collected_at": "2026-07-15"
     }
+  },
+  {
+    "id": 30,
+    "model": "nano-banana",
+    "title": {
+      "en": "Luxury basketball editorial triptych"
+    },
+    "description": {
+      "en": "Build a three-panel basketball campaign from confident athlete poses, reflective hardwood, deep crimson staging, and tightly directed motivational typography."
+    },
+    "content": {
+      "en": "Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “THINK BETTER”, clean luxury sports branding, intense confident poses.\n\nTop panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.\n\nBottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.\n\nBottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.\n\nColor palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic."
+    },
+    "sourceLink": "https://x.com/AIwithkhan/status/2077390591777022413",
+    "sourcePublishedAt": "2026-07-15T13:51:27.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNRfurkakAAdwMv.jpg"
+    ],
+    "author": {
+      "name": "Smiling Khan",
+      "link": "https://x.com/AIwithkhan"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 30,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077390591777022413",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 4,
+      "replyCount": 44,
+      "likeCount": 83,
+      "quoteCount": 0,
+      "viewCount": 4665,
+      "bookmarkCount": 20,
+      "model_evidence": "nano-banana",
+      "collected_at": "2026-07-17"
+    }
+  },
+  {
+    "id": 31,
+    "model": "nano-banana",
+    "title": {
+      "en": "Rembrandt-lit monochrome fashion portrait"
+    },
+    "description": {
+      "en": "Direct an introspective black-and-white studio portrait with sculpted Rembrandt light, controlled film grain, and a restrained luxury-editorial finish."
+    },
+    "content": {
+      "en": "A cinematic black-and-white fine art portrait of a handsome young man with medium-length dark hair swept to the side, a few loose strands falling over his forehead, and a neatly trimmed beard. He wears a black textured knit sweater. His head is slightly tilted downward with an introspective, serious expression, looking off-camera. Dramatic Rembrandt lighting from the left creates deep shadows and high contrast, emphasizing facial structure. Dark seamless background fading into black, shallow depth of field, ultra-realistic skin texture, sharp focus on the eyes, soft falloff, moody atmosphere, editorial fashion photography, Leica SL2, 85mm lens, f/1.4, monochrome, film grain, fine art, luxury magazine cover quality, photorealistic, 8K."
+    },
+    "sourceLink": "https://x.com/iamsofiaijaz/status/2077233281729536050",
+    "sourcePublishedAt": "2026-07-15T03:26:22.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNPQqFIa0AAGQpe.jpg"
+    ],
+    "author": {
+      "name": "Aijaz",
+      "link": "https://x.com/iamsofiaijaz"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 31,
+    "needReferenceImages": false,
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077233281729536050",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 7,
+      "replyCount": 30,
+      "likeCount": 94,
+      "quoteCount": 1,
+      "viewCount": 2947,
+      "bookmarkCount": 53,
+      "model_evidence": "nano-banana",
+      "collected_at": "2026-07-17"
+    }
   }
 ]

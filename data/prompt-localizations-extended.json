@@ -28,7 +28,9 @@
     "26": { "title": "Logo in cromo scuro nel vuoto bianco", "description": "Rende il marchio come metallo pesante lucidato, con micrograffi, bagliore sui bordi, profondità ridotta e grana fotografica." },
     "27": { "title": "Avatar monocromatico in stile Notion", "description": "Crea un ritratto vettoriale personale con linee uniformi sicure e campiture nere selettive, evitando l’aspetto da icona generica." },
     "28": { "title": "Trasformazione ricamata fedele all’immagine di riferimento", "description": "Trasforma una foto caricata in un ricamo materico di qualità museale, mantenendo composizione, identità, posa e un piccolo confronto prima-dopo." },
-    "29": { "title": "Ritratto a mosaico geometrico in stile blueprint", "description": "Costruisci un ritratto contemporaneo con frammenti poligonali a incastro, linee tecniche di costruzione e campiture moderniste decise." }
+    "29": { "title": "Ritratto a mosaico geometrico in stile blueprint", "description": "Costruisci un ritratto contemporaneo con frammenti poligonali a incastro, linee tecniche di costruzione e campiture moderniste decise." },
+    "30": { "title": "Trittico editoriale di basket di lusso", "description": "Costruisci una campagna in tre pannelli con pose sicure, parquet riflettente, scena cremisi e tipografia motivazionale guidata con precisione." },
+    "31": { "title": "Ritratto fashion monocromatico con luce Rembrandt", "description": "Dirigi un ritratto introspettivo in bianco e nero con luce Rembrandt scultorea, grana controllata e finitura editoriale di lusso." }
   },
   "pt-PT": {
     "1": { "title": "Logótipo geométrico suíço em relevo", "description": "Transforma uma marca num relevo monocromático centrado, com contorno de vidro líquido e espaço negativo de inspiração suíça." },
@@ -59,7 +61,9 @@
     "26": { "title": "Logótipo em cromo escuro num vazio branco", "description": "Representa a marca como metal polido e pesado, com microrriscos, brilho nas arestas, pouca profundidade de campo e grão." },
     "27": { "title": "Avatar monocromático ao estilo Notion", "description": "Cria um retrato vetorial com personalidade através de linhas uniformes e preenchimentos pretos seletivos, sem aspeto de ícone genérico." },
     "28": { "title": "Transformação em bordado que preserva a referência", "description": "Transforme uma fotografia carregada num bordado tátil de qualidade museológica, mantendo a composição, as identidades, a pose e uma pequena comparação antes e depois." },
-    "29": { "title": "Retrato em mosaico geométrico com estética de planta técnica", "description": "Construa um retrato contemporâneo com fragmentos poligonais interligados, linhas técnicas de construção e campos de cor modernistas marcantes." }
+    "29": { "title": "Retrato em mosaico geométrico com estética de planta técnica", "description": "Construa um retrato contemporâneo com fragmentos poligonais interligados, linhas técnicas de construção e campos de cor modernistas marcantes." },
+    "30": { "title": "Tríptico editorial de basquetebol de luxo", "description": "Constrói uma campanha em três painéis com poses confiantes, piso refletor, cenário carmesim e tipografia motivacional cuidadosamente dirigida." },
+    "31": { "title": "Retrato de moda monocromático com luz Rembrandt", "description": "Orienta um retrato introspectivo a preto e branco com luz Rembrandt escultórica, grão controlado e acabamento editorial de luxo." }
   },
   "tr-TR": {
     "1": { "title": "İsviçre geometrisinde kabartma logo", "description": "Markayı sıvı cam kenarlı, ölçülü boşluk kullanan ve ortalanmış tek renkli bir kabartmaya dönüştürür." },
@@ -90,7 +94,9 @@
     "26": { "title": "Beyaz boşlukta koyu krom logo", "description": "Kesin marka biçimini mikro çizikler, kenar parlaması, sığ alan derinliği ve grenle ağır cilalı metal olarak işler." },
     "27": { "title": "Notion tarzı tek renk avatar", "description": "Kendinden emin tek kalınlıkta çizgiler ve seçici siyah dolgularla sıradan ikon görünümünden uzak kişilikli bir vektör portre oluşturur." },
     "28": { "title": "Referansı koruyan nakış dokusu dönüşümü", "description": "Yüklenen fotoğrafı; kompozisyonu, kimlikleri, pozu ve küçük bir önce-sonra görselini koruyarak dokunsal, müze kalitesinde bir nakış eserine dönüştürün." },
-    "29": { "title": "Geometrik mozaik plan estetiğinde portre", "description": "Birbirine geçen çokgen parçaları, teknik yapı çizgileri ve cesur modernist renk alanlarıyla çağdaş bir portre oluşturun." }
+    "29": { "title": "Geometrik mozaik plan estetiğinde portre", "description": "Birbirine geçen çokgen parçaları, teknik yapı çizgileri ve cesur modernist renk alanlarıyla çağdaş bir portre oluşturun." },
+    "30": { "title": "Lüks basketbol editoryal üçlemesi", "description": "Kendinden emin sporcu pozları, yansıtıcı parke, koyu kırmızı sahne ve özenle yönlendirilmiş motivasyon tipografisiyle üç panelli bir kampanya oluşturun." },
+    "31": { "title": "Rembrandt ışıklı monokrom moda portresi", "description": "Heykelsi Rembrandt ışığı, kontrollü film grenleri ve sade lüks editoryal bitişle içe dönük bir siyah-beyaz portre yönetin." }
   },
   "ar-SA": {
     "1": { "title": "شعار هندسي سويسري بارز", "description": "يحوّل العلامة إلى نقش أحادي اللون في المنتصف، بحافة زجاجية سائلة ومساحات بيضاء منضبطة على النهج السويسري." },
@@ -121,7 +127,9 @@
     "26": { "title": "شعار كروم داكن في فراغ أبيض", "description": "يعرض العلامة بدقة كمعدن مصقول ثقيل مع خدوش دقيقة وتوهج حواف وعمق مجال ضحل وحبيبات فيلم." },
     "27": { "title": "صورة رمزية أحادية بأسلوب Notion", "description": "ينشئ بورتريهاً متجهياً ذا شخصية بخطوط موحدة واثقة ومساحات سوداء منتقاة بعيداً عن الأيقونات العامة." },
     "28": { "title": "تحويل الصورة المرجعية إلى تطريز مع الحفاظ على بنيتها", "description": "حوّل الصورة المرفوعة إلى عمل تطريز ملموس بجودة متحفية مع الحفاظ على التكوين والهوية والوضعية وإضافة مقارنة صغيرة قبل التحويل وبعده." },
-    "29": { "title": "بورتريه فسيفسائي هندسي بأسلوب المخططات", "description": "أنشئ بورتريهاً معاصراً من شظايا مضلعة متشابكة وخطوط إنشاء تقنية ومساحات لونية حداثية جريئة." }
+    "29": { "title": "بورتريه فسيفسائي هندسي بأسلوب المخططات", "description": "أنشئ بورتريهاً معاصراً من شظايا مضلعة متشابكة وخطوط إنشاء تقنية ومساحات لونية حداثية جريئة." },
+    "30": { "title": "ثلاثية تحريرية فاخرة لكرة السلة", "description": "أنشئ حملة من ثلاث لوحات بوضعيات واثقة ولاعبات قويات وأرضية عاكسة ومشهد قرمزي وتوجيه دقيق للعبارات التحفيزية." },
+    "31": { "title": "بورتريه أزياء أحادي اللون بإضاءة رامبرانت", "description": "وجّه بورتريه تأمليًا بالأبيض والأسود عبر إضاءة رامبرانت نحتية وحبيبات فيلم منضبطة ولمسة تحريرية فاخرة." }
   },
   "ru-RU": {
     "1": { "title": "Швейцарский геометрический логотип с тиснением", "description": "Превращает знак в центрированный монохромный рельеф с жидким стеклянным кантом и строгими швейцарскими отступами." },
@@ -152,7 +160,9 @@
     "26": { "title": "Тёмный хромированный логотип в белом пространстве", "description": "Рендерит точный знак как тяжёлый полированный металл с микроцарапинами, свечением кромок, малой глубиной резкости и зерном." },
     "27": { "title": "Монохромный аватар в стиле Notion", "description": "Создаёт выразительный векторный портрет уверенными линиями одной толщины и выборочными чёрными заливками." },
     "28": { "title": "Вышивка с сохранением структуры референса", "description": "Преобразуйте загруженную фотографию в фактурную вышивку музейного качества, сохранив композицию, личности, позу и небольшую вставку «до и после»." },
-    "29": { "title": "Геометрический мозаичный портрет в стиле чертежа", "description": "Соберите современный портрет из сцепленных многоугольных фрагментов, технических построений и смелых модернистских цветовых полей." }
+    "29": { "title": "Геометрический мозаичный портрет в стиле чертежа", "description": "Соберите современный портрет из сцепленных многоугольных фрагментов, технических построений и смелых модернистских цветовых полей." },
+    "30": { "title": "Роскошный баскетбольный редакционный триптих", "description": "Соберите кампанию из трёх панелей с уверенными позами спортсменки, отражающим паркетом, тёмно-красной сценой и точно поставленной мотивационной типографикой." },
+    "31": { "title": "Монохромный модный портрет в свете Рембрандта", "description": "Поставьте задумчивый чёрно-белый портрет со скульптурным светом Рембрандта, сдержанным плёночным зерном и журнальной отделкой класса люкс." }
   },
   "nl-NL": {
     "1": { "title": "Zwitsers geometrisch reliëflogo", "description": "Vormt een merkbeeld om tot een gecentreerd monochroom reliëf met een vloeibare glasrand en beheerste Zwitserse witruimte." },
@@ -183,7 +193,9 @@
     "26": { "title": "Donker chromen logo in een witte leegte", "description": "Rendert het exacte merkbeeld als zwaar gepolijst metaal met microkrassen, randgloed, kleine scherptediepte en filmkorrel." },
     "27": { "title": "Monochrome avatar in Notion-stijl", "description": "Maakt een persoonlijk vectorportret met zelfverzekerde monolijnen en selectieve zwarte vlakken, zonder generieke pictogramlook." },
     "28": { "title": "Geborduurde transformatie met behoud van de referentie", "description": "Verander een geüploade foto in tastbaar borduurwerk van museumkwaliteit, met behoud van compositie, identiteiten, pose en een kleine voor-en-naweergave." },
-    "29": { "title": "Geometrisch mozaïekportret in blauwdrukstijl", "description": "Bouw een eigentijds portret uit in elkaar grijpende veelhoekige fragmenten, technische constructielijnen en krachtige modernistische kleurvlakken." }
+    "29": { "title": "Geometrisch mozaïekportret in blauwdrukstijl", "description": "Bouw een eigentijds portret uit in elkaar grijpende veelhoekige fragmenten, technische constructielijnen en krachtige modernistische kleurvlakken." },
+    "30": { "title": "Luxe basketballeditorial als drieluik", "description": "Bouw een campagne in drie panelen met zelfverzekerde poses, een spiegelende sportvloer, een dieprood decor en zorgvuldig geregisseerde motivatietypografie." },
+    "31": { "title": "Monochroom modeportret met Rembrandtlicht", "description": "Regisseer een introspectief zwart-witportret met sculpturaal Rembrandtlicht, beheerste filmkorrel en een ingetogen luxe redactionele afwerking." }
   },
   "pl-PL": {
     "1": { "title": "Szwajcarskie geometryczne logo z tłoczeniem", "description": "Przekształca znak w wyśrodkowany monochromatyczny relief ze szklaną krawędzią i oszczędnym szwajcarskim światłem." },
@@ -214,6 +226,8 @@
     "26": { "title": "Ciemne chromowane logo w białej przestrzeni", "description": "Renderuje dokładny znak jako ciężki polerowany metal z mikrorysami, poświatą krawędzi, małą głębią ostrości i ziarnem." },
     "27": { "title": "Monochromatyczny awatar w stylu Notion", "description": "Tworzy osobisty portret wektorowy pewną linią o stałej grubości i selektywnymi czarnymi wypełnieniami." },
     "28": { "title": "Haftowana transformacja zachowująca układ referencji", "description": "Przekształć przesłane zdjęcie w dotykowe dzieło haftowane o jakości muzealnej, zachowując kompozycję, tożsamość postaci, pozę i małą wstawkę przed i po." },
-    "29": { "title": "Geometryczny portret mozaikowy w stylu projektu technicznego", "description": "Zbuduj współczesny portret z zazębiających się wielokątnych fragmentów, technicznych linii konstrukcyjnych i odważnych modernistycznych pól koloru." }
+    "29": { "title": "Geometryczny portret mozaikowy w stylu projektu technicznego", "description": "Zbuduj współczesny portret z zazębiających się wielokątnych fragmentów, technicznych linii konstrukcyjnych i odważnych modernistycznych pól koloru." },
+    "30": { "title": "Luksusowy koszykarski tryptyk redakcyjny", "description": "Zbuduj trzyczęściową kampanię z pewnymi pozami zawodniczki, odbijającym parkietem, karmazynową scenografią i precyzyjnie prowadzoną typografią motywacyjną." },
+    "31": { "title": "Monochromatyczny portret modowy w świetle Rembrandta", "description": "Wyreżyseruj introspekcyjny czarno-biały portret z rzeźbiarskim światłem Rembrandta, kontrolowanym ziarnem i oszczędnym luksusowym wykończeniem." }
   }
 }

@@ -96,9 +96,9 @@
 
 | 項目 | 数 |
 |--------|-------|
-| プロンプト総数 | **29** |
+| プロンプト総数 | **31** |
 | 注目 | **9** |
-| 最終更新 | **2026年7月17日金曜日 1:48:54 UTC** |
+| 最終更新 | **2026年7月17日金曜日 4:03:17 UTC** |
 
 </div>
 
@@ -947,7 +947,7 @@ Use the uploaded photo as the exact reference for the composition, pose, facial 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### 商用デザイン・UI・ポスター (7)
+### 商用デザイン・UI・ポスター (8)
 
 広告、商品キャンペーン、UI、ポスター、タイポグラフィなど、制作物向けの実務的な指示。
 
@@ -1029,6 +1029,49 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 ---
 
+<a id="prompt-30"></a>
+
+#### No. 10: ラグジュアリーなバスケットボール三連広告
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 説明
+
+自信に満ちた選手のポーズ、反射するコート、深紅の背景、緻密なメッセージ文字で三面構成のキャンペーンを作る。
+
+##### 原文プロンプト（英語）
+
+```
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “THINK BETTER”, clean luxury sports branding, intense confident poses.
+
+Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.
+
+Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.
+
+Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.
+
+Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.
+```
+
+##### 出典画像
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNRfurkakAAdwMv.jpg" width="100%" alt="ラグジュアリーなバスケットボール三連広告 - Image 1"></td>
+</tr>
+</table>
+
+##### 詳細
+
+- **作者:** [Smiling Khan](https://x.com/AIwithkhan)
+- **出典:** [出典](https://x.com/AIwithkhan/status/2077390591777022413)
+- **公開日:** 2026年7月15日
+- **言語:** en
+
+**[このプロンプトを使う · ImagineVid](https://imaginevid.io/ja/nano-banana)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### 図解・技術ビジュアル・絵コンテ (7)
@@ -1042,7 +1085,7 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 <a id="prompt-11"></a>
 
-#### No. 10: 見開きSFストーリー・ジオラマ
+#### No. 11: 見開きSFストーリー・ジオラマ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1177,7 @@ A premium open-book character encyclopedia diorama for $ SUBJECT, combining toy 
 
 <a id="prompt-12"></a>
 
-#### No. 11: 無骨なヒーローの三面図
+#### No. 12: 無骨なヒーローの三面図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1169,7 +1212,7 @@ Character reference sheet- rugged Indian man, intense expression, wavy hair, thi
 
 <a id="prompt-14"></a>
 
-#### No. 12: 豪華客船の技術インフォグラフィック
+#### No. 13: 豪華客船の技術インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1204,7 +1247,7 @@ An ultra-detailed, vertical infographic poster for a fictional luxury cruise shi
 
 <a id="prompt-15"></a>
 
-#### No. 13: 文化解説付きイラスト旅行地図
+#### No. 14: 文化解説付きイラスト旅行地図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1240,7 +1283,7 @@ Two vertical, highly detailed, illustrated travel infographic maps showcasing Ja
 
 <a id="prompt-16"></a>
 
-#### No. 14: テクニカルアウター仕様書
+#### No. 15: テクニカルアウター仕様書
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1275,13 +1318,13 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### キャラクター・映画表現・ビジュアルスタイル (4)
+### キャラクター・映画表現・ビジュアルスタイル (5)
 
 視覚演出と画面言語を軸に、キャラクター、肖像、ファッション、映画的な画面、スタイルを探るプロンプト。
 
 <a id="prompt-13"></a>
 
-#### No. 15: 写実的な未来メカ
+#### No. 16: 写実的な未来メカ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1316,7 +1359,7 @@ Theme: Futuristic Mecha Design with Photorealistic Details Color Image: Metallic
 
 <a id="prompt-19"></a>
 
-#### No. 16: 1990年代インディー風ベッドルームポートレート
+#### No. 17: 1990年代インディー風ベッドルームポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1355,7 +1398,7 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 
 <a id="prompt-27"></a>
 
-#### No. 17: Notion風モノクロアバター
+#### No. 18: Notion風モノクロアバター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Variables](https://img.shields.io/badge/Variables-Reusable-purple)
@@ -1402,7 +1445,7 @@ High contrast, clean 2D vector graphics.
 
 <a id="prompt-29"></a>
 
-#### No. 18: 幾何学モザイクの設計図風ポートレート
+#### No. 19: 幾何学モザイクの設計図風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,6 +1485,41 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 ---
 
+<a id="prompt-31"></a>
+
+#### No. 20: レンブラント光のモノクロファッションポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 説明
+
+彫刻的なレンブラント照明、抑えたフィルム粒子、高級誌らしい仕上げで内省的な白黒肖像を演出する。
+
+##### 原文プロンプト（英語）
+
+```
+A cinematic black-and-white fine art portrait of a handsome young man with medium-length dark hair swept to the side, a few loose strands falling over his forehead, and a neatly trimmed beard. He wears a black textured knit sweater. His head is slightly tilted downward with an introspective, serious expression, looking off-camera. Dramatic Rembrandt lighting from the left creates deep shadows and high contrast, emphasizing facial structure. Dark seamless background fading into black, shallow depth of field, ultra-realistic skin texture, sharp focus on the eyes, soft falloff, moody atmosphere, editorial fashion photography, Leica SL2, 85mm lens, f/1.4, monochrome, film grain, fine art, luxury magazine cover quality, photorealistic, 8K.
+```
+
+##### 出典画像
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNPQqFIa0AAGQpe.jpg" width="100%" alt="レンブラント光のモノクロファッションポートレート - Image 1"></td>
+</tr>
+</table>
+
+##### 詳細
+
+- **作者:** [Aijaz](https://x.com/iamsofiaijaz)
+- **出典:** [出典](https://x.com/iamsofiaijaz/status/2077233281729536050)
+- **公開日:** 2026年7月15日
+- **言語:** en
+
+**[このプロンプトを使う · ImagineVid](https://imaginevid.io/ja/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### 環境・建築・世界観構築 (2)
@@ -1454,7 +1532,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-20"></a>
 
-#### No. 19: ゴールデンアワーの山岳草原
+#### No. 21: ゴールデンアワーの山岳草原
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1524,7 +1602,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-6"></a>
 
-#### No. 20: Gemini 2.5 対 3.1 編集ポートレート比較
+#### No. 22: Gemini 2.5 対 3.1 編集ポートレート比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,6 +1689,6 @@ Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-17T01:48:54.674Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-17T04:03:17.273Z</sub>
 
 </div>

@@ -96,9 +96,9 @@
 
 | المقياس | العدد |
 |--------|-------|
-| إجمالي التعليمات | **29** |
+| إجمالي التعليمات | **31** |
 | مميز | **9** |
-| آخر تحديث | **الجمعة، ١٧ يوليو ٢٠٢٦ في ١:٤٨:٥٤ ص UTC** |
+| آخر تحديث | **الجمعة، ١٧ يوليو ٢٠٢٦ في ٤:٠٣:١٧ ص UTC** |
 
 </div>
 
@@ -947,7 +947,7 @@ Use the uploaded photo as the exact reference for the composition, pose, facial 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### التصميم التجاري وواجهات المستخدم والملصقات (7)
+### التصميم التجاري وواجهات المستخدم والملصقات (8)
 
 موجزات إنتاج للإعلانات وحملات المنتجات والواجهات والملصقات والطباعة وغيرها من المواد المصممة.
 
@@ -1029,6 +1029,49 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 ---
 
+<a id="prompt-30"></a>
+
+#### No. 10: ثلاثية تحريرية فاخرة لكرة السلة
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### الوصف
+
+أنشئ حملة من ثلاث لوحات بوضعيات واثقة ولاعبات قويات وأرضية عاكسة ومشهد قرمزي وتوجيه دقيق للعبارات التحفيزية.
+
+##### التعليمة الأصلية (بالإنجليزية)
+
+```
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “THINK BETTER”, clean luxury sports branding, intense confident poses.
+
+Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.
+
+Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.
+
+Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.
+
+Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.
+```
+
+##### نتائج المصدر
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNRfurkakAAdwMv.jpg" width="100%" alt="ثلاثية تحريرية فاخرة لكرة السلة - Image 1"></td>
+</tr>
+</table>
+
+##### التفاصيل
+
+- **المؤلف:** [Smiling Khan](https://x.com/AIwithkhan)
+- **المصدر:** [المصدر](https://x.com/AIwithkhan/status/2077390591777022413)
+- **تاريخ النشر:** ١٥ يوليو ٢٠٢٦
+- **اللغات:** en
+
+**[استخدم هذه التعليمة · ImagineVid](https://imaginevid.io/ar/nano-banana)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### المخططات والرسوم التقنية والقصص المصورة (7)
@@ -1042,7 +1085,7 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 <a id="prompt-11"></a>
 
-#### No. 10: ديوراما خيال علمي داخل كتاب مفتوح
+#### No. 11: ديوراما خيال علمي داخل كتاب مفتوح
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1177,7 @@ A premium open-book character encyclopedia diorama for $ SUBJECT, combining toy 
 
 <a id="prompt-12"></a>
 
-#### No. 11: لوحة دوران لبطل صلب الملامح
+#### No. 12: لوحة دوران لبطل صلب الملامح
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1169,7 +1212,7 @@ Character reference sheet- rugged Indian man, intense expression, wavy hair, thi
 
 <a id="prompt-14"></a>
 
-#### No. 12: إنفوغرافيك تقني لسفينة سياحية فاخرة
+#### No. 13: إنفوغرافيك تقني لسفينة سياحية فاخرة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1204,7 +1247,7 @@ An ultra-detailed, vertical infographic poster for a fictional luxury cruise shi
 
 <a id="prompt-15"></a>
 
-#### No. 13: خرائط سفر مصورة بتعليقات ثقافية
+#### No. 14: خرائط سفر مصورة بتعليقات ثقافية
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1240,7 +1283,7 @@ Two vertical, highly detailed, illustrated travel infographic maps showcasing Ja
 
 <a id="prompt-16"></a>
 
-#### No. 14: ورقة مواصفات لملابس خارجية تقنية
+#### No. 15: ورقة مواصفات لملابس خارجية تقنية
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1275,13 +1318,13 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### الشخصيات والسينما والأساليب البصرية (4)
+### الشخصيات والسينما والأساليب البصرية (5)
 
 تعليمات للشخصيات والصور الشخصية والأزياء واللقطات السينمائية واستكشاف الأساليب وفق توجيه بصري واضح.
 
 <a id="prompt-13"></a>
 
-#### No. 15: ميكا مستقبلي واقعي
+#### No. 16: ميكا مستقبلي واقعي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1316,7 +1359,7 @@ Theme: Futuristic Mecha Design with Photorealistic Details Color Image: Metallic
 
 <a id="prompt-19"></a>
 
-#### No. 16: بورتريه غرفة نوم مستقل من تسعينيات القرن الماضي
+#### No. 17: بورتريه غرفة نوم مستقل من تسعينيات القرن الماضي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1355,7 +1398,7 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 
 <a id="prompt-27"></a>
 
-#### No. 17: صورة رمزية أحادية بأسلوب Notion
+#### No. 18: صورة رمزية أحادية بأسلوب Notion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Variables](https://img.shields.io/badge/Variables-Reusable-purple)
@@ -1402,7 +1445,7 @@ High contrast, clean 2D vector graphics.
 
 <a id="prompt-29"></a>
 
-#### No. 18: بورتريه فسيفسائي هندسي بأسلوب المخططات
+#### No. 19: بورتريه فسيفسائي هندسي بأسلوب المخططات
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,6 +1485,41 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 ---
 
+<a id="prompt-31"></a>
+
+#### No. 20: بورتريه أزياء أحادي اللون بإضاءة رامبرانت
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### الوصف
+
+وجّه بورتريه تأمليًا بالأبيض والأسود عبر إضاءة رامبرانت نحتية وحبيبات فيلم منضبطة ولمسة تحريرية فاخرة.
+
+##### التعليمة الأصلية (بالإنجليزية)
+
+```
+A cinematic black-and-white fine art portrait of a handsome young man with medium-length dark hair swept to the side, a few loose strands falling over his forehead, and a neatly trimmed beard. He wears a black textured knit sweater. His head is slightly tilted downward with an introspective, serious expression, looking off-camera. Dramatic Rembrandt lighting from the left creates deep shadows and high contrast, emphasizing facial structure. Dark seamless background fading into black, shallow depth of field, ultra-realistic skin texture, sharp focus on the eyes, soft falloff, moody atmosphere, editorial fashion photography, Leica SL2, 85mm lens, f/1.4, monochrome, film grain, fine art, luxury magazine cover quality, photorealistic, 8K.
+```
+
+##### نتائج المصدر
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNPQqFIa0AAGQpe.jpg" width="100%" alt="بورتريه أزياء أحادي اللون بإضاءة رامبرانت - Image 1"></td>
+</tr>
+</table>
+
+##### التفاصيل
+
+- **المؤلف:** [Aijaz](https://x.com/iamsofiaijaz)
+- **المصدر:** [المصدر](https://x.com/iamsofiaijaz/status/2077233281729536050)
+- **تاريخ النشر:** ١٥ يوليو ٢٠٢٦
+- **اللغات:** en
+
+**[استخدم هذه التعليمة · ImagineVid](https://imaginevid.io/ar/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### البيئات والعمارة وبناء العوالم (2)
@@ -1454,7 +1532,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-20"></a>
 
-#### No. 19: مرج جبلي في الساعة الذهبية
+#### No. 21: مرج جبلي في الساعة الذهبية
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1524,7 +1602,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-6"></a>
 
-#### No. 20: مقارنة بورتريه تحريري بين Gemini 2.5 و3.1
+#### No. 22: مقارنة بورتريه تحريري بين Gemini 2.5 و3.1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,6 +1689,6 @@ Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-17T01:48:54.790Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-17T04:03:17.309Z</sub>
 
 </div>

@@ -28,7 +28,9 @@
     "26": { "title": "纯白空间中的暗铬标志", "description": "把品牌标志渲染成厚重抛光金属物体，加入细微划痕、边缘光晕、浅景深和胶片颗粒。" },
     "27": { "title": "Notion 风格黑白头像", "description": "使用自信的等粗线条和选择性黑色填充，创作有个性而非通用图标感的黑白矢量肖像。" },
     "28": { "title": "保留参考图结构的刺绣质感转换", "description": "在保留构图、人物身份、姿势和前后对照小图的同时，将上传照片重塑为具有博物馆藏品质感的立体刺绣作品。" },
-    "29": { "title": "几何马赛克蓝图肖像", "description": "用相互咬合的多边形碎片、技术构造线和鲜明的现代主义色块构建当代肖像。" }
+    "29": { "title": "几何马赛克蓝图肖像", "description": "用相互咬合的多边形碎片、技术构造线和鲜明的现代主义色块构建当代肖像。" },
+    "30": { "title": "高级篮球编辑三联画", "description": "以自信的运动员姿态、反光木地板、深红布景和精确控制的励志排版，构建三联式篮球广告。" },
+    "31": { "title": "伦勃朗光黑白时尚肖像", "description": "用雕塑感伦勃朗光、克制的胶片颗粒和高级编辑质感，塑造内省的黑白棚拍肖像。" }
   },
   "ja-JP": {
     "1": { "title": "スイス幾何学のエンボスロゴ", "description": "ブランドマークを中央配置の単色レリーフに変え、液体ガラス風の縁と端正な余白で仕上げます。" },
@@ -59,7 +61,9 @@
     "26": { "title": "白い無限空間のダーククロームロゴ", "description": "正確なロゴを重い研磨金属として描き、微細傷、縁の光、浅い被写界深度、粒子感を加えます。" },
     "27": { "title": "Notion風モノクロアバター", "description": "均一で自信のある線と選択的な黒ベタを使い、記号的すぎない個性的なベクター肖像を作ります。" },
     "28": { "title": "参照画像の構図を保つ刺繍表現への変換", "description": "構図、人物の同一性、ポーズを維持し、比較用の小さな元画像も添えて、写真を触感豊かな美術館品質の刺繍作品へ変換します。" },
-    "29": { "title": "幾何学モザイクの設計図風ポートレート", "description": "かみ合う多角形の断片、技術的な補助線、鮮やかなモダニズムの色面で現代的な肖像を構成します。" }
+    "29": { "title": "幾何学モザイクの設計図風ポートレート", "description": "かみ合う多角形の断片、技術的な補助線、鮮やかなモダニズムの色面で現代的な肖像を構成します。" },
+    "30": { "title": "ラグジュアリーなバスケットボール三連広告", "description": "自信に満ちた選手のポーズ、反射するコート、深紅の背景、緻密なメッセージ文字で三面構成のキャンペーンを作る。" },
+    "31": { "title": "レンブラント光のモノクロファッションポートレート", "description": "彫刻的なレンブラント照明、抑えたフィルム粒子、高級誌らしい仕上げで内省的な白黒肖像を演出する。" }
   },
   "ko-KR": {
     "1": { "title": "스위스 기하학 엠보싱 로고", "description": "브랜드 마크를 중앙의 단색 부조로 만들고 액체 유리 테두리와 절제된 스위스식 여백으로 마무리합니다." },
@@ -90,7 +94,9 @@
     "26": { "title": "흰 공간 속 다크 크롬 로고", "description": "정확한 로고를 무거운 광택 금속으로 표현하고 미세 흠집, 가장자리 빛, 얕은 심도와 필름 그레인을 더합니다." },
     "27": { "title": "Notion 스타일 흑백 아바타", "description": "자신감 있는 균일 선과 선택적 검정 면을 사용해 흔한 아이콘과 다른 개성 있는 벡터 초상을 만듭니다." },
     "28": { "title": "참조 구도를 보존한 자수 질감 변환", "description": "구도, 인물 정체성, 자세를 유지하고 작은 전후 비교 이미지를 더해 업로드 사진을 촉감이 살아 있는 박물관급 자수 작품으로 변환합니다." },
-    "29": { "title": "기하학 모자이크 청사진 초상화", "description": "맞물린 다각형 조각, 기술 제도선, 대담한 모더니즘 색면으로 현대적인 초상화를 구성합니다." }
+    "29": { "title": "기하학 모자이크 청사진 초상화", "description": "맞물린 다각형 조각, 기술 제도선, 대담한 모더니즘 색면으로 현대적인 초상화를 구성합니다." },
+    "30": { "title": "럭셔리 농구 에디토리얼 3면 구성", "description": "자신감 있는 선수 포즈, 반사되는 코트, 짙은 크림슨 무대와 정교한 동기부여 타이포그래피로 3면 캠페인을 구성합니다." },
+    "31": { "title": "렘브란트 조명의 흑백 패션 인물 사진", "description": "조각적인 렘브란트 조명과 절제된 필름 그레인, 고급 에디토리얼 마감으로 사색적인 흑백 스튜디오 초상을 연출합니다." }
   },
   "es-ES": {
     "1": { "title": "Logotipo geométrico suizo en relieve", "description": "Convierte una marca en un relieve monocromo centrado, con borde de vidrio líquido y un espaciado sobrio de diseño suizo." },
@@ -121,7 +127,9 @@
     "26": { "title": "Logotipo de cromo oscuro en un vacío blanco", "description": "Representa la marca como metal pulido y pesado, con microarañazos, halo en los bordes, poca profundidad de campo y grano." },
     "27": { "title": "Avatar monocromo al estilo Notion", "description": "Crea un retrato vectorial con personalidad mediante líneas uniformes seguras y rellenos negros selectivos, sin aspecto de icono genérico." },
     "28": { "title": "Transformación bordada que conserva la referencia", "description": "Convierte una foto subida en un bordado táctil de calidad museística conservando la composición, las identidades, la pose y una pequeña comparación del antes y el después." },
-    "29": { "title": "Retrato mosaico con estética de plano técnico", "description": "Construye un retrato contemporáneo con fragmentos poligonales entrelazados, líneas de construcción técnica y campos de color modernistas." }
+    "29": { "title": "Retrato mosaico con estética de plano técnico", "description": "Construye un retrato contemporáneo con fragmentos poligonales entrelazados, líneas de construcción técnica y campos de color modernistas." },
+    "30": { "title": "Tríptico editorial de baloncesto de lujo", "description": "Construye una campaña en tres paneles con poses seguras, parquet reflectante, escenografía carmesí y tipografía motivacional cuidadosamente dirigida." },
+    "31": { "title": "Retrato de moda monocromo con luz Rembrandt", "description": "Dirige un retrato introspectivo en blanco y negro con luz Rembrandt escultórica, grano contenido y acabado editorial de lujo." }
   },
   "de-DE": {
     "1": { "title": "Schweizer Geometrie als geprägtes Logo", "description": "Verwandelt ein Markenzeichen in ein zentriertes monochromes Relief mit flüssig wirkender Glaskante und ruhigem Schweizer Weißraum." },
@@ -152,7 +160,9 @@
     "26": { "title": "Dunkles Chromlogo im weißen Raum", "description": "Rendert das exakte Markenzeichen als schweres poliertes Metall mit Mikrokratzern, Kantenleuchten, geringer Schärfentiefe und Filmkorn." },
     "27": { "title": "Monochromer Avatar im Notion-Stil", "description": "Erzeugt mit sicherer Monoline-Zeichnung und gezielten Schwarzflächen ein persönliches Vektorporträt statt eines generischen Icons." },
     "28": { "title": "Referenzerhaltende Verwandlung in Stickkunst", "description": "Verwandle ein hochgeladenes Foto in eine fühlbar wirkende Stickarbeit in Museumsqualität, ohne Komposition, Identitäten, Pose und eine kleine Vorher-nachher-Referenz zu verlieren." },
-    "29": { "title": "Geometrisches Mosaikporträt im Blueprint-Stil", "description": "Erzeuge ein zeitgenössisches Porträt aus ineinandergreifenden Polygonfragmenten, technischen Konstruktionslinien und kräftigen modernistischen Farbflächen." }
+    "29": { "title": "Geometrisches Mosaikporträt im Blueprint-Stil", "description": "Erzeuge ein zeitgenössisches Porträt aus ineinandergreifenden Polygonfragmenten, technischen Konstruktionslinien und kräftigen modernistischen Farbflächen." },
+    "30": { "title": "Luxuriöses Basketball-Editorial als Triptychon", "description": "Entwirf eine dreiteilige Kampagne mit selbstbewussten Athletenposen, spiegelndem Parkett, tiefroter Bühne und präzise geführter Motivationstypografie." },
+    "31": { "title": "Monochromes Modeporträt im Rembrandt-Licht", "description": "Inszeniere ein nachdenkliches Schwarz-Weiß-Porträt mit plastischem Rembrandt-Licht, kontrolliertem Filmkorn und zurückhaltendem Luxusfinish." }
   },
   "fr-FR": {
     "1": { "title": "Logo géométrique suisse en relief", "description": "Transforme une marque en relief monochrome centré, bordé d’un effet verre liquide et entouré d’un espace blanc très maîtrisé." },
@@ -183,6 +193,8 @@
     "26": { "title": "Logo en chrome sombre dans un vide blanc", "description": "Rend la marque comme un métal poli et lourd, avec micro-rayures, halo de bord, faible profondeur de champ et grain argentique." },
     "27": { "title": "Avatar monochrome dans le style Notion", "description": "Crée un portrait vectoriel expressif avec lignes monolignes assurées et aplats noirs sélectifs, loin des icônes génériques." },
     "28": { "title": "Transformation brodée fidèle à l’image de référence", "description": "Transformez une photo importée en broderie tactile de qualité muséale tout en conservant la composition, les identités, la pose et une petite vignette avant-après." },
-    "29": { "title": "Portrait mosaïque aux accents de plan technique", "description": "Composez un portrait contemporain à partir de fragments polygonaux imbriqués, de lignes de construction techniques et d’aplats modernistes audacieux." }
+    "29": { "title": "Portrait mosaïque aux accents de plan technique", "description": "Composez un portrait contemporain à partir de fragments polygonaux imbriqués, de lignes de construction techniques et d’aplats modernistes audacieux." },
+    "30": { "title": "Triptyque éditorial de basket haut de gamme", "description": "Compose une campagne en trois panneaux avec poses assurées, parquet réfléchissant, décor cramoisi et typographie motivante précisément dirigée." },
+    "31": { "title": "Portrait de mode monochrome éclairé à la Rembrandt", "description": "Dirige un portrait noir et blanc introspectif avec lumière Rembrandt sculpturale, grain maîtrisé et finition éditoriale luxueuse." }
   }
 }

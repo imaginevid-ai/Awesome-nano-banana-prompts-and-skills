@@ -96,9 +96,9 @@
 
 | 항목 | 수량 |
 |--------|-------|
-| 총 프롬프트 | **29** |
+| 총 프롬프트 | **31** |
 | 추천 | **9** |
-| 마지막 업데이트 | **2026년 7월 17일 금요일 오전 1시 48분 54초 UTC** |
+| 마지막 업데이트 | **2026년 7월 17일 금요일 AM 4시 3분 17초 UTC** |
 
 </div>
 
@@ -947,7 +947,7 @@ Use the uploaded photo as the exact reference for the composition, pose, facial 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### 상업 디자인, UI 및 포스터 (7)
+### 상업 디자인, UI 및 포스터 (8)
 
 광고, 제품 캠페인, 인터페이스, 포스터, 타이포그래피 등 실제 디자인 제작을 위한 브리프입니다.
 
@@ -1029,6 +1029,49 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 ---
 
+<a id="prompt-30"></a>
+
+#### No. 10: 럭셔리 농구 에디토리얼 3면 구성
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 설명
+
+자신감 있는 선수 포즈, 반사되는 코트, 짙은 크림슨 무대와 정교한 동기부여 타이포그래피로 3면 캠페인을 구성합니다.
+
+##### 원문 프롬프트(영어)
+
+```
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “THINK BETTER”, clean luxury sports branding, intense confident poses.
+
+Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.
+
+Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.
+
+Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.
+
+Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.
+```
+
+##### 출처 이미지
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNRfurkakAAdwMv.jpg" width="100%" alt="럭셔리 농구 에디토리얼 3면 구성 - Image 1"></td>
+</tr>
+</table>
+
+##### 세부 정보
+
+- **작성자:** [Smiling Khan](https://x.com/AIwithkhan)
+- **출처:** [출처](https://x.com/AIwithkhan/status/2077390591777022413)
+- **게시일:** 2026년 7월 15일
+- **언어:** en
+
+**[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/nano-banana)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### 다이어그램, 기술 시각화 및 스토리보드 (7)
@@ -1042,7 +1085,7 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 <a id="prompt-11"></a>
 
-#### No. 10: 펼친 책 형태의 SF 디오라마
+#### No. 11: 펼친 책 형태의 SF 디오라마
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1177,7 @@ A premium open-book character encyclopedia diorama for $ SUBJECT, combining toy 
 
 <a id="prompt-12"></a>
 
-#### No. 11: 거친 영웅 캐릭터 턴어라운드
+#### No. 12: 거친 영웅 캐릭터 턴어라운드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1169,7 +1212,7 @@ Character reference sheet- rugged Indian man, intense expression, wavy hair, thi
 
 <a id="prompt-14"></a>
 
-#### No. 12: 호화 크루즈선 기술 인포그래픽
+#### No. 13: 호화 크루즈선 기술 인포그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1204,7 +1247,7 @@ An ultra-detailed, vertical infographic poster for a fictional luxury cruise shi
 
 <a id="prompt-15"></a>
 
-#### No. 13: 문화 설명이 담긴 여행 지도
+#### No. 14: 문화 설명이 담긴 여행 지도
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1240,7 +1283,7 @@ Two vertical, highly detailed, illustrated travel infographic maps showcasing Ja
 
 <a id="prompt-16"></a>
 
-#### No. 14: 테크니컬 아우터 사양서
+#### No. 15: 테크니컬 아우터 사양서
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1275,13 +1318,13 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### 캐릭터, 시네마 및 비주얼 스타일 (4)
+### 캐릭터, 시네마 및 비주얼 스타일 (5)
 
 시각 연출과 이미지 언어를 중심으로 캐릭터, 인물, 패션, 영화 장면, 스타일을 탐색하는 프롬프트입니다.
 
 <a id="prompt-13"></a>
 
-#### No. 15: 사실적인 미래형 메카
+#### No. 16: 사실적인 미래형 메카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1316,7 +1359,7 @@ Theme: Futuristic Mecha Design with Photorealistic Details Color Image: Metallic
 
 <a id="prompt-19"></a>
 
-#### No. 16: 1990년대 인디 침실 초상
+#### No. 17: 1990년대 인디 침실 초상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1355,7 +1398,7 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 
 <a id="prompt-27"></a>
 
-#### No. 17: Notion 스타일 흑백 아바타
+#### No. 18: Notion 스타일 흑백 아바타
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Variables](https://img.shields.io/badge/Variables-Reusable-purple)
@@ -1402,7 +1445,7 @@ High contrast, clean 2D vector graphics.
 
 <a id="prompt-29"></a>
 
-#### No. 18: 기하학 모자이크 청사진 초상화
+#### No. 19: 기하학 모자이크 청사진 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,6 +1485,41 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 ---
 
+<a id="prompt-31"></a>
+
+#### No. 20: 렘브란트 조명의 흑백 패션 인물 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 설명
+
+조각적인 렘브란트 조명과 절제된 필름 그레인, 고급 에디토리얼 마감으로 사색적인 흑백 스튜디오 초상을 연출합니다.
+
+##### 원문 프롬프트(영어)
+
+```
+A cinematic black-and-white fine art portrait of a handsome young man with medium-length dark hair swept to the side, a few loose strands falling over his forehead, and a neatly trimmed beard. He wears a black textured knit sweater. His head is slightly tilted downward with an introspective, serious expression, looking off-camera. Dramatic Rembrandt lighting from the left creates deep shadows and high contrast, emphasizing facial structure. Dark seamless background fading into black, shallow depth of field, ultra-realistic skin texture, sharp focus on the eyes, soft falloff, moody atmosphere, editorial fashion photography, Leica SL2, 85mm lens, f/1.4, monochrome, film grain, fine art, luxury magazine cover quality, photorealistic, 8K.
+```
+
+##### 출처 이미지
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNPQqFIa0AAGQpe.jpg" width="100%" alt="렘브란트 조명의 흑백 패션 인물 사진 - Image 1"></td>
+</tr>
+</table>
+
+##### 세부 정보
+
+- **작성자:** [Aijaz](https://x.com/iamsofiaijaz)
+- **출처:** [출처](https://x.com/iamsofiaijaz/status/2077233281729536050)
+- **게시일:** 2026년 7월 15일
+- **언어:** en
+
+**[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### 환경, 건축 및 세계관 구축 (2)
@@ -1454,7 +1532,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-20"></a>
 
-#### No. 19: 골든아워의 산악 초원
+#### No. 21: 골든아워의 산악 초원
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1524,7 +1602,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-6"></a>
 
-#### No. 20: Gemini 2.5 대 3.1 에디토리얼 인물 벤치마크
+#### No. 22: Gemini 2.5 대 3.1 에디토리얼 인물 벤치마크
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,6 +1689,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-17T01:48:54.688Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-17T04:03:17.277Z</sub>
 
 </div>

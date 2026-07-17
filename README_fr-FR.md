@@ -96,9 +96,9 @@ Les variables rendent un prompt sourcé réutilisable sans réécrire tout le br
 
 | Métrique | Nombre |
 |--------|-------|
-| Total des prompts | **29** |
+| Total des prompts | **31** |
 | En vedette | **9** |
-| Dernière mise à jour | **vendredi 17 juillet 2026 à 01:48:54 UTC** |
+| Dernière mise à jour | **vendredi 17 juillet 2026 à 04:03:17 UTC** |
 
 </div>
 
@@ -947,7 +947,7 @@ Use the uploaded photo as the exact reference for the composition, pose, facial 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Design commercial, UI et affiches (7)
+### Design commercial, UI et affiches (8)
 
 Briefs de production pour publicités, campagnes produit, interfaces, affiches, typographie et autres supports conçus.
 
@@ -1029,6 +1029,49 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 ---
 
+<a id="prompt-30"></a>
+
+#### No. 10: Triptyque éditorial de basket haut de gamme
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+Compose une campagne en trois panneaux avec poses assurées, parquet réfléchissant, décor cramoisi et typographie motivante précisément dirigée.
+
+##### Prompt original (en anglais)
+
+```
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “THINK BETTER”, clean luxury sports branding, intense confident poses.
+
+Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.
+
+Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.
+
+Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.
+
+Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.
+```
+
+##### Résultats de la source
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNRfurkakAAdwMv.jpg" width="100%" alt="Triptyque éditorial de basket haut de gamme - Image 1"></td>
+</tr>
+</table>
+
+##### Détails
+
+- **Auteur:** [Smiling Khan](https://x.com/AIwithkhan)
+- **Source:** [Source](https://x.com/AIwithkhan/status/2077390591777022413)
+- **Publié:** 15 juillet 2026
+- **Langues:** en
+
+**[Utiliser ce prompt · ImagineVid](https://imaginevid.io/fr/nano-banana)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### Diagrammes, visuels techniques et storyboards (7)
@@ -1042,7 +1085,7 @@ Visuels structurés où l’ordre de l’information compte : diagrammes, dessin
 
 <a id="prompt-11"></a>
 
-#### No. 10: Diorama de science-fiction dans un livre ouvert
+#### No. 11: Diorama de science-fiction dans un livre ouvert
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1177,7 @@ A premium open-book character encyclopedia diorama for $ SUBJECT, combining toy 
 
 <a id="prompt-12"></a>
 
-#### No. 11: Planche de rotation d’un héros endurci
+#### No. 12: Planche de rotation d’un héros endurci
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1169,7 +1212,7 @@ Character reference sheet- rugged Indian man, intense expression, wavy hair, thi
 
 <a id="prompt-14"></a>
 
-#### No. 12: Infographie technique d’un paquebot de luxe
+#### No. 13: Infographie technique d’un paquebot de luxe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1204,7 +1247,7 @@ An ultra-detailed, vertical infographic poster for a fictional luxury cruise shi
 
 <a id="prompt-15"></a>
 
-#### No. 13: Cartes de voyage illustrées et annotées
+#### No. 14: Cartes de voyage illustrées et annotées
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1240,7 +1283,7 @@ Two vertical, highly detailed, illustrated travel infographic maps showcasing Ja
 
 <a id="prompt-16"></a>
 
-#### No. 14: Fiche technique de vêtement d’extérieur
+#### No. 15: Fiche technique de vêtement d’extérieur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1275,13 +1318,13 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Personnages, cinéma et styles visuels (4)
+### Personnages, cinéma et styles visuels (5)
 
 Prompts de personnages, portraits, mode, plans cinématographiques et recherche de styles guidés par une direction visuelle.
 
 <a id="prompt-13"></a>
 
-#### No. 15: Mecha futuriste photoréaliste
+#### No. 16: Mecha futuriste photoréaliste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1316,7 +1359,7 @@ Theme: Futuristic Mecha Design with Photorealistic Details Color Image: Metallic
 
 <a id="prompt-19"></a>
 
-#### No. 16: Portrait indie dans une chambre des années 1990
+#### No. 17: Portrait indie dans une chambre des années 1990
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1355,7 +1398,7 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 
 <a id="prompt-27"></a>
 
-#### No. 17: Avatar monochrome dans le style Notion
+#### No. 18: Avatar monochrome dans le style Notion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Variables](https://img.shields.io/badge/Variables-Reusable-purple)
@@ -1402,7 +1445,7 @@ High contrast, clean 2D vector graphics.
 
 <a id="prompt-29"></a>
 
-#### No. 18: Portrait mosaïque aux accents de plan technique
+#### No. 19: Portrait mosaïque aux accents de plan technique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,6 +1485,41 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 ---
 
+<a id="prompt-31"></a>
+
+#### No. 20: Portrait de mode monochrome éclairé à la Rembrandt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+Dirige un portrait noir et blanc introspectif avec lumière Rembrandt sculpturale, grain maîtrisé et finition éditoriale luxueuse.
+
+##### Prompt original (en anglais)
+
+```
+A cinematic black-and-white fine art portrait of a handsome young man with medium-length dark hair swept to the side, a few loose strands falling over his forehead, and a neatly trimmed beard. He wears a black textured knit sweater. His head is slightly tilted downward with an introspective, serious expression, looking off-camera. Dramatic Rembrandt lighting from the left creates deep shadows and high contrast, emphasizing facial structure. Dark seamless background fading into black, shallow depth of field, ultra-realistic skin texture, sharp focus on the eyes, soft falloff, moody atmosphere, editorial fashion photography, Leica SL2, 85mm lens, f/1.4, monochrome, film grain, fine art, luxury magazine cover quality, photorealistic, 8K.
+```
+
+##### Résultats de la source
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNPQqFIa0AAGQpe.jpg" width="100%" alt="Portrait de mode monochrome éclairé à la Rembrandt - Image 1"></td>
+</tr>
+</table>
+
+##### Détails
+
+- **Auteur:** [Aijaz](https://x.com/iamsofiaijaz)
+- **Source:** [Source](https://x.com/iamsofiaijaz/status/2077233281729536050)
+- **Publié:** 15 juillet 2026
+- **Langues:** en
+
+**[Utiliser ce prompt · ImagineVid](https://imaginevid.io/fr/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### Environnements, architecture et création d’univers (2)
@@ -1454,7 +1532,7 @@ Prompts d’environnements, architecture, paysages, concept art et création d�
 
 <a id="prompt-20"></a>
 
-#### No. 19: Prairie de montagne à l’heure dorée
+#### No. 21: Prairie de montagne à l’heure dorée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1524,7 +1602,7 @@ Tests contrôlés pour évaluer le respect du prompt, l’édition, la cohérenc
 
 <a id="prompt-6"></a>
 
-#### No. 20: Comparatif de portrait éditorial Gemini 2.5 contre 3.1
+#### No. 22: Comparatif de portrait éditorial Gemini 2.5 contre 3.1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,6 +1689,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Soumettre un prompt](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Mettre une star au dépôt](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-17T01:48:54.728Z</sub>
+<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-17T04:03:17.289Z</sub>
 
 </div>

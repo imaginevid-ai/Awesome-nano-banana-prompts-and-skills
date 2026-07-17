@@ -96,9 +96,9 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **29** |
+| 提示词总数 | **31** |
 | 精选 | **9** |
-| 最后更新 | **2026年7月17日星期五 UTC 01:48:54** |
+| 最后更新 | **2026年7月17日星期五 UTC 04:03:17** |
 
 </div>
 
@@ -947,7 +947,7 @@ Use the uploaded photo as the exact reference for the composition, pose, facial 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### 商业设计、UI 与海报 (7)
+### 商业设计、UI 与海报 (8)
 
 面向广告、产品营销、界面、海报、文字排版及其他设计资产的生产型提示词。
 
@@ -1029,6 +1029,49 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 ---
 
+<a id="prompt-30"></a>
+
+#### No. 10: 高级篮球编辑三联画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 说明
+
+以自信的运动员姿态、反光木地板、深红布景和精确控制的励志排版，构建三联式篮球广告。
+
+##### 原始提示词（英文）
+
+```
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “THINK BETTER”, clean luxury sports branding, intense confident poses.
+
+Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.
+
+Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.
+
+Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.
+
+Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNRfurkakAAdwMv.jpg" width="100%" alt="高级篮球编辑三联画 - Image 1"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [Smiling Khan](https://x.com/AIwithkhan)
+- **来源:** [来源](https://x.com/AIwithkhan/status/2077390591777022413)
+- **发布时间:** 2026年7月15日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/nano-banana)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### 图表、技术视觉与分镜 (7)
@@ -1042,7 +1085,7 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 <a id="prompt-11"></a>
 
-#### No. 10: 翻页式科幻故事立体书
+#### No. 11: 翻页式科幻故事立体书
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1177,7 @@ A premium open-book character encyclopedia diorama for $ SUBJECT, combining toy 
 
 <a id="prompt-12"></a>
 
-#### No. 11: 硬汉角色三视图
+#### No. 12: 硬汉角色三视图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1169,7 +1212,7 @@ Character reference sheet- rugged Indian man, intense expression, wavy hair, thi
 
 <a id="prompt-14"></a>
 
-#### No. 12: 豪华邮轮技术信息图
+#### No. 13: 豪华邮轮技术信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1204,7 +1247,7 @@ An ultra-detailed, vertical infographic poster for a fictional luxury cruise shi
 
 <a id="prompt-15"></a>
 
-#### No. 13: 文化标注旅行地图
+#### No. 14: 文化标注旅行地图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1240,7 +1283,7 @@ Two vertical, highly detailed, illustrated travel infographic maps showcasing Ja
 
 <a id="prompt-16"></a>
 
-#### No. 14: 机能外套技术规格表
+#### No. 15: 机能外套技术规格表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1275,13 +1318,13 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### 角色、电影感与视觉风格 (4)
+### 角色、电影感与视觉风格 (5)
 
 以视觉方向和画面语言为核心的角色、肖像、时尚、电影画面与风格探索提示词。
 
 <a id="prompt-13"></a>
 
-#### No. 15: 写实未来机甲
+#### No. 16: 写实未来机甲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1316,7 +1359,7 @@ Theme: Futuristic Mecha Design with Photorealistic Details Color Image: Metallic
 
 <a id="prompt-19"></a>
 
-#### No. 16: 1990 年代独立卧室肖像
+#### No. 17: 1990 年代独立卧室肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1355,7 +1398,7 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 
 <a id="prompt-27"></a>
 
-#### No. 17: Notion 风格黑白头像
+#### No. 18: Notion 风格黑白头像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Variables](https://img.shields.io/badge/Variables-Reusable-purple)
@@ -1402,7 +1445,7 @@ High contrast, clean 2D vector graphics.
 
 <a id="prompt-29"></a>
 
-#### No. 18: 几何马赛克蓝图肖像
+#### No. 19: 几何马赛克蓝图肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,6 +1485,41 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 ---
 
+<a id="prompt-31"></a>
+
+#### No. 20: 伦勃朗光黑白时尚肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 说明
+
+用雕塑感伦勃朗光、克制的胶片颗粒和高级编辑质感，塑造内省的黑白棚拍肖像。
+
+##### 原始提示词（英文）
+
+```
+A cinematic black-and-white fine art portrait of a handsome young man with medium-length dark hair swept to the side, a few loose strands falling over his forehead, and a neatly trimmed beard. He wears a black textured knit sweater. His head is slightly tilted downward with an introspective, serious expression, looking off-camera. Dramatic Rembrandt lighting from the left creates deep shadows and high contrast, emphasizing facial structure. Dark seamless background fading into black, shallow depth of field, ultra-realistic skin texture, sharp focus on the eyes, soft falloff, moody atmosphere, editorial fashion photography, Leica SL2, 85mm lens, f/1.4, monochrome, film grain, fine art, luxury magazine cover quality, photorealistic, 8K.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNPQqFIa0AAGQpe.jpg" width="100%" alt="伦勃朗光黑白时尚肖像 - Image 1"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [Aijaz](https://x.com/iamsofiaijaz)
+- **来源:** [来源](https://x.com/iamsofiaijaz/status/2077233281729536050)
+- **发布时间:** 2026年7月15日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### 环境、建筑与世界构建 (2)
@@ -1454,7 +1532,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-20"></a>
 
-#### No. 19: 金色时刻山间草甸
+#### No. 21: 金色时刻山间草甸
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1524,7 +1602,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-6"></a>
 
-#### No. 20: Gemini 2.5 与 3.1 编辑肖像基准
+#### No. 22: Gemini 2.5 与 3.1 编辑肖像基准
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,6 +1689,6 @@ Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-17T01:48:54.645Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-17T04:03:17.268Z</sub>
 
 </div>

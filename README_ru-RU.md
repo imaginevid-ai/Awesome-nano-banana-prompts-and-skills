@@ -96,9 +96,9 @@
 
 | Показатель | Количество |
 |--------|-------|
-| Всего промптов | **29** |
+| Всего промптов | **31** |
 | Избранное | **9** |
-| Обновлено | **пятница, 17 июля 2026 г. в 01:48:54 UTC** |
+| Обновлено | **пятница, 17 июля 2026 г. в 04:03:17 UTC** |
 
 </div>
 
@@ -947,7 +947,7 @@ Use the uploaded photo as the exact reference for the composition, pose, facial 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Коммерческий дизайн, интерфейсы и плакаты (7)
+### Коммерческий дизайн, интерфейсы и плакаты (8)
 
 Производственные задания для рекламы, продуктовых кампаний, интерфейсов, плакатов, типографики и других дизайн-материалов.
 
@@ -1029,6 +1029,49 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 ---
 
+<a id="prompt-30"></a>
+
+#### No. 10: Роскошный баскетбольный редакционный триптих
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Описание
+
+Соберите кампанию из трёх панелей с уверенными позами спортсменки, отражающим паркетом, тёмно-красной сценой и точно поставленной мотивационной типографикой.
+
+##### Оригинальный промпт (на английском)
+
+```
+Ultra-premium sports editorial poster collage of a powerful female basketball athlete in a red and white uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “THINK BETTER”, clean luxury sports branding, intense confident poses.
+
+Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.
+
+Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.
+
+Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.
+
+Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.
+```
+
+##### Результаты из источника
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNRfurkakAAdwMv.jpg" width="100%" alt="Роскошный баскетбольный редакционный триптих - Image 1"></td>
+</tr>
+</table>
+
+##### Детали
+
+- **Автор:** [Smiling Khan](https://x.com/AIwithkhan)
+- **Источник:** [Источник](https://x.com/AIwithkhan/status/2077390591777022413)
+- **Опубликовано:** 15 июля 2026 г.
+- **Языки:** en
+
+**[Использовать промпт · ImagineVid](https://imaginevid.io/ru/nano-banana)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### Диаграммы, техническая графика и раскадровки (7)
@@ -1042,7 +1085,7 @@ BRAND NAME], the official trademark logo rendered strictly as a solid 3D object,
 
 <a id="prompt-11"></a>
 
-#### No. 10: Научно-фантастическая диорама в раскрытой книге
+#### No. 11: Научно-фантастическая диорама в раскрытой книге
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1134,7 +1177,7 @@ A premium open-book character encyclopedia diorama for $ SUBJECT, combining toy 
 
 <a id="prompt-12"></a>
 
-#### No. 11: Лист разворотов сурового героя
+#### No. 12: Лист разворотов сурового героя
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1169,7 +1212,7 @@ Character reference sheet- rugged Indian man, intense expression, wavy hair, thi
 
 <a id="prompt-14"></a>
 
-#### No. 12: Техническая инфографика роскошного круизного лайнера
+#### No. 13: Техническая инфографика роскошного круизного лайнера
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1204,7 +1247,7 @@ An ultra-detailed, vertical infographic poster for a fictional luxury cruise shi
 
 <a id="prompt-15"></a>
 
-#### No. 13: Иллюстрированные карты путешествий с культурными пометками
+#### No. 14: Иллюстрированные карты путешествий с культурными пометками
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1240,7 +1283,7 @@ Two vertical, highly detailed, illustrated travel infographic maps showcasing Ja
 
 <a id="prompt-16"></a>
 
-#### No. 14: Технический лист верхней одежды
+#### No. 15: Технический лист верхней одежды
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1275,13 +1318,13 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Персонажи, кино и визуальные стили (4)
+### Персонажи, кино и визуальные стили (5)
 
 Промпты для персонажей, портретов, моды, кинокадров и поиска стиля с акцентом на визуальную режиссуру.
 
 <a id="prompt-13"></a>
 
-#### No. 15: Фотореалистичный футуристический меха
+#### No. 16: Фотореалистичный футуристический меха
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1316,7 +1359,7 @@ Theme: Futuristic Mecha Design with Photorealistic Details Color Image: Metallic
 
 <a id="prompt-19"></a>
 
-#### No. 16: Инди-портрет в спальне 1990-х
+#### No. 17: Инди-портрет в спальне 1990-х
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1355,7 +1398,7 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 
 <a id="prompt-27"></a>
 
-#### No. 17: Монохромный аватар в стиле Notion
+#### No. 18: Монохромный аватар в стиле Notion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Variables](https://img.shields.io/badge/Variables-Reusable-purple)
@@ -1402,7 +1445,7 @@ High contrast, clean 2D vector graphics.
 
 <a id="prompt-29"></a>
 
-#### No. 18: Геометрический мозаичный портрет в стиле чертежа
+#### No. 19: Геометрический мозаичный портрет в стиле чертежа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,6 +1485,41 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 ---
 
+<a id="prompt-31"></a>
+
+#### No. 20: Монохромный модный портрет в свете Рембрандта
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Описание
+
+Поставьте задумчивый чёрно-белый портрет со скульптурным светом Рембрандта, сдержанным плёночным зерном и журнальной отделкой класса люкс.
+
+##### Оригинальный промпт (на английском)
+
+```
+A cinematic black-and-white fine art portrait of a handsome young man with medium-length dark hair swept to the side, a few loose strands falling over his forehead, and a neatly trimmed beard. He wears a black textured knit sweater. His head is slightly tilted downward with an introspective, serious expression, looking off-camera. Dramatic Rembrandt lighting from the left creates deep shadows and high contrast, emphasizing facial structure. Dark seamless background fading into black, shallow depth of field, ultra-realistic skin texture, sharp focus on the eyes, soft falloff, moody atmosphere, editorial fashion photography, Leica SL2, 85mm lens, f/1.4, monochrome, film grain, fine art, luxury magazine cover quality, photorealistic, 8K.
+```
+
+##### Результаты из источника
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNPQqFIa0AAGQpe.jpg" width="100%" alt="Монохромный модный портрет в свете Рембрандта - Image 1"></td>
+</tr>
+</table>
+
+##### Детали
+
+- **Автор:** [Aijaz](https://x.com/iamsofiaijaz)
+- **Источник:** [Источник](https://x.com/iamsofiaijaz/status/2077233281729536050)
+- **Опубликовано:** 15 июля 2026 г.
+- **Языки:** en
+
+**[Использовать промпт · ImagineVid](https://imaginevid.io/ru/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### Окружение, архитектура и миростроение (2)
@@ -1454,7 +1532,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-20"></a>
 
-#### No. 19: Горный луг в золотой час
+#### No. 21: Горный луг в золотой час
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1524,7 +1602,7 @@ Premium gallery-quality digital artwork, razor-sharp linework, complex layered d
 
 <a id="prompt-6"></a>
 
-#### No. 20: Сравнение редакционного портрета Gemini 2.5 и 3.1
+#### No. 22: Сравнение редакционного портрета Gemini 2.5 и 3.1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,6 +1689,6 @@ Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean
 **[Отправить промпт](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-07-17T01:48:54.796Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-07-17T04:03:17.315Z</sub>
 
 </div>
