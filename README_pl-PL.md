@@ -98,7 +98,7 @@ Zmienne pozwalają używać promptu z potwierdzonym źródłem bez pisania całe
 |--------|-------|
 | Łącznie promptów | **31** |
 | Polecane | **9** |
-| Ostatnia aktualizacja | **niedziela, 19 lipca 2026 20:38:08 UTC** |
+| Ostatnia aktualizacja | **poniedziałek, 20 lipca 2026 02:03:48 UTC** |
 
 </div>
 
@@ -1689,6 +1689,6 @@ Udostępniono na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[Zgłoś prompt](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Daj Star repozytorium](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>Ten README został wygenerowany automatycznie. Ostatnia aktualizacja: 2026-07-19T20:38:08.591Z</sub>
+<sub>Ten README został wygenerowany automatycznie. Ostatnia aktualizacja: 2026-07-20T02:03:48.530Z</sub>
 
 </div>
