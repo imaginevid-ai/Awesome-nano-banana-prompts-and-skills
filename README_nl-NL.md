@@ -96,9 +96,9 @@ Variabelen maken een prompt met verifieerbare bron herbruikbaar zonder de hele b
 
 | Metriek | Aantal |
 |--------|-------|
-| Totaal prompts | **31** |
+| Totaal prompts | **32** |
 | Uitgelicht | **9** |
-| Laatst bijgewerkt | **dinsdag 21 juli 2026 om 13:17:29 UTC** |
+| Laatst bijgewerkt | **dinsdag 21 juli 2026 om 13:47:04 UTC** |
 
 </div>
 
@@ -1318,7 +1318,7 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Personages, film en visuele stijlen (5)
+### Personages, film en visuele stijlen (6)
 
 Prompts voor personages, portretten, mode, filmische kaders en stijlexperimenten met duidelijke visuele regie.
 
@@ -1520,6 +1520,42 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 ---
 
+<a id="prompt-32"></a>
+
+#### No. 21: Modescène uit dertien referentiebeelden
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Beschrijving
+
+Multireferentietest die model, auto, kleding, accessoires, dieren en rekwisieten in één geloofwaardige studiofoto samenbrengt.
+
+##### Oorspronkelijke prompt (Engels)
+
+```
+Create one coherent studio photograph from the supplied references. A fashion model poses while leaning against a pink BMW on a light-grey background. Dress her in the referenced garments and accessories. Attach the green alien keychain to the pink handbag, place the referenced pink parrot naturally on her shoulder, and seat the referenced pug beside the car. Preserve each item's distinctive color, shape, material, and scale. Match a single camera perspective, soft studio lighting, realistic contact shadows, and consistent reflections across all thirteen source elements. Avoid duplicate objects, mismatched hands, floating accessories, or collage seams.
+```
+
+##### Bronresultaten
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/GzYYDUoWIAA8x0l.jpg" width="100%" alt="Modescène uit dertien referentiebeelden - Image 1"></td>
+</tr>
+</table>
+
+##### Details
+
+- **Auteur:** [@MrDavids1](https://x.com/MrDavids1)
+- **Bron:** [Bron](https://x.com/MrDavids1/status/1960783672665128970)
+- **Gepubliceerd:** 27 augustus 2025
+- **Talen:** en
+
+**[Gebruik deze prompt · ImagineVid](https://imaginevid.io/nl/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### Omgevingen, architectuur en wereldbouw (2)
@@ -1532,7 +1568,7 @@ Prompts voor omgevingen, architectuur, landschappen, concept art en wereldbouw w
 
 <a id="prompt-20"></a>
 
-#### No. 21: Bergweide tijdens het gouden uur
+#### No. 22: Bergweide tijdens het gouden uur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1602,7 +1638,7 @@ Gecontroleerde tests voor prompttrouw, bewerkingsgedrag, consistentie, typografi
 
 <a id="prompt-6"></a>
 
-#### No. 22: Vergelijking van redactionele portretten: Gemini 2.5 en 3.1
+#### No. 23: Vergelijking van redactionele portretten: Gemini 2.5 en 3.1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1665,11 +1701,11 @@ Uitgegeven onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ## Dankbetuigingen
 
 <details>
-<summary>Makers uit de community (17)</summary>
+<summary>Makers uit de community (18)</summary>
 
-[⁠ luciaAI](https://x.com/luciaverseai) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas) · [H A J R A](https://x.com/codewithhajra)<br>
-[Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33) · [zayan](https://x.com/HustleXR)<br>
-[四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
+[⁠ luciaAI](https://x.com/luciaverseai) · [@MrDavids1](https://x.com/MrDavids1) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas)<br>
+[H A J R A](https://x.com/codewithhajra) · [Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33)<br>
+[zayan](https://x.com/HustleXR) · [四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
 
 </details>
 
@@ -1689,6 +1725,6 @@ Uitgegeven onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt indienen](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef deze repo een Star](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>Deze README is automatisch gegenereerd. Laatst bijgewerkt: 2026-07-21T13:17:29.061Z</sub>
+<sub>Deze README is automatisch gegenereerd. Laatst bijgewerkt: 2026-07-21T13:47:04.912Z</sub>
 
 </div>

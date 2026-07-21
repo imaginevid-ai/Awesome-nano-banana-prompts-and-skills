@@ -96,9 +96,9 @@
 
 | 항목 | 수량 |
 |--------|-------|
-| 총 프롬프트 | **31** |
+| 총 프롬프트 | **32** |
 | 추천 | **9** |
-| 마지막 업데이트 | **2026년 7월 21일 화요일 오후 1시 17분 29초 UTC** |
+| 마지막 업데이트 | **2026년 7월 21일 화요일 PM 1시 47분 4초 UTC** |
 
 </div>
 
@@ -1318,7 +1318,7 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### 캐릭터, 시네마 및 비주얼 스타일 (5)
+### 캐릭터, 시네마 및 비주얼 스타일 (6)
 
 시각 연출과 이미지 언어를 중심으로 캐릭터, 인물, 패션, 영화 장면, 스타일을 탐색하는 프롬프트입니다.
 
@@ -1520,6 +1520,42 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 ---
 
+<a id="prompt-32"></a>
+
+#### No. 21: 13개 레퍼런스를 합친 패션 스튜디오 장면
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 설명
+
+모델, 자동차, 의상, 액세서리, 동물과 소품을 하나의 일관된 촬영 장면으로 결합하는 다중 레퍼런스 테스트입니다.
+
+##### 원문 프롬프트(영어)
+
+```
+Create one coherent studio photograph from the supplied references. A fashion model poses while leaning against a pink BMW on a light-grey background. Dress her in the referenced garments and accessories. Attach the green alien keychain to the pink handbag, place the referenced pink parrot naturally on her shoulder, and seat the referenced pug beside the car. Preserve each item's distinctive color, shape, material, and scale. Match a single camera perspective, soft studio lighting, realistic contact shadows, and consistent reflections across all thirteen source elements. Avoid duplicate objects, mismatched hands, floating accessories, or collage seams.
+```
+
+##### 출처 이미지
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/GzYYDUoWIAA8x0l.jpg" width="100%" alt="13개 레퍼런스를 합친 패션 스튜디오 장면 - Image 1"></td>
+</tr>
+</table>
+
+##### 세부 정보
+
+- **작성자:** [@MrDavids1](https://x.com/MrDavids1)
+- **출처:** [출처](https://x.com/MrDavids1/status/1960783672665128970)
+- **게시일:** 2025년 8월 27일
+- **언어:** en
+
+**[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### 환경, 건축 및 세계관 구축 (2)
@@ -1532,7 +1568,7 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 <a id="prompt-20"></a>
 
-#### No. 21: 골든아워의 산악 초원
+#### No. 22: 골든아워의 산악 초원
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1602,7 +1638,7 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 <a id="prompt-6"></a>
 
-#### No. 22: Gemini 2.5 대 3.1 에디토리얼 인물 벤치마크
+#### No. 23: Gemini 2.5 대 3.1 에디토리얼 인물 벤치마크
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1665,11 +1701,11 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 ## 감사의 말
 
 <details>
-<summary>커뮤니티 제작자 감사 명단 (17)</summary>
+<summary>커뮤니티 제작자 감사 명단 (18)</summary>
 
-[⁠ luciaAI](https://x.com/luciaverseai) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas) · [H A J R A](https://x.com/codewithhajra)<br>
-[Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33) · [zayan](https://x.com/HustleXR)<br>
-[四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
+[⁠ luciaAI](https://x.com/luciaverseai) · [@MrDavids1](https://x.com/MrDavids1) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas)<br>
+[H A J R A](https://x.com/codewithhajra) · [Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33)<br>
+[zayan](https://x.com/HustleXR) · [四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
 
 </details>
 
@@ -1689,6 +1725,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-21T13:17:29.029Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-21T13:47:04.883Z</sub>
 
 </div>

@@ -96,9 +96,9 @@
 
 | المقياس | العدد |
 |--------|-------|
-| إجمالي التعليمات | **31** |
+| إجمالي التعليمات | **32** |
 | مميز | **9** |
-| آخر تحديث | **الثلاثاء، ٢١ يوليو ٢٠٢٦ في ١:١٧:٢٩ م UTC** |
+| آخر تحديث | **الثلاثاء، ٢١ يوليو ٢٠٢٦ في ١:٤٧:٠٤ م UTC** |
 
 </div>
 
@@ -1318,7 +1318,7 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### الشخصيات والسينما والأساليب البصرية (5)
+### الشخصيات والسينما والأساليب البصرية (6)
 
 تعليمات للشخصيات والصور الشخصية والأزياء واللقطات السينمائية واستكشاف الأساليب وفق توجيه بصري واضح.
 
@@ -1520,6 +1520,42 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 ---
 
+<a id="prompt-32"></a>
+
+#### No. 21: مشهد أزياء يدمج ثلاثة عشر مرجعا
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### الوصف
+
+اختبار متعدد المراجع يدمج عارضة وسيارة وملابس وإكسسوارات وحيوانات وأغراضا صغيرة في صورة استوديو متماسكة.
+
+##### التعليمة الأصلية (بالإنجليزية)
+
+```
+Create one coherent studio photograph from the supplied references. A fashion model poses while leaning against a pink BMW on a light-grey background. Dress her in the referenced garments and accessories. Attach the green alien keychain to the pink handbag, place the referenced pink parrot naturally on her shoulder, and seat the referenced pug beside the car. Preserve each item's distinctive color, shape, material, and scale. Match a single camera perspective, soft studio lighting, realistic contact shadows, and consistent reflections across all thirteen source elements. Avoid duplicate objects, mismatched hands, floating accessories, or collage seams.
+```
+
+##### نتائج المصدر
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/GzYYDUoWIAA8x0l.jpg" width="100%" alt="مشهد أزياء يدمج ثلاثة عشر مرجعا - Image 1"></td>
+</tr>
+</table>
+
+##### التفاصيل
+
+- **المؤلف:** [@MrDavids1](https://x.com/MrDavids1)
+- **المصدر:** [المصدر](https://x.com/MrDavids1/status/1960783672665128970)
+- **تاريخ النشر:** ٢٧ أغسطس ٢٠٢٥
+- **اللغات:** en
+
+**[استخدم هذه التعليمة · ImagineVid](https://imaginevid.io/ar/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### البيئات والعمارة وبناء العوالم (2)
@@ -1532,7 +1568,7 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 <a id="prompt-20"></a>
 
-#### No. 21: مرج جبلي في الساعة الذهبية
+#### No. 22: مرج جبلي في الساعة الذهبية
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1602,7 +1638,7 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 <a id="prompt-6"></a>
 
-#### No. 22: مقارنة بورتريه تحريري بين Gemini 2.5 و3.1
+#### No. 23: مقارنة بورتريه تحريري بين Gemini 2.5 و3.1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1665,11 +1701,11 @@ Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean
 ## شكر وتقدير
 
 <details>
-<summary>مبدعو المجتمع الذين نشكرهم (17)</summary>
+<summary>مبدعو المجتمع الذين نشكرهم (18)</summary>
 
-[⁠ luciaAI](https://x.com/luciaverseai) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas) · [H A J R A](https://x.com/codewithhajra)<br>
-[Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33) · [zayan](https://x.com/HustleXR)<br>
-[四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
+[⁠ luciaAI](https://x.com/luciaverseai) · [@MrDavids1](https://x.com/MrDavids1) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas)<br>
+[H A J R A](https://x.com/codewithhajra) · [Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33)<br>
+[zayan](https://x.com/HustleXR) · [四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
 
 </details>
 
@@ -1689,6 +1725,6 @@ Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-21T13:17:29.055Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-21T13:47:04.906Z</sub>
 
 </div>

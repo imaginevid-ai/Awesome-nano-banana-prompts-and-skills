@@ -2,7 +2,7 @@
 ImagineVid 品牌的 Nano Banana prompts and skills 公开资料仓库。
 
 <directory>
-data/ - Nano Banana 分类、31 条社区提示词、13 语标题说明覆盖层与空官方案例集的结构化真源。
+data/ - Nano Banana 分类、32 条社区提示词、13 语标题说明覆盖层与空官方案例集的结构化真源。
 docs/ - 规划、贡献指南、本地开发说明与后续数据采集策略。
 public/images/ - 仓库 README 与社交预览图，只承载 ImagineVid 自有或明确授权的 Nano Banana 视觉资产。
 scripts/ - README 生成、数据导入、Issue 同步与后续 twitterapi.io 采集脚本。

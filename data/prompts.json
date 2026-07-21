@@ -1425,5 +1425,54 @@
       "model_evidence": "nano-banana",
       "collected_at": "2026-07-17"
     }
+  },
+  {
+    "id": 32,
+    "model": "nano-banana",
+    "title": {
+      "en": "Thirteen-reference fashion collage merge"
+    },
+    "description": {
+      "en": "A stress test for combining a model, vehicle, clothing, accessories, animal, and small props from many references while maintaining a coherent studio composition."
+    },
+    "content": {
+      "en": "Create one coherent studio photograph from the supplied references. A fashion model poses while leaning against a pink BMW on a light-grey background. Dress her in the referenced garments and accessories. Attach the green alien keychain to the pink handbag, place the referenced pink parrot naturally on her shoulder, and seat the referenced pug beside the car. Preserve each item's distinctive color, shape, material, and scale. Match a single camera perspective, soft studio lighting, realistic contact shadows, and consistent reflections across all thirteen source elements. Avoid duplicate objects, mismatched hands, floating accessories, or collage seams."
+    },
+    "sourceLink": "https://x.com/MrDavids1/status/1960783672665128970",
+    "sourcePublishedAt": "2025-08-27T19:17:11.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/GzYYDUoWIAA8x0l.jpg"
+    ],
+    "author": {
+      "name": "@MrDavids1",
+      "link": "https://x.com/MrDavids1"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 32,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1960783672665128970",
+      "prompt_source": "tweet_text_prompt_editorially_structured",
+      "retweetCount": 464,
+      "replyCount": 137,
+      "likeCount": 4831,
+      "quoteCount": 165,
+      "viewCount": 1466783,
+      "bookmarkCount": 4286,
+      "model_evidence": "nano-banana",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
   }
 ]

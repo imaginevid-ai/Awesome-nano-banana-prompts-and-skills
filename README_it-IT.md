@@ -96,9 +96,9 @@ Le variabili rendono riutilizzabile un prompt documentato senza riscrivere ogni 
 
 | Metrica | Conteggio |
 |--------|-------|
-| Prompt totali | **31** |
+| Prompt totali | **32** |
 | In evidenza | **9** |
-| Ultimo aggiornamento | **martedì 21 luglio 2026 alle ore 13:17:29 UTC** |
+| Ultimo aggiornamento | **martedì 21 luglio 2026 alle ore 13:47:04 UTC** |
 
 </div>
 
@@ -1318,7 +1318,7 @@ An AMZ Collection fashion design spec sheet and product layout presented as a ta
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Personaggi, cinema e stili visivi (5)
+### Personaggi, cinema e stili visivi (6)
 
 Prompt per personaggi, ritratti, moda, inquadrature cinematografiche ed esplorazione stilistica con una chiara direzione visiva.
 
@@ -1520,6 +1520,42 @@ A cinematic black-and-white fine art portrait of a handsome young man with mediu
 
 ---
 
+<a id="prompt-32"></a>
+
+#### No. 21: Scena fashion da tredici immagini di riferimento
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Descrizione
+
+Test multi-riferimento che unisce modella, auto, abiti, accessori, animali e oggetti in uno scatto coerente.
+
+##### Prompt originale (in inglese)
+
+```
+Create one coherent studio photograph from the supplied references. A fashion model poses while leaning against a pink BMW on a light-grey background. Dress her in the referenced garments and accessories. Attach the green alien keychain to the pink handbag, place the referenced pink parrot naturally on her shoulder, and seat the referenced pug beside the car. Preserve each item's distinctive color, shape, material, and scale. Match a single camera perspective, soft studio lighting, realistic contact shadows, and consistent reflections across all thirteen source elements. Avoid duplicate objects, mismatched hands, floating accessories, or collage seams.
+```
+
+##### Risultati dalla fonte
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/GzYYDUoWIAA8x0l.jpg" width="100%" alt="Scena fashion da tredici immagini di riferimento - Image 1"></td>
+</tr>
+</table>
+
+##### Dettagli
+
+- **Autore:** [@MrDavids1](https://x.com/MrDavids1)
+- **Fonte:** [Fonte](https://x.com/MrDavids1/status/1960783672665128970)
+- **Pubblicato:** 27 agosto 2025
+- **Lingue:** en
+
+**[Usa questo prompt · ImagineVid](https://imaginevid.io/it/nano-banana)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### Ambienti, architettura e worldbuilding (2)
@@ -1532,7 +1568,7 @@ Prompt per ambienti, architettura, paesaggio, concept art e worldbuilding in cui
 
 <a id="prompt-20"></a>
 
-#### No. 21: Prato di montagna nell’ora dorata
+#### No. 22: Prato di montagna nell’ora dorata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1602,7 +1638,7 @@ Test controllati per valutare aderenza al prompt, comportamento in modifica, coe
 
 <a id="prompt-6"></a>
 
-#### No. 22: Confronto di ritratto editoriale: Gemini 2.5 e 3.1
+#### No. 23: Confronto di ritratto editoriale: Gemini 2.5 e 3.1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1665,11 +1701,11 @@ Distribuito con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 ## Ringraziamenti
 
 <details>
-<summary>Autori della community (17)</summary>
+<summary>Autori della community (18)</summary>
 
-[⁠ luciaAI](https://x.com/luciaverseai) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas) · [H A J R A](https://x.com/codewithhajra)<br>
-[Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33) · [zayan](https://x.com/HustleXR)<br>
-[四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
+[⁠ luciaAI](https://x.com/luciaverseai) · [@MrDavids1](https://x.com/MrDavids1) · [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [Aijaz](https://x.com/iamsofiaijaz) · [AmirMušić](https://x.com/AmirMushich) · [Gadgetify](https://x.com/Gdgtify) · [Google Gemini](https://x.com/GeminiApp) · [Gowtham](https://x.com/GowthamCinemas)<br>
+[H A J R A](https://x.com/codewithhajra) · [Jahan Zaib](https://x.com/jzaib4269) · [Minahil](https://x.com/Minahil42298354) · [Mo](https://x.com/Kerroudjm) · [Nailai7981](https://x.com/VIBEQUIRKLABS) · [NUSRAT](https://x.com/nxnusratul) · [Smiling Khan](https://x.com/AIwithkhan) · [WAH](https://x.com/Waheeb33)<br>
+[zayan](https://x.com/HustleXR) · [四季橘/Shikikitsu@AIイラストとTRPG(希望)](https://x.com/getkomusen)
 
 </details>
 
@@ -1689,6 +1725,6 @@ Distribuito con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 **[Invia prompt](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Aggiungi una Star al repository](https://github.com/imaginevid-ai/Awesome-nano-banana-prompts-and-skills)**
 
-<sub>README generato automaticamente. Ultimo aggiornamento: 2026-07-21T13:17:29.043Z</sub>
+<sub>README generato automaticamente. Ultimo aggiornamento: 2026-07-21T13:47:04.896Z</sub>
 
 </div>

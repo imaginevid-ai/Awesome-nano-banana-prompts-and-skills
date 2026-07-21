@@ -1,200 +1,788 @@
 {
   "zh": {
-    "1": { "title": "瑞士几何浮雕标志", "description": "将品牌标志塑造成居中的单色浮雕，并以液态玻璃边缘和克制的瑞士式留白完成画面。" },
-    "2": { "title": "触感蜡封品牌标志", "description": "把提供的标志渲染成带有凸起纹章、自然变形边缘和柔和商品光线的亮面蜡封。" },
-    "3": { "title": "社交活动时尚拼贴", "description": "用一套完整的美术指导组合时尚摄影、拼贴碎片、字体和受控的视觉混乱。" },
-    "4": { "title": "一体化社交广告模板", "description": "通过少量变量替换品牌、标题、视觉系统和行动按钮，快速生成可复用的社交广告。" },
-    "5": { "title": "修复并上色老照片", "description": "修复划痕、破损和褪色，同时保留原照片中的人物、光线与时代氛围。" },
-    "6": { "title": "Gemini 2.5 与 3.1 编辑肖像基准", "description": "使用同一份肖像简报对比 Gemini 2.5 Flash Image 与 Gemini 3.1 Flash Image 的视觉表现。" },
-    "7": { "title": "法国致敬浮雕海报", "description": "结合侧脸肖像、巴黎地标、法国国旗配色和压印标题，构成雕塑感国家主题海报。" },
-    "8": { "title": "大留白新黑色科幻肖像", "description": "借助人脸参考，在广阔阴天背景下拍摄克制的低机位科幻肖像。" },
-    "9": { "title": "硬朗户外生活方式肖像", "description": "把参考人物置于自然光户外编辑场景，搭配机能服装和虚化的复古越野车。" },
-    "10": { "title": "高级时尚网球广告", "description": "用超大球拍、反光棚拍地面和巨型背景文字制作极简运动时尚画面。" },
-    "11": { "title": "翻页式科幻故事立体书", "description": "把四个科幻主题组织成 2×2 百科版面，结合玩具立体场景和设定稿细节。" },
-    "12": { "title": "硬汉角色三视图", "description": "用正面、侧面和背面视图制作紧凑且具有电影感的硬汉角色设定表。" },
-    "13": { "title": "写实未来机甲", "description": "将生物或机器转化为金属质感、电影光影和写实细节兼具的未来机甲。" },
-    "14": { "title": "豪华邮轮技术信息图", "description": "通过甲板剖面、参数、舱内亮点和性能仪表展示一艘虚构豪华邮轮。" },
-    "15": { "title": "文化标注旅行地图", "description": "以微缩地标、地方美食、野生动物、统计数据和双语标注绘制信息丰富的国家地图。" },
-    "16": { "title": "机能外套技术规格表", "description": "用多角度服装图、材质特写、模块化配件和技术参数完成男装设计规格页。" },
-    "17": { "title": "四格工程剖视板", "description": "在精确网格中用爆炸结构、透明剖面、尺寸和工程标注比较四款消费设备。" },
-    "18": { "title": "八格动漫友谊分镜", "description": "为失去纸风车的沉默孩子找到友谊，设计一套节奏清晰、标明镜头方向的情感分镜。" },
-    "19": { "title": "1990 年代独立卧室肖像", "description": "以直闪、拼贴墙、胶片颗粒和怀旧独立风格重现随性的低保真卧室照片。" },
-    "20": { "title": "金色时刻山间草甸", "description": "用蜿蜒小径、野花草甸、孤树、远处动物和发光山脉构建层次清楚的风景。" },
-    "21": { "title": "威尼斯超现实巨人旅行照", "description": "运用强制透视，让巨型人物俏皮地坐在圣马可广场的地标建筑之间。" },
-    "22": { "title": "涂鸦叠层镜面自拍", "description": "把参考人物放进明亮卧室的镜面自拍，再叠加手写文字、趣味图标和发光轮廓。" },
-    "23": { "title": "参考照片转收藏级手办", "description": "把上传的人物照片变成写实桌面手办，并呈现建模屏幕、透明底座和插画包装。" },
-    "24": { "title": "物体分解成乐高积木", "description": "定格日常物体向漂浮乐高积木转化的中间状态，同时保留原有颜色和纹理。" },
-    "25": { "title": "俯拍编辑式商品摄影", "description": "用自然阳光、受控留白和可选陪衬元素构建可复用的俯拍商品场景。" },
-    "26": { "title": "纯白空间中的暗铬标志", "description": "把品牌标志渲染成厚重抛光金属物体，加入细微划痕、边缘光晕、浅景深和胶片颗粒。" },
-    "27": { "title": "Notion 风格黑白头像", "description": "使用自信的等粗线条和选择性黑色填充，创作有个性而非通用图标感的黑白矢量肖像。" },
-    "28": { "title": "保留参考图结构的刺绣质感转换", "description": "在保留构图、人物身份、姿势和前后对照小图的同时，将上传照片重塑为具有博物馆藏品质感的立体刺绣作品。" },
-    "29": { "title": "几何马赛克蓝图肖像", "description": "用相互咬合的多边形碎片、技术构造线和鲜明的现代主义色块构建当代肖像。" },
-    "30": { "title": "高级篮球编辑三联画", "description": "以自信的运动员姿态、反光木地板、深红布景和精确控制的励志排版，构建三联式篮球广告。" },
-    "31": { "title": "伦勃朗光黑白时尚肖像", "description": "用雕塑感伦勃朗光、克制的胶片颗粒和高级编辑质感，塑造内省的黑白棚拍肖像。" }
+    "1": {
+      "title": "瑞士几何浮雕标志",
+      "description": "将品牌标志塑造成居中的单色浮雕，并以液态玻璃边缘和克制的瑞士式留白完成画面。"
+    },
+    "2": {
+      "title": "触感蜡封品牌标志",
+      "description": "把提供的标志渲染成带有凸起纹章、自然变形边缘和柔和商品光线的亮面蜡封。"
+    },
+    "3": {
+      "title": "社交活动时尚拼贴",
+      "description": "用一套完整的美术指导组合时尚摄影、拼贴碎片、字体和受控的视觉混乱。"
+    },
+    "4": {
+      "title": "一体化社交广告模板",
+      "description": "通过少量变量替换品牌、标题、视觉系统和行动按钮，快速生成可复用的社交广告。"
+    },
+    "5": {
+      "title": "修复并上色老照片",
+      "description": "修复划痕、破损和褪色，同时保留原照片中的人物、光线与时代氛围。"
+    },
+    "6": {
+      "title": "Gemini 2.5 与 3.1 编辑肖像基准",
+      "description": "使用同一份肖像简报对比 Gemini 2.5 Flash Image 与 Gemini 3.1 Flash Image 的视觉表现。"
+    },
+    "7": {
+      "title": "法国致敬浮雕海报",
+      "description": "结合侧脸肖像、巴黎地标、法国国旗配色和压印标题，构成雕塑感国家主题海报。"
+    },
+    "8": {
+      "title": "大留白新黑色科幻肖像",
+      "description": "借助人脸参考，在广阔阴天背景下拍摄克制的低机位科幻肖像。"
+    },
+    "9": {
+      "title": "硬朗户外生活方式肖像",
+      "description": "把参考人物置于自然光户外编辑场景，搭配机能服装和虚化的复古越野车。"
+    },
+    "10": {
+      "title": "高级时尚网球广告",
+      "description": "用超大球拍、反光棚拍地面和巨型背景文字制作极简运动时尚画面。"
+    },
+    "11": {
+      "title": "翻页式科幻故事立体书",
+      "description": "把四个科幻主题组织成 2×2 百科版面，结合玩具立体场景和设定稿细节。"
+    },
+    "12": {
+      "title": "硬汉角色三视图",
+      "description": "用正面、侧面和背面视图制作紧凑且具有电影感的硬汉角色设定表。"
+    },
+    "13": {
+      "title": "写实未来机甲",
+      "description": "将生物或机器转化为金属质感、电影光影和写实细节兼具的未来机甲。"
+    },
+    "14": {
+      "title": "豪华邮轮技术信息图",
+      "description": "通过甲板剖面、参数、舱内亮点和性能仪表展示一艘虚构豪华邮轮。"
+    },
+    "15": {
+      "title": "文化标注旅行地图",
+      "description": "以微缩地标、地方美食、野生动物、统计数据和双语标注绘制信息丰富的国家地图。"
+    },
+    "16": {
+      "title": "机能外套技术规格表",
+      "description": "用多角度服装图、材质特写、模块化配件和技术参数完成男装设计规格页。"
+    },
+    "17": {
+      "title": "四格工程剖视板",
+      "description": "在精确网格中用爆炸结构、透明剖面、尺寸和工程标注比较四款消费设备。"
+    },
+    "18": {
+      "title": "八格动漫友谊分镜",
+      "description": "为失去纸风车的沉默孩子找到友谊，设计一套节奏清晰、标明镜头方向的情感分镜。"
+    },
+    "19": {
+      "title": "1990 年代独立卧室肖像",
+      "description": "以直闪、拼贴墙、胶片颗粒和怀旧独立风格重现随性的低保真卧室照片。"
+    },
+    "20": {
+      "title": "金色时刻山间草甸",
+      "description": "用蜿蜒小径、野花草甸、孤树、远处动物和发光山脉构建层次清楚的风景。"
+    },
+    "21": {
+      "title": "威尼斯超现实巨人旅行照",
+      "description": "运用强制透视，让巨型人物俏皮地坐在圣马可广场的地标建筑之间。"
+    },
+    "22": {
+      "title": "涂鸦叠层镜面自拍",
+      "description": "把参考人物放进明亮卧室的镜面自拍，再叠加手写文字、趣味图标和发光轮廓。"
+    },
+    "23": {
+      "title": "参考照片转收藏级手办",
+      "description": "把上传的人物照片变成写实桌面手办，并呈现建模屏幕、透明底座和插画包装。"
+    },
+    "24": {
+      "title": "物体分解成乐高积木",
+      "description": "定格日常物体向漂浮乐高积木转化的中间状态，同时保留原有颜色和纹理。"
+    },
+    "25": {
+      "title": "俯拍编辑式商品摄影",
+      "description": "用自然阳光、受控留白和可选陪衬元素构建可复用的俯拍商品场景。"
+    },
+    "26": {
+      "title": "纯白空间中的暗铬标志",
+      "description": "把品牌标志渲染成厚重抛光金属物体，加入细微划痕、边缘光晕、浅景深和胶片颗粒。"
+    },
+    "27": {
+      "title": "Notion 风格黑白头像",
+      "description": "使用自信的等粗线条和选择性黑色填充，创作有个性而非通用图标感的黑白矢量肖像。"
+    },
+    "28": {
+      "title": "保留参考图结构的刺绣质感转换",
+      "description": "在保留构图、人物身份、姿势和前后对照小图的同时，将上传照片重塑为具有博物馆藏品质感的立体刺绣作品。"
+    },
+    "29": {
+      "title": "几何马赛克蓝图肖像",
+      "description": "用相互咬合的多边形碎片、技术构造线和鲜明的现代主义色块构建当代肖像。"
+    },
+    "30": {
+      "title": "高级篮球编辑三联画",
+      "description": "以自信的运动员姿态、反光木地板、深红布景和精确控制的励志排版，构建三联式篮球广告。"
+    },
+    "31": {
+      "title": "伦勃朗光黑白时尚肖像",
+      "description": "用雕塑感伦勃朗光、克制的胶片颗粒和高级编辑质感，塑造内省的黑白棚拍肖像。"
+    },
+    "32": {
+      "title": "十三张参考图合成时尚场景",
+      "description": "将模特、汽车、服装、配饰、动物和小道具合并到统一棚拍画面的多参考压力测试。",
+      "content": "把提供的参考图合成为一张连贯的棚拍照片。一名时尚模特倚靠粉色 BMW 摆姿势，背景为浅灰色；让她穿戴参考服装与配饰。把绿色外星人钥匙扣挂在粉色手提包上，让粉色鹦鹉自然停在肩头，并让参考图中的巴哥犬坐在汽车旁。保留十三个来源元素各自的颜色、形状、材质和尺度，统一摄影机透视、柔和棚灯、接触阴影与反射。避免物体重复、手部错位、配饰悬空和拼贴接缝。"
+    }
   },
   "ja-JP": {
-    "1": { "title": "スイス幾何学のエンボスロゴ", "description": "ブランドマークを中央配置の単色レリーフに変え、液体ガラス風の縁と端正な余白で仕上げます。" },
-    "2": { "title": "質感を生かしたワックスシールロゴ", "description": "支給ロゴを、盛り上がった刻印と自然な歪み、柔らかな商品照明を備えた艶のある封蝋にします。" },
-    "3": { "title": "ソーシャルキャンペーン向けファッションコラージュ", "description": "ファッション写真、切り抜き、文字組み、制御された雑然さを統合するアートディレクションです。" },
-    "4": { "title": "統合型ソーシャル広告テンプレート", "description": "ブランド、見出し、ビジュアル設計、CTA を少数の変数で差し替えられる再利用可能な広告を作ります。" },
-    "5": { "title": "古写真の修復とカラー化", "description": "人物、光、時代の空気を保ちながら、傷、破れ、退色を修復します。" },
-    "6": { "title": "Gemini 2.5 対 3.1 編集ポートレート比較", "description": "同一のポートレート指示を Gemini 2.5 Flash Image と Gemini 3.1 Flash Image に適用して比較します。" },
-    "7": { "title": "フランスへのオマージュ・レリーフポスター", "description": "横顔、パリの名所、国旗色、エンボス文字を組み合わせた彫刻的な記念ポスターです。" },
-    "8": { "title": "余白を生かしたネオノワールSFポートレート", "description": "顔の参照画像を使い、広い曇天の下で抑制の効いたローアングル肖像を構成します。" },
-    "9": { "title": "無骨なアウトドア・ライフスタイルポートレート", "description": "参照人物を自然光の屋外エディトリアルに置き、機能服とぼけた旧型四輪駆動車を添えます。" },
-    "10": { "title": "ハイファッション・テニスキャンペーン", "description": "巨大なラケット、反射するスタジオ床、大胆な背景文字でミニマルなスポーツ広告を作ります。" },
-    "11": { "title": "見開きSFストーリー・ジオラマ", "description": "4つのSF題材を2×2の百科事典ページにまとめ、玩具風ジオラマと設定資料を組み合わせます。" },
-    "12": { "title": "無骨なヒーローの三面図", "description": "一人の人物を正面、側面、背面から示す、映画的で簡潔なキャラクターシートです。" },
-    "13": { "title": "写実的な未来メカ", "description": "生物や機械を、金属質感と映画的な光を備えた写実的メカへ変換する再利用可能な設計です。" },
-    "14": { "title": "豪華客船の技術インフォグラフィック", "description": "甲板断面、仕様、船内の見どころ、性能計器で架空の豪華客船を紹介します。" },
-    "15": { "title": "文化解説付きイラスト旅行地図", "description": "ミニチュア名所、郷土料理、野生動物、統計、二言語表記で情報豊かな国別地図を作ります。" },
-    "16": { "title": "テクニカルアウター仕様書", "description": "服の各方向図、素材の接写、着脱式アクセサリー、技術仕様を一枚にまとめます。" },
-    "17": { "title": "4分割エンジニアリング断面ボード", "description": "分解図、透明断面、寸法、注釈を用いて4つの民生機器を精密なグリッドで比較します。" },
-    "18": { "title": "8コマのアニメ友情絵コンテ", "description": "紙風車を失った無口な子どもが友情を得る物語を、感情の流れと撮影指示付きで描きます。" },
-    "19": { "title": "1990年代インディー風ベッドルームポートレート", "description": "直射フラッシュ、コラージュ壁、フィルム粒子で気取らないローファイ写真を再現します。" },
-    "20": { "title": "ゴールデンアワーの山岳草原", "description": "曲がる小道、野花、一本木、遠い動物、輝く山並みを整理して奥行きある風景を作ります。" },
-    "21": { "title": "ベネチアの超現実的な巨人旅行写真", "description": "強制遠近法を使い、巨大な人物がサン・マルコ広場の名所に腰掛ける遊び心ある写真を作ります。" },
-    "22": { "title": "落書きを重ねたミラーセルフィー", "description": "参照人物の寝室セルフィーに、手書きメモ、アイコン、発光アウトラインを重ねます。" },
-    "23": { "title": "参照写真からコレクタブルフィギュアへ", "description": "人物写真を、制作画面、透明台座、イラスト箱まで備えた写実的な卓上フィギュアに変えます。" },
-    "24": { "title": "LEGOブロックへ崩れるオブジェクト", "description": "日用品が浮遊するLEGOブロックへ変わる途中を、元の色と質感を残して静止させます。" },
-    "25": { "title": "真上から撮るエディトリアル商品写真", "description": "自然光、計算された余白、任意の小物で再利用可能な俯瞰商品シーンを構成します。" },
-    "26": { "title": "白い無限空間のダーククロームロゴ", "description": "正確なロゴを重い研磨金属として描き、微細傷、縁の光、浅い被写界深度、粒子感を加えます。" },
-    "27": { "title": "Notion風モノクロアバター", "description": "均一で自信のある線と選択的な黒ベタを使い、記号的すぎない個性的なベクター肖像を作ります。" },
-    "28": { "title": "参照画像の構図を保つ刺繍表現への変換", "description": "構図、人物の同一性、ポーズを維持し、比較用の小さな元画像も添えて、写真を触感豊かな美術館品質の刺繍作品へ変換します。" },
-    "29": { "title": "幾何学モザイクの設計図風ポートレート", "description": "かみ合う多角形の断片、技術的な補助線、鮮やかなモダニズムの色面で現代的な肖像を構成します。" },
-    "30": { "title": "ラグジュアリーなバスケットボール三連広告", "description": "自信に満ちた選手のポーズ、反射するコート、深紅の背景、緻密なメッセージ文字で三面構成のキャンペーンを作る。" },
-    "31": { "title": "レンブラント光のモノクロファッションポートレート", "description": "彫刻的なレンブラント照明、抑えたフィルム粒子、高級誌らしい仕上げで内省的な白黒肖像を演出する。" }
+    "1": {
+      "title": "スイス幾何学のエンボスロゴ",
+      "description": "ブランドマークを中央配置の単色レリーフに変え、液体ガラス風の縁と端正な余白で仕上げます。"
+    },
+    "2": {
+      "title": "質感を生かしたワックスシールロゴ",
+      "description": "支給ロゴを、盛り上がった刻印と自然な歪み、柔らかな商品照明を備えた艶のある封蝋にします。"
+    },
+    "3": {
+      "title": "ソーシャルキャンペーン向けファッションコラージュ",
+      "description": "ファッション写真、切り抜き、文字組み、制御された雑然さを統合するアートディレクションです。"
+    },
+    "4": {
+      "title": "統合型ソーシャル広告テンプレート",
+      "description": "ブランド、見出し、ビジュアル設計、CTA を少数の変数で差し替えられる再利用可能な広告を作ります。"
+    },
+    "5": {
+      "title": "古写真の修復とカラー化",
+      "description": "人物、光、時代の空気を保ちながら、傷、破れ、退色を修復します。"
+    },
+    "6": {
+      "title": "Gemini 2.5 対 3.1 編集ポートレート比較",
+      "description": "同一のポートレート指示を Gemini 2.5 Flash Image と Gemini 3.1 Flash Image に適用して比較します。"
+    },
+    "7": {
+      "title": "フランスへのオマージュ・レリーフポスター",
+      "description": "横顔、パリの名所、国旗色、エンボス文字を組み合わせた彫刻的な記念ポスターです。"
+    },
+    "8": {
+      "title": "余白を生かしたネオノワールSFポートレート",
+      "description": "顔の参照画像を使い、広い曇天の下で抑制の効いたローアングル肖像を構成します。"
+    },
+    "9": {
+      "title": "無骨なアウトドア・ライフスタイルポートレート",
+      "description": "参照人物を自然光の屋外エディトリアルに置き、機能服とぼけた旧型四輪駆動車を添えます。"
+    },
+    "10": {
+      "title": "ハイファッション・テニスキャンペーン",
+      "description": "巨大なラケット、反射するスタジオ床、大胆な背景文字でミニマルなスポーツ広告を作ります。"
+    },
+    "11": {
+      "title": "見開きSFストーリー・ジオラマ",
+      "description": "4つのSF題材を2×2の百科事典ページにまとめ、玩具風ジオラマと設定資料を組み合わせます。"
+    },
+    "12": {
+      "title": "無骨なヒーローの三面図",
+      "description": "一人の人物を正面、側面、背面から示す、映画的で簡潔なキャラクターシートです。"
+    },
+    "13": {
+      "title": "写実的な未来メカ",
+      "description": "生物や機械を、金属質感と映画的な光を備えた写実的メカへ変換する再利用可能な設計です。"
+    },
+    "14": {
+      "title": "豪華客船の技術インフォグラフィック",
+      "description": "甲板断面、仕様、船内の見どころ、性能計器で架空の豪華客船を紹介します。"
+    },
+    "15": {
+      "title": "文化解説付きイラスト旅行地図",
+      "description": "ミニチュア名所、郷土料理、野生動物、統計、二言語表記で情報豊かな国別地図を作ります。"
+    },
+    "16": {
+      "title": "テクニカルアウター仕様書",
+      "description": "服の各方向図、素材の接写、着脱式アクセサリー、技術仕様を一枚にまとめます。"
+    },
+    "17": {
+      "title": "4分割エンジニアリング断面ボード",
+      "description": "分解図、透明断面、寸法、注釈を用いて4つの民生機器を精密なグリッドで比較します。"
+    },
+    "18": {
+      "title": "8コマのアニメ友情絵コンテ",
+      "description": "紙風車を失った無口な子どもが友情を得る物語を、感情の流れと撮影指示付きで描きます。"
+    },
+    "19": {
+      "title": "1990年代インディー風ベッドルームポートレート",
+      "description": "直射フラッシュ、コラージュ壁、フィルム粒子で気取らないローファイ写真を再現します。"
+    },
+    "20": {
+      "title": "ゴールデンアワーの山岳草原",
+      "description": "曲がる小道、野花、一本木、遠い動物、輝く山並みを整理して奥行きある風景を作ります。"
+    },
+    "21": {
+      "title": "ベネチアの超現実的な巨人旅行写真",
+      "description": "強制遠近法を使い、巨大な人物がサン・マルコ広場の名所に腰掛ける遊び心ある写真を作ります。"
+    },
+    "22": {
+      "title": "落書きを重ねたミラーセルフィー",
+      "description": "参照人物の寝室セルフィーに、手書きメモ、アイコン、発光アウトラインを重ねます。"
+    },
+    "23": {
+      "title": "参照写真からコレクタブルフィギュアへ",
+      "description": "人物写真を、制作画面、透明台座、イラスト箱まで備えた写実的な卓上フィギュアに変えます。"
+    },
+    "24": {
+      "title": "LEGOブロックへ崩れるオブジェクト",
+      "description": "日用品が浮遊するLEGOブロックへ変わる途中を、元の色と質感を残して静止させます。"
+    },
+    "25": {
+      "title": "真上から撮るエディトリアル商品写真",
+      "description": "自然光、計算された余白、任意の小物で再利用可能な俯瞰商品シーンを構成します。"
+    },
+    "26": {
+      "title": "白い無限空間のダーククロームロゴ",
+      "description": "正確なロゴを重い研磨金属として描き、微細傷、縁の光、浅い被写界深度、粒子感を加えます。"
+    },
+    "27": {
+      "title": "Notion風モノクロアバター",
+      "description": "均一で自信のある線と選択的な黒ベタを使い、記号的すぎない個性的なベクター肖像を作ります。"
+    },
+    "28": {
+      "title": "参照画像の構図を保つ刺繍表現への変換",
+      "description": "構図、人物の同一性、ポーズを維持し、比較用の小さな元画像も添えて、写真を触感豊かな美術館品質の刺繍作品へ変換します。"
+    },
+    "29": {
+      "title": "幾何学モザイクの設計図風ポートレート",
+      "description": "かみ合う多角形の断片、技術的な補助線、鮮やかなモダニズムの色面で現代的な肖像を構成します。"
+    },
+    "30": {
+      "title": "ラグジュアリーなバスケットボール三連広告",
+      "description": "自信に満ちた選手のポーズ、反射するコート、深紅の背景、緻密なメッセージ文字で三面構成のキャンペーンを作る。"
+    },
+    "31": {
+      "title": "レンブラント光のモノクロファッションポートレート",
+      "description": "彫刻的なレンブラント照明、抑えたフィルム粒子、高級誌らしい仕上げで内省的な白黒肖像を演出する。"
+    },
+    "32": {
+      "title": "13枚の参照画像を統合したファッション撮影",
+      "description": "人物、車、衣装、小物、動物を一つのスタジオ構図へまとめる多参照ストレステスト。",
+      "content": "提供された参照画像を一枚の整合したスタジオ写真に統合する。淡いグレー背景で、モデルがピンクのBMWにもたれてポーズを取り、参照衣装とアクセサリーを着用する。緑の宇宙人キーホルダーはピンクのバッグに付け、ピンクのオウムは肩に自然に止まり、参照のパグは車の横に座らせる。13要素それぞれの色、形、素材、尺度を保ち、カメラ遠近、柔らかな照明、接地影、反射を統一する。重複、崩れた手、浮く小物、合成の継ぎ目は禁止。"
+    }
   },
   "ko-KR": {
-    "1": { "title": "스위스 기하학 엠보싱 로고", "description": "브랜드 마크를 중앙의 단색 부조로 만들고 액체 유리 테두리와 절제된 스위스식 여백으로 마무리합니다." },
-    "2": { "title": "촉감이 살아 있는 왁스 실 로고", "description": "제공된 로고를 볼록한 각인, 자연스러운 변형, 부드러운 제품 조명을 갖춘 광택 왁스 실로 표현합니다." },
-    "3": { "title": "소셜 캠페인용 패션 콜라주", "description": "패션 사진, 콜라주 조각, 타이포그래피와 통제된 시각적 혼란을 하나의 아트 디렉션으로 결합합니다." },
-    "4": { "title": "통합형 소셜 광고 템플릿", "description": "브랜드, 헤드라인, 비주얼 시스템과 CTA를 간단한 변수로 교체할 수 있는 재사용 광고를 만듭니다." },
-    "5": { "title": "오래된 사진 복원과 채색", "description": "인물과 빛, 시대적 분위기는 유지하면서 긁힘, 찢김과 퇴색을 복원합니다." },
-    "6": { "title": "Gemini 2.5 대 3.1 에디토리얼 인물 벤치마크", "description": "동일한 인물 촬영 지시를 Gemini 2.5 Flash Image와 Gemini 3.1 Flash Image에 적용해 결과를 비교합니다." },
-    "7": { "title": "프랑스 헌정 부조 포스터", "description": "측면 초상, 파리 명소, 국기 색상과 양각 제목을 조합한 조각적 국가 헌정 포스터입니다." },
-    "8": { "title": "여백 중심 네오 누아르 SF 초상", "description": "얼굴 참고 이미지를 이용해 넓은 흐린 하늘 아래 절제된 로우 앵글 초상을 연출합니다." },
-    "9": { "title": "거친 야외 라이프스타일 초상", "description": "참고 인물을 자연광 야외 화보에 배치하고 기능성 의상과 흐릿한 빈티지 사륜구동차를 더합니다." },
-    "10": { "title": "하이패션 테니스 캠페인", "description": "대형 라켓, 반사되는 스튜디오 바닥과 거대한 배경 글자로 미니멀한 스포츠 화보를 만듭니다." },
-    "11": { "title": "펼친 책 형태의 SF 디오라마", "description": "네 가지 SF 주제를 2×2 백과사전 지면에 배치하고 장난감 디오라마와 설정표를 결합합니다." },
-    "12": { "title": "거친 영웅 캐릭터 턴어라운드", "description": "한 인물을 정면, 측면, 후면으로 보여 주는 간결하고 영화적인 캐릭터 시트입니다." },
-    "13": { "title": "사실적인 미래형 메카", "description": "생물이나 기계를 금속 질감과 영화적 조명을 갖춘 사실적인 메카로 바꾸는 재사용 스타일 설계입니다." },
-    "14": { "title": "호화 크루즈선 기술 인포그래픽", "description": "갑판 단면, 제원, 실내 주요 공간과 성능 계기로 가상의 호화 크루즈선을 소개합니다." },
-    "15": { "title": "문화 설명이 담긴 여행 지도", "description": "미니어처 명소, 지역 음식, 야생동물, 통계와 이중 언어 표기로 풍부한 국가 지도를 만듭니다." },
-    "16": { "title": "테크니컬 아우터 사양서", "description": "의상 각도별 도면, 소재 확대, 모듈형 액세서리와 기술 사양을 한 장에 정리합니다." },
-    "17": { "title": "4분할 엔지니어링 컷어웨이 보드", "description": "분해 조립도, 투명 단면, 치수와 공학 주석으로 네 가지 소비자 기기를 정밀 비교합니다." },
-    "18": { "title": "8컷 애니메이션 우정 스토리보드", "description": "종이 바람개비를 잃은 말없는 아이가 우정을 얻는 이야기를 감정 흐름과 촬영 지시로 구성합니다." },
-    "19": { "title": "1990년대 인디 침실 초상", "description": "직광 플래시, 콜라주 벽, 필름 그레인과 향수 어린 인디 감성으로 로파이 침실 사진을 재현합니다." },
-    "20": { "title": "골든아워의 산악 초원", "description": "굽이치는 길, 야생화 초원, 외로운 나무, 먼 동물과 빛나는 산맥으로 깊이 있는 풍경을 만듭니다." },
-    "21": { "title": "베네치아의 초현실적 거인 여행 사진", "description": "강제 원근법으로 거대한 인물이 산마르코 광장 명소 사이에 앉은 유쾌한 여행 사진을 연출합니다." },
-    "22": { "title": "낙서를 겹친 거울 셀피", "description": "밝은 침실의 참고 인물 셀피 위에 손글씨, 장난스러운 아이콘과 빛나는 윤곽선을 더합니다." },
-    "23": { "title": "참고 사진을 수집용 피규어로", "description": "인물 사진을 모델링 화면, 투명 받침대와 일러스트 패키지를 갖춘 사실적인 탁상 피규어로 바꿉니다." },
-    "24": { "title": "LEGO 브릭으로 흩어지는 사물", "description": "일상 사물이 떠다니는 LEGO 브릭으로 변하는 순간을 원래 색과 질감을 보존해 정지시킵니다." },
-    "25": { "title": "탑뷰 에디토리얼 제품 사진", "description": "자연광, 통제된 여백과 선택 가능한 소품으로 재사용 가능한 탑뷰 제품 장면을 만듭니다." },
-    "26": { "title": "흰 공간 속 다크 크롬 로고", "description": "정확한 로고를 무거운 광택 금속으로 표현하고 미세 흠집, 가장자리 빛, 얕은 심도와 필름 그레인을 더합니다." },
-    "27": { "title": "Notion 스타일 흑백 아바타", "description": "자신감 있는 균일 선과 선택적 검정 면을 사용해 흔한 아이콘과 다른 개성 있는 벡터 초상을 만듭니다." },
-    "28": { "title": "참조 구도를 보존한 자수 질감 변환", "description": "구도, 인물 정체성, 자세를 유지하고 작은 전후 비교 이미지를 더해 업로드 사진을 촉감이 살아 있는 박물관급 자수 작품으로 변환합니다." },
-    "29": { "title": "기하학 모자이크 청사진 초상화", "description": "맞물린 다각형 조각, 기술 제도선, 대담한 모더니즘 색면으로 현대적인 초상화를 구성합니다." },
-    "30": { "title": "럭셔리 농구 에디토리얼 3면 구성", "description": "자신감 있는 선수 포즈, 반사되는 코트, 짙은 크림슨 무대와 정교한 동기부여 타이포그래피로 3면 캠페인을 구성합니다." },
-    "31": { "title": "렘브란트 조명의 흑백 패션 인물 사진", "description": "조각적인 렘브란트 조명과 절제된 필름 그레인, 고급 에디토리얼 마감으로 사색적인 흑백 스튜디오 초상을 연출합니다." }
+    "1": {
+      "title": "스위스 기하학 엠보싱 로고",
+      "description": "브랜드 마크를 중앙의 단색 부조로 만들고 액체 유리 테두리와 절제된 스위스식 여백으로 마무리합니다."
+    },
+    "2": {
+      "title": "촉감이 살아 있는 왁스 실 로고",
+      "description": "제공된 로고를 볼록한 각인, 자연스러운 변형, 부드러운 제품 조명을 갖춘 광택 왁스 실로 표현합니다."
+    },
+    "3": {
+      "title": "소셜 캠페인용 패션 콜라주",
+      "description": "패션 사진, 콜라주 조각, 타이포그래피와 통제된 시각적 혼란을 하나의 아트 디렉션으로 결합합니다."
+    },
+    "4": {
+      "title": "통합형 소셜 광고 템플릿",
+      "description": "브랜드, 헤드라인, 비주얼 시스템과 CTA를 간단한 변수로 교체할 수 있는 재사용 광고를 만듭니다."
+    },
+    "5": {
+      "title": "오래된 사진 복원과 채색",
+      "description": "인물과 빛, 시대적 분위기는 유지하면서 긁힘, 찢김과 퇴색을 복원합니다."
+    },
+    "6": {
+      "title": "Gemini 2.5 대 3.1 에디토리얼 인물 벤치마크",
+      "description": "동일한 인물 촬영 지시를 Gemini 2.5 Flash Image와 Gemini 3.1 Flash Image에 적용해 결과를 비교합니다."
+    },
+    "7": {
+      "title": "프랑스 헌정 부조 포스터",
+      "description": "측면 초상, 파리 명소, 국기 색상과 양각 제목을 조합한 조각적 국가 헌정 포스터입니다."
+    },
+    "8": {
+      "title": "여백 중심 네오 누아르 SF 초상",
+      "description": "얼굴 참고 이미지를 이용해 넓은 흐린 하늘 아래 절제된 로우 앵글 초상을 연출합니다."
+    },
+    "9": {
+      "title": "거친 야외 라이프스타일 초상",
+      "description": "참고 인물을 자연광 야외 화보에 배치하고 기능성 의상과 흐릿한 빈티지 사륜구동차를 더합니다."
+    },
+    "10": {
+      "title": "하이패션 테니스 캠페인",
+      "description": "대형 라켓, 반사되는 스튜디오 바닥과 거대한 배경 글자로 미니멀한 스포츠 화보를 만듭니다."
+    },
+    "11": {
+      "title": "펼친 책 형태의 SF 디오라마",
+      "description": "네 가지 SF 주제를 2×2 백과사전 지면에 배치하고 장난감 디오라마와 설정표를 결합합니다."
+    },
+    "12": {
+      "title": "거친 영웅 캐릭터 턴어라운드",
+      "description": "한 인물을 정면, 측면, 후면으로 보여 주는 간결하고 영화적인 캐릭터 시트입니다."
+    },
+    "13": {
+      "title": "사실적인 미래형 메카",
+      "description": "생물이나 기계를 금속 질감과 영화적 조명을 갖춘 사실적인 메카로 바꾸는 재사용 스타일 설계입니다."
+    },
+    "14": {
+      "title": "호화 크루즈선 기술 인포그래픽",
+      "description": "갑판 단면, 제원, 실내 주요 공간과 성능 계기로 가상의 호화 크루즈선을 소개합니다."
+    },
+    "15": {
+      "title": "문화 설명이 담긴 여행 지도",
+      "description": "미니어처 명소, 지역 음식, 야생동물, 통계와 이중 언어 표기로 풍부한 국가 지도를 만듭니다."
+    },
+    "16": {
+      "title": "테크니컬 아우터 사양서",
+      "description": "의상 각도별 도면, 소재 확대, 모듈형 액세서리와 기술 사양을 한 장에 정리합니다."
+    },
+    "17": {
+      "title": "4분할 엔지니어링 컷어웨이 보드",
+      "description": "분해 조립도, 투명 단면, 치수와 공학 주석으로 네 가지 소비자 기기를 정밀 비교합니다."
+    },
+    "18": {
+      "title": "8컷 애니메이션 우정 스토리보드",
+      "description": "종이 바람개비를 잃은 말없는 아이가 우정을 얻는 이야기를 감정 흐름과 촬영 지시로 구성합니다."
+    },
+    "19": {
+      "title": "1990년대 인디 침실 초상",
+      "description": "직광 플래시, 콜라주 벽, 필름 그레인과 향수 어린 인디 감성으로 로파이 침실 사진을 재현합니다."
+    },
+    "20": {
+      "title": "골든아워의 산악 초원",
+      "description": "굽이치는 길, 야생화 초원, 외로운 나무, 먼 동물과 빛나는 산맥으로 깊이 있는 풍경을 만듭니다."
+    },
+    "21": {
+      "title": "베네치아의 초현실적 거인 여행 사진",
+      "description": "강제 원근법으로 거대한 인물이 산마르코 광장 명소 사이에 앉은 유쾌한 여행 사진을 연출합니다."
+    },
+    "22": {
+      "title": "낙서를 겹친 거울 셀피",
+      "description": "밝은 침실의 참고 인물 셀피 위에 손글씨, 장난스러운 아이콘과 빛나는 윤곽선을 더합니다."
+    },
+    "23": {
+      "title": "참고 사진을 수집용 피규어로",
+      "description": "인물 사진을 모델링 화면, 투명 받침대와 일러스트 패키지를 갖춘 사실적인 탁상 피규어로 바꿉니다."
+    },
+    "24": {
+      "title": "LEGO 브릭으로 흩어지는 사물",
+      "description": "일상 사물이 떠다니는 LEGO 브릭으로 변하는 순간을 원래 색과 질감을 보존해 정지시킵니다."
+    },
+    "25": {
+      "title": "탑뷰 에디토리얼 제품 사진",
+      "description": "자연광, 통제된 여백과 선택 가능한 소품으로 재사용 가능한 탑뷰 제품 장면을 만듭니다."
+    },
+    "26": {
+      "title": "흰 공간 속 다크 크롬 로고",
+      "description": "정확한 로고를 무거운 광택 금속으로 표현하고 미세 흠집, 가장자리 빛, 얕은 심도와 필름 그레인을 더합니다."
+    },
+    "27": {
+      "title": "Notion 스타일 흑백 아바타",
+      "description": "자신감 있는 균일 선과 선택적 검정 면을 사용해 흔한 아이콘과 다른 개성 있는 벡터 초상을 만듭니다."
+    },
+    "28": {
+      "title": "참조 구도를 보존한 자수 질감 변환",
+      "description": "구도, 인물 정체성, 자세를 유지하고 작은 전후 비교 이미지를 더해 업로드 사진을 촉감이 살아 있는 박물관급 자수 작품으로 변환합니다."
+    },
+    "29": {
+      "title": "기하학 모자이크 청사진 초상화",
+      "description": "맞물린 다각형 조각, 기술 제도선, 대담한 모더니즘 색면으로 현대적인 초상화를 구성합니다."
+    },
+    "30": {
+      "title": "럭셔리 농구 에디토리얼 3면 구성",
+      "description": "자신감 있는 선수 포즈, 반사되는 코트, 짙은 크림슨 무대와 정교한 동기부여 타이포그래피로 3면 캠페인을 구성합니다."
+    },
+    "31": {
+      "title": "렘브란트 조명의 흑백 패션 인물 사진",
+      "description": "조각적인 렘브란트 조명과 절제된 필름 그레인, 고급 에디토리얼 마감으로 사색적인 흑백 스튜디오 초상을 연출합니다."
+    },
+    "32": {
+      "title": "13개 레퍼런스를 합친 패션 스튜디오 장면",
+      "description": "모델, 자동차, 의상, 액세서리, 동물과 소품을 하나의 일관된 촬영 장면으로 결합하는 다중 레퍼런스 테스트입니다.",
+      "content": "제공된 레퍼런스를 하나의 자연스러운 스튜디오 사진으로 합친다. 연회색 배경에서 패션 모델이 분홍색 BMW에 기대어 포즈를 취하고 참고 의상과 액세서리를 착용한다. 초록 외계인 키링은 분홍 핸드백에 달고, 분홍 앵무새는 어깨에 자연스럽게 앉히며, 참고 이미지의 퍼그는 자동차 옆에 앉힌다. 13개 요소의 색, 형태, 재질과 크기를 보존하고 카메라 원근, 부드러운 스튜디오 조명, 접촉 그림자와 반사를 통일한다. 중복 물체, 잘못된 손, 떠 있는 액세서리와 콜라주 이음새를 피한다."
+    }
   },
   "es-ES": {
-    "1": { "title": "Logotipo geométrico suizo en relieve", "description": "Convierte una marca en un relieve monocromo centrado, con borde de vidrio líquido y un espaciado sobrio de diseño suizo." },
-    "2": { "title": "Sello de cera de marca con textura", "description": "Representa el logotipo facilitado como un sello de cera brillante, irregular y en relieve, con luz suave de producto." },
-    "3": { "title": "Collage de moda para una campaña social", "description": "Un sistema de dirección artística que combina fotografía de moda, recortes, tipografía y desorden visual controlado." },
-    "4": { "title": "Plantilla integrada para anuncios sociales", "description": "Crea un anuncio reutilizable cuyo nombre, titular, sistema visual y CTA se cambian mediante variables sencillas." },
-    "5": { "title": "Restauración y coloreado de una fotografía antigua", "description": "Repara arañazos, roturas y pérdida de color sin alterar las personas, la luz ni la atmósfera original." },
-    "6": { "title": "Comparativa de retrato editorial: Gemini 2.5 frente a 3.1", "description": "Aplica el mismo encargo de retrato a Gemini 2.5 Flash Image y Gemini 3.1 Flash Image para comparar sus resultados." },
-    "7": { "title": "Cartel en relieve como homenaje a Francia", "description": "Combina un retrato de perfil, monumentos de París, colores nacionales y texto estampado en un cartel escultórico." },
-    "8": { "title": "Retrato de ciencia ficción neo-noir con gran espacio negativo", "description": "Usa una referencia facial para componer un retrato sobrio en contrapicado bajo un cielo nublado dominante." },
-    "9": { "title": "Retrato de estilo de vida al aire libre", "description": "Sitúa el rostro de referencia en una escena editorial con luz natural, ropa técnica y un 4x4 clásico desenfocado." },
-    "10": { "title": "Campaña de tenis de alta moda", "description": "Crea una editorial deportiva minimalista con raqueta gigante, suelo reflectante y tipografía monumental al fondo." },
-    "11": { "title": "Diorama de ciencia ficción en un libro abierto", "description": "Convierte cuatro temas de ciencia ficción en una doble página 2×2 con dioramas de juguete y fichas de diseño." },
-    "12": { "title": "Hoja de vistas de un héroe curtido", "description": "Una ficha cinematográfica compacta que muestra al mismo personaje de frente, de perfil y de espaldas." },
-    "13": { "title": "Mecha futurista fotorrealista", "description": "Una receta reutilizable para transformar criaturas o máquinas en diseños mecha metálicos, cinematográficos y realistas." },
-    "14": { "title": "Infografía técnica de un crucero de lujo", "description": "Presenta un crucero ficticio mediante cortes de cubierta, especificaciones, interiores destacados e indicadores de rendimiento." },
-    "15": { "title": "Mapas de viaje ilustrados con notas culturales", "description": "Construye mapas nacionales con monumentos en miniatura, gastronomía, fauna, estadísticas y rótulos bilingües." },
-    "16": { "title": "Ficha técnica de una prenda exterior", "description": "Organiza vistas de la prenda, primeros planos de materiales, accesorios modulares y especificaciones en una lámina de diseño." },
-    "17": { "title": "Lámina de ingeniería con cuatro cortes", "description": "Compara cuatro dispositivos mediante despieces, cortes transparentes, medidas y anotaciones en una cuadrícula precisa." },
-    "18": { "title": "Storyboard de amistad anime en ocho viñetas", "description": "Diseña una secuencia emotiva, con indicaciones de cámara, sobre un niño silencioso que encuentra amistad tras perder su molinillo." },
-    "19": { "title": "Retrato indie de dormitorio de los años noventa", "description": "Recrea una foto lo-fi espontánea con flash directo, paredes cubiertas de collages, grano y nostalgia indie." },
-    "20": { "title": "Pradera de montaña en la hora dorada", "description": "Compone un paisaje con sendero sinuoso, flores silvestres, un árbol solitario, fauna lejana y montañas luminosas." },
-    "21": { "title": "Gigante surrealista en Venecia", "description": "Crea una fotografía de viaje con perspectiva forzada en la que una figura gigante se sienta entre los monumentos de San Marcos." },
-    "22": { "title": "Selfi ante el espejo con capas de garabatos", "description": "Coloca al personaje de referencia en un dormitorio luminoso y añade notas, iconos y un contorno brillante sobre la foto." },
-    "23": { "title": "De foto de referencia a figura de colección", "description": "Convierte una foto de personaje en una figura realista de escritorio con pantalla de modelado, base transparente y caja ilustrada." },
-    "24": { "title": "Objeto que se deshace en ladrillos LEGO", "description": "Congela un objeto a mitad de su transformación en ladrillos LEGO flotantes, conservando sus colores y texturas." },
-    "25": { "title": "Fotografía editorial de producto cenital", "description": "Crea una escena de producto reutilizable con luz natural, espacio negativo controlado y elementos complementarios opcionales." },
-    "26": { "title": "Logotipo de cromo oscuro en un vacío blanco", "description": "Representa la marca como metal pulido y pesado, con microarañazos, halo en los bordes, poca profundidad de campo y grano." },
-    "27": { "title": "Avatar monocromo al estilo Notion", "description": "Crea un retrato vectorial con personalidad mediante líneas uniformes seguras y rellenos negros selectivos, sin aspecto de icono genérico." },
-    "28": { "title": "Transformación bordada que conserva la referencia", "description": "Convierte una foto subida en un bordado táctil de calidad museística conservando la composición, las identidades, la pose y una pequeña comparación del antes y el después." },
-    "29": { "title": "Retrato mosaico con estética de plano técnico", "description": "Construye un retrato contemporáneo con fragmentos poligonales entrelazados, líneas de construcción técnica y campos de color modernistas." },
-    "30": { "title": "Tríptico editorial de baloncesto de lujo", "description": "Construye una campaña en tres paneles con poses seguras, parquet reflectante, escenografía carmesí y tipografía motivacional cuidadosamente dirigida." },
-    "31": { "title": "Retrato de moda monocromo con luz Rembrandt", "description": "Dirige un retrato introspectivo en blanco y negro con luz Rembrandt escultórica, grano contenido y acabado editorial de lujo." }
+    "1": {
+      "title": "Logotipo geométrico suizo en relieve",
+      "description": "Convierte una marca en un relieve monocromo centrado, con borde de vidrio líquido y un espaciado sobrio de diseño suizo."
+    },
+    "2": {
+      "title": "Sello de cera de marca con textura",
+      "description": "Representa el logotipo facilitado como un sello de cera brillante, irregular y en relieve, con luz suave de producto."
+    },
+    "3": {
+      "title": "Collage de moda para una campaña social",
+      "description": "Un sistema de dirección artística que combina fotografía de moda, recortes, tipografía y desorden visual controlado."
+    },
+    "4": {
+      "title": "Plantilla integrada para anuncios sociales",
+      "description": "Crea un anuncio reutilizable cuyo nombre, titular, sistema visual y CTA se cambian mediante variables sencillas."
+    },
+    "5": {
+      "title": "Restauración y coloreado de una fotografía antigua",
+      "description": "Repara arañazos, roturas y pérdida de color sin alterar las personas, la luz ni la atmósfera original."
+    },
+    "6": {
+      "title": "Comparativa de retrato editorial: Gemini 2.5 frente a 3.1",
+      "description": "Aplica el mismo encargo de retrato a Gemini 2.5 Flash Image y Gemini 3.1 Flash Image para comparar sus resultados."
+    },
+    "7": {
+      "title": "Cartel en relieve como homenaje a Francia",
+      "description": "Combina un retrato de perfil, monumentos de París, colores nacionales y texto estampado en un cartel escultórico."
+    },
+    "8": {
+      "title": "Retrato de ciencia ficción neo-noir con gran espacio negativo",
+      "description": "Usa una referencia facial para componer un retrato sobrio en contrapicado bajo un cielo nublado dominante."
+    },
+    "9": {
+      "title": "Retrato de estilo de vida al aire libre",
+      "description": "Sitúa el rostro de referencia en una escena editorial con luz natural, ropa técnica y un 4x4 clásico desenfocado."
+    },
+    "10": {
+      "title": "Campaña de tenis de alta moda",
+      "description": "Crea una editorial deportiva minimalista con raqueta gigante, suelo reflectante y tipografía monumental al fondo."
+    },
+    "11": {
+      "title": "Diorama de ciencia ficción en un libro abierto",
+      "description": "Convierte cuatro temas de ciencia ficción en una doble página 2×2 con dioramas de juguete y fichas de diseño."
+    },
+    "12": {
+      "title": "Hoja de vistas de un héroe curtido",
+      "description": "Una ficha cinematográfica compacta que muestra al mismo personaje de frente, de perfil y de espaldas."
+    },
+    "13": {
+      "title": "Mecha futurista fotorrealista",
+      "description": "Una receta reutilizable para transformar criaturas o máquinas en diseños mecha metálicos, cinematográficos y realistas."
+    },
+    "14": {
+      "title": "Infografía técnica de un crucero de lujo",
+      "description": "Presenta un crucero ficticio mediante cortes de cubierta, especificaciones, interiores destacados e indicadores de rendimiento."
+    },
+    "15": {
+      "title": "Mapas de viaje ilustrados con notas culturales",
+      "description": "Construye mapas nacionales con monumentos en miniatura, gastronomía, fauna, estadísticas y rótulos bilingües."
+    },
+    "16": {
+      "title": "Ficha técnica de una prenda exterior",
+      "description": "Organiza vistas de la prenda, primeros planos de materiales, accesorios modulares y especificaciones en una lámina de diseño."
+    },
+    "17": {
+      "title": "Lámina de ingeniería con cuatro cortes",
+      "description": "Compara cuatro dispositivos mediante despieces, cortes transparentes, medidas y anotaciones en una cuadrícula precisa."
+    },
+    "18": {
+      "title": "Storyboard de amistad anime en ocho viñetas",
+      "description": "Diseña una secuencia emotiva, con indicaciones de cámara, sobre un niño silencioso que encuentra amistad tras perder su molinillo."
+    },
+    "19": {
+      "title": "Retrato indie de dormitorio de los años noventa",
+      "description": "Recrea una foto lo-fi espontánea con flash directo, paredes cubiertas de collages, grano y nostalgia indie."
+    },
+    "20": {
+      "title": "Pradera de montaña en la hora dorada",
+      "description": "Compone un paisaje con sendero sinuoso, flores silvestres, un árbol solitario, fauna lejana y montañas luminosas."
+    },
+    "21": {
+      "title": "Gigante surrealista en Venecia",
+      "description": "Crea una fotografía de viaje con perspectiva forzada en la que una figura gigante se sienta entre los monumentos de San Marcos."
+    },
+    "22": {
+      "title": "Selfi ante el espejo con capas de garabatos",
+      "description": "Coloca al personaje de referencia en un dormitorio luminoso y añade notas, iconos y un contorno brillante sobre la foto."
+    },
+    "23": {
+      "title": "De foto de referencia a figura de colección",
+      "description": "Convierte una foto de personaje en una figura realista de escritorio con pantalla de modelado, base transparente y caja ilustrada."
+    },
+    "24": {
+      "title": "Objeto que se deshace en ladrillos LEGO",
+      "description": "Congela un objeto a mitad de su transformación en ladrillos LEGO flotantes, conservando sus colores y texturas."
+    },
+    "25": {
+      "title": "Fotografía editorial de producto cenital",
+      "description": "Crea una escena de producto reutilizable con luz natural, espacio negativo controlado y elementos complementarios opcionales."
+    },
+    "26": {
+      "title": "Logotipo de cromo oscuro en un vacío blanco",
+      "description": "Representa la marca como metal pulido y pesado, con microarañazos, halo en los bordes, poca profundidad de campo y grano."
+    },
+    "27": {
+      "title": "Avatar monocromo al estilo Notion",
+      "description": "Crea un retrato vectorial con personalidad mediante líneas uniformes seguras y rellenos negros selectivos, sin aspecto de icono genérico."
+    },
+    "28": {
+      "title": "Transformación bordada que conserva la referencia",
+      "description": "Convierte una foto subida en un bordado táctil de calidad museística conservando la composición, las identidades, la pose y una pequeña comparación del antes y el después."
+    },
+    "29": {
+      "title": "Retrato mosaico con estética de plano técnico",
+      "description": "Construye un retrato contemporáneo con fragmentos poligonales entrelazados, líneas de construcción técnica y campos de color modernistas."
+    },
+    "30": {
+      "title": "Tríptico editorial de baloncesto de lujo",
+      "description": "Construye una campaña en tres paneles con poses seguras, parquet reflectante, escenografía carmesí y tipografía motivacional cuidadosamente dirigida."
+    },
+    "31": {
+      "title": "Retrato de moda monocromo con luz Rembrandt",
+      "description": "Dirige un retrato introspectivo en blanco y negro con luz Rembrandt escultórica, grano contenido y acabado editorial de lujo."
+    },
+    "32": {
+      "title": "Fusión de trece referencias en una escena de moda",
+      "description": "Prueba multirreferencia que integra modelo, coche, ropa, accesorios, animales y objetos en una sola fotografía de estudio coherente.",
+      "content": "Combina las referencias en una fotografía de estudio coherente. Una modelo posa apoyada en un BMW rosa sobre fondo gris claro, vestida con las prendas y accesorios de referencia. Sujeta el llavero alienígena verde al bolso rosa, coloca el loro rosa de forma natural sobre su hombro y sienta al carlino junto al coche. Conserva el color, la forma, el material y la escala de los trece elementos. Unifica perspectiva, luz suave, sombras de contacto y reflejos. Evita duplicados, manos defectuosas, accesorios flotantes y costuras de collage."
+    }
   },
   "de-DE": {
-    "1": { "title": "Schweizer Geometrie als geprägtes Logo", "description": "Verwandelt ein Markenzeichen in ein zentriertes monochromes Relief mit flüssig wirkender Glaskante und ruhigem Schweizer Weißraum." },
-    "2": { "title": "Haptisches Wachssiegel für Marken", "description": "Setzt ein Logo als glänzendes, unregelmäßiges Wachssiegel mit erhabenem Abdruck und weichem Produktlicht um." },
-    "3": { "title": "Fashion-Collage für eine Social-Kampagne", "description": "Ein Art-Direction-System aus Modefotografie, Collagefragmenten, Typografie und bewusst kontrollierter Unordnung." },
-    "4": { "title": "Integrierte Vorlage für Social Ads", "description": "Erstellt eine wiederverwendbare Anzeige, deren Marke, Headline, Bildsystem und CTA über kompakte Variablen austauschbar sind." },
-    "5": { "title": "Altes Foto restaurieren und kolorieren", "description": "Repariert Kratzer, Risse und Verblassung, ohne Personen, Licht und Atmosphäre der Vorlage zu verändern." },
-    "6": { "title": "Editorial-Porträtvergleich Gemini 2.5 gegen 3.1", "description": "Vergleicht Gemini 2.5 Flash Image und Gemini 3.1 Flash Image anhand desselben kontrollierten Porträtbriefings." },
-    "7": { "title": "Reliefplakat als Hommage an Frankreich", "description": "Verbindet Profilporträt, Pariser Wahrzeichen, Nationalfarben und geprägte Schrift zu einem skulpturalen Tribute-Poster." },
-    "8": { "title": "Neo-Noir-Sci-Fi-Porträt mit viel Negativraum", "description": "Inszeniert eine Gesichtsreferenz als zurückhaltendes Porträt aus tiefer Perspektive unter einem weiten bedeckten Himmel." },
-    "9": { "title": "Robustes Outdoor-Lifestyle-Porträt", "description": "Versetzt das Referenzgesicht in eine natürlich beleuchtete Editorial-Szene mit Funktionskleidung und unscharfem Vintage-Geländewagen." },
-    "10": { "title": "High-Fashion-Tenniskampagne", "description": "Gestaltet ein minimalistisches Sport-Editorial mit übergroßem Schläger, spiegelndem Studioboden und monumentaler Hintergrundschrift." },
-    "11": { "title": "Aufgeschlagenes Sci-Fi-Geschichtendiorama", "description": "Ordnet vier Science-Fiction-Themen als 2×2-Enzyklopädieseite mit Spielzeugdioramen und Model-Sheet-Details an." },
-    "12": { "title": "Charakteransichten eines rauen Helden", "description": "Ein kompaktes filmisches Character Sheet mit derselben Figur von vorn, von der Seite und von hinten." },
-    "13": { "title": "Fotorealistischer Zukunfts-Mecha", "description": "Ein wiederverwendbares Stilrezept, das Kreaturen oder Maschinen in metallische, filmische und realistische Mecha-Entwürfe verwandelt." },
-    "14": { "title": "Technische Infografik eines Luxuskreuzfahrtschiffs", "description": "Präsentiert ein fiktives Schiff mit Deckschnitten, Kennzahlen, Innenraum-Highlights und Leistungsanzeigen." },
-    "15": { "title": "Illustrierte Reisekarten mit Kulturhinweisen", "description": "Erstellt detailreiche Länderkarten aus Miniaturwahrzeichen, Speisen, Tierwelt, Statistiken und zweisprachigen Beschriftungen." },
-    "16": { "title": "Technisches Datenblatt für Outdoor-Bekleidung", "description": "Bündelt Kleidungsansichten, Materialdetails, modulares Zubehör und technische Angaben auf einem vollständigen Designblatt." },
-    "17": { "title": "Vierfeldtafel mit technischen Schnittzeichnungen", "description": "Vergleicht vier Geräte in einem präzisen Raster mit Explosionsansichten, transparenten Schnitten, Maßen und Anmerkungen." },
-    "18": { "title": "Achtteiliges Anime-Storyboard über Freundschaft", "description": "Plant eine emotionale Bildfolge mit Kameraangaben über ein stilles Kind, das nach dem Verlust seines Windrads Freundschaft findet." },
-    "19": { "title": "Indie-Schlafzimmerporträt der 1990er", "description": "Rekonstruiert ein beiläufiges Lo-Fi-Foto mit Direktblitz, Collagewänden, Filmkorn und nostalgischer Indie-Ästhetik." },
-    "20": { "title": "Bergwiese zur goldenen Stunde", "description": "Baut eine gestaffelte Landschaft aus gewundenem Weg, Wildblumen, Einzelbaum, ferner Tierwelt und leuchtendem Gebirge." },
-    "21": { "title": "Surreale Riesin in Venedig", "description": "Inszeniert mit erzwungener Perspektive eine spielerische Reisefotografie zwischen den Wahrzeichen des Markusplatzes." },
-    "22": { "title": "Spiegel-Selfie mit Kritzel-Ebenen", "description": "Setzt die Referenzfigur in ein helles Schlafzimmer-Selfie und ergänzt Handschrift, verspielte Symbole und eine leuchtende Kontur." },
-    "23": { "title": "Vom Referenzfoto zur Sammlerfigur", "description": "Verwandelt ein Charakterfoto in eine realistische Tischfigur mit Modellierungsbildschirm, Acrylsockel und illustrierter Verpackung." },
-    "24": { "title": "Objekt zerfällt in LEGO-Steine", "description": "Friert den Moment ein, in dem ein Alltagsobjekt unter Beibehaltung seiner Farben und Texturen in schwebende LEGO-Steine übergeht." },
-    "25": { "title": "Editoriale Produktaufnahme von oben", "description": "Entwirft eine wiederverwendbare Draufsicht mit natürlichem Sonnenlicht, bewusstem Freiraum und optionalen Begleitelementen." },
-    "26": { "title": "Dunkles Chromlogo im weißen Raum", "description": "Rendert das exakte Markenzeichen als schweres poliertes Metall mit Mikrokratzern, Kantenleuchten, geringer Schärfentiefe und Filmkorn." },
-    "27": { "title": "Monochromer Avatar im Notion-Stil", "description": "Erzeugt mit sicherer Monoline-Zeichnung und gezielten Schwarzflächen ein persönliches Vektorporträt statt eines generischen Icons." },
-    "28": { "title": "Referenzerhaltende Verwandlung in Stickkunst", "description": "Verwandle ein hochgeladenes Foto in eine fühlbar wirkende Stickarbeit in Museumsqualität, ohne Komposition, Identitäten, Pose und eine kleine Vorher-nachher-Referenz zu verlieren." },
-    "29": { "title": "Geometrisches Mosaikporträt im Blueprint-Stil", "description": "Erzeuge ein zeitgenössisches Porträt aus ineinandergreifenden Polygonfragmenten, technischen Konstruktionslinien und kräftigen modernistischen Farbflächen." },
-    "30": { "title": "Luxuriöses Basketball-Editorial als Triptychon", "description": "Entwirf eine dreiteilige Kampagne mit selbstbewussten Athletenposen, spiegelndem Parkett, tiefroter Bühne und präzise geführter Motivationstypografie." },
-    "31": { "title": "Monochromes Modeporträt im Rembrandt-Licht", "description": "Inszeniere ein nachdenkliches Schwarz-Weiß-Porträt mit plastischem Rembrandt-Licht, kontrolliertem Filmkorn und zurückhaltendem Luxusfinish." }
+    "1": {
+      "title": "Schweizer Geometrie als geprägtes Logo",
+      "description": "Verwandelt ein Markenzeichen in ein zentriertes monochromes Relief mit flüssig wirkender Glaskante und ruhigem Schweizer Weißraum."
+    },
+    "2": {
+      "title": "Haptisches Wachssiegel für Marken",
+      "description": "Setzt ein Logo als glänzendes, unregelmäßiges Wachssiegel mit erhabenem Abdruck und weichem Produktlicht um."
+    },
+    "3": {
+      "title": "Fashion-Collage für eine Social-Kampagne",
+      "description": "Ein Art-Direction-System aus Modefotografie, Collagefragmenten, Typografie und bewusst kontrollierter Unordnung."
+    },
+    "4": {
+      "title": "Integrierte Vorlage für Social Ads",
+      "description": "Erstellt eine wiederverwendbare Anzeige, deren Marke, Headline, Bildsystem und CTA über kompakte Variablen austauschbar sind."
+    },
+    "5": {
+      "title": "Altes Foto restaurieren und kolorieren",
+      "description": "Repariert Kratzer, Risse und Verblassung, ohne Personen, Licht und Atmosphäre der Vorlage zu verändern."
+    },
+    "6": {
+      "title": "Editorial-Porträtvergleich Gemini 2.5 gegen 3.1",
+      "description": "Vergleicht Gemini 2.5 Flash Image und Gemini 3.1 Flash Image anhand desselben kontrollierten Porträtbriefings."
+    },
+    "7": {
+      "title": "Reliefplakat als Hommage an Frankreich",
+      "description": "Verbindet Profilporträt, Pariser Wahrzeichen, Nationalfarben und geprägte Schrift zu einem skulpturalen Tribute-Poster."
+    },
+    "8": {
+      "title": "Neo-Noir-Sci-Fi-Porträt mit viel Negativraum",
+      "description": "Inszeniert eine Gesichtsreferenz als zurückhaltendes Porträt aus tiefer Perspektive unter einem weiten bedeckten Himmel."
+    },
+    "9": {
+      "title": "Robustes Outdoor-Lifestyle-Porträt",
+      "description": "Versetzt das Referenzgesicht in eine natürlich beleuchtete Editorial-Szene mit Funktionskleidung und unscharfem Vintage-Geländewagen."
+    },
+    "10": {
+      "title": "High-Fashion-Tenniskampagne",
+      "description": "Gestaltet ein minimalistisches Sport-Editorial mit übergroßem Schläger, spiegelndem Studioboden und monumentaler Hintergrundschrift."
+    },
+    "11": {
+      "title": "Aufgeschlagenes Sci-Fi-Geschichtendiorama",
+      "description": "Ordnet vier Science-Fiction-Themen als 2×2-Enzyklopädieseite mit Spielzeugdioramen und Model-Sheet-Details an."
+    },
+    "12": {
+      "title": "Charakteransichten eines rauen Helden",
+      "description": "Ein kompaktes filmisches Character Sheet mit derselben Figur von vorn, von der Seite und von hinten."
+    },
+    "13": {
+      "title": "Fotorealistischer Zukunfts-Mecha",
+      "description": "Ein wiederverwendbares Stilrezept, das Kreaturen oder Maschinen in metallische, filmische und realistische Mecha-Entwürfe verwandelt."
+    },
+    "14": {
+      "title": "Technische Infografik eines Luxuskreuzfahrtschiffs",
+      "description": "Präsentiert ein fiktives Schiff mit Deckschnitten, Kennzahlen, Innenraum-Highlights und Leistungsanzeigen."
+    },
+    "15": {
+      "title": "Illustrierte Reisekarten mit Kulturhinweisen",
+      "description": "Erstellt detailreiche Länderkarten aus Miniaturwahrzeichen, Speisen, Tierwelt, Statistiken und zweisprachigen Beschriftungen."
+    },
+    "16": {
+      "title": "Technisches Datenblatt für Outdoor-Bekleidung",
+      "description": "Bündelt Kleidungsansichten, Materialdetails, modulares Zubehör und technische Angaben auf einem vollständigen Designblatt."
+    },
+    "17": {
+      "title": "Vierfeldtafel mit technischen Schnittzeichnungen",
+      "description": "Vergleicht vier Geräte in einem präzisen Raster mit Explosionsansichten, transparenten Schnitten, Maßen und Anmerkungen."
+    },
+    "18": {
+      "title": "Achtteiliges Anime-Storyboard über Freundschaft",
+      "description": "Plant eine emotionale Bildfolge mit Kameraangaben über ein stilles Kind, das nach dem Verlust seines Windrads Freundschaft findet."
+    },
+    "19": {
+      "title": "Indie-Schlafzimmerporträt der 1990er",
+      "description": "Rekonstruiert ein beiläufiges Lo-Fi-Foto mit Direktblitz, Collagewänden, Filmkorn und nostalgischer Indie-Ästhetik."
+    },
+    "20": {
+      "title": "Bergwiese zur goldenen Stunde",
+      "description": "Baut eine gestaffelte Landschaft aus gewundenem Weg, Wildblumen, Einzelbaum, ferner Tierwelt und leuchtendem Gebirge."
+    },
+    "21": {
+      "title": "Surreale Riesin in Venedig",
+      "description": "Inszeniert mit erzwungener Perspektive eine spielerische Reisefotografie zwischen den Wahrzeichen des Markusplatzes."
+    },
+    "22": {
+      "title": "Spiegel-Selfie mit Kritzel-Ebenen",
+      "description": "Setzt die Referenzfigur in ein helles Schlafzimmer-Selfie und ergänzt Handschrift, verspielte Symbole und eine leuchtende Kontur."
+    },
+    "23": {
+      "title": "Vom Referenzfoto zur Sammlerfigur",
+      "description": "Verwandelt ein Charakterfoto in eine realistische Tischfigur mit Modellierungsbildschirm, Acrylsockel und illustrierter Verpackung."
+    },
+    "24": {
+      "title": "Objekt zerfällt in LEGO-Steine",
+      "description": "Friert den Moment ein, in dem ein Alltagsobjekt unter Beibehaltung seiner Farben und Texturen in schwebende LEGO-Steine übergeht."
+    },
+    "25": {
+      "title": "Editoriale Produktaufnahme von oben",
+      "description": "Entwirft eine wiederverwendbare Draufsicht mit natürlichem Sonnenlicht, bewusstem Freiraum und optionalen Begleitelementen."
+    },
+    "26": {
+      "title": "Dunkles Chromlogo im weißen Raum",
+      "description": "Rendert das exakte Markenzeichen als schweres poliertes Metall mit Mikrokratzern, Kantenleuchten, geringer Schärfentiefe und Filmkorn."
+    },
+    "27": {
+      "title": "Monochromer Avatar im Notion-Stil",
+      "description": "Erzeugt mit sicherer Monoline-Zeichnung und gezielten Schwarzflächen ein persönliches Vektorporträt statt eines generischen Icons."
+    },
+    "28": {
+      "title": "Referenzerhaltende Verwandlung in Stickkunst",
+      "description": "Verwandle ein hochgeladenes Foto in eine fühlbar wirkende Stickarbeit in Museumsqualität, ohne Komposition, Identitäten, Pose und eine kleine Vorher-nachher-Referenz zu verlieren."
+    },
+    "29": {
+      "title": "Geometrisches Mosaikporträt im Blueprint-Stil",
+      "description": "Erzeuge ein zeitgenössisches Porträt aus ineinandergreifenden Polygonfragmenten, technischen Konstruktionslinien und kräftigen modernistischen Farbflächen."
+    },
+    "30": {
+      "title": "Luxuriöses Basketball-Editorial als Triptychon",
+      "description": "Entwirf eine dreiteilige Kampagne mit selbstbewussten Athletenposen, spiegelndem Parkett, tiefroter Bühne und präzise geführter Motivationstypografie."
+    },
+    "31": {
+      "title": "Monochromes Modeporträt im Rembrandt-Licht",
+      "description": "Inszeniere ein nachdenkliches Schwarz-Weiß-Porträt mit plastischem Rembrandt-Licht, kontrolliertem Filmkorn und zurückhaltendem Luxusfinish."
+    },
+    "32": {
+      "title": "Modeszene aus dreizehn Referenzbildern",
+      "description": "Mehrfachreferenz-Test, der Model, Auto, Kleidung, Accessoires, Tiere und Requisiten in einer stimmigen Studioaufnahme vereint.",
+      "content": "Führe die Referenzen zu einem stimmigen Studiofoto zusammen. Ein Model lehnt vor hellgrauem Hintergrund an einem rosa BMW und trägt die referenzierte Kleidung und Accessoires. Befestige den grünen Alien-Anhänger an der rosa Handtasche, setze den rosa Papagei natürlich auf ihre Schulter und den Mops neben das Auto. Bewahre Farbe, Form, Material und Maßstab aller dreizehn Elemente. Vereinheitliche Perspektive, weiches Studiolicht, Kontaktschatten und Reflexionen. Keine Duplikate, fehlerhaften Hände, schwebenden Accessoires oder Collagekanten."
+    }
   },
   "fr-FR": {
-    "1": { "title": "Logo géométrique suisse en relief", "description": "Transforme une marque en relief monochrome centré, bordé d’un effet verre liquide et entouré d’un espace blanc très maîtrisé." },
-    "2": { "title": "Sceau de cire de marque à l’aspect tactile", "description": "Rend le logo fourni sous forme de sceau brillant, irrégulier et embossé, éclairé comme un produit haut de gamme." },
-    "3": { "title": "Collage mode pour campagne sociale", "description": "Un système de direction artistique mêlant photographie de mode, fragments découpés, typographie et désordre visuel contrôlé." },
-    "4": { "title": "Modèle intégré de publicité sociale", "description": "Crée une publicité réutilisable dont la marque, le titre, le système visuel et l’appel à l’action se remplacent par variables." },
-    "5": { "title": "Restaurer et coloriser une photographie ancienne", "description": "Répare rayures, déchirures et décoloration tout en préservant les personnes, la lumière et l’atmosphère de l’original." },
-    "6": { "title": "Comparatif de portrait éditorial Gemini 2.5 contre 3.1", "description": "Soumet le même brief de portrait à Gemini 2.5 Flash Image et Gemini 3.1 Flash Image pour comparer leur rendu." },
-    "7": { "title": "Affiche en relief en hommage à la France", "description": "Associe portrait de profil, monuments parisiens, couleurs nationales et titre embossé dans une composition sculpturale." },
-    "8": { "title": "Portrait de science-fiction néo-noir en espace négatif", "description": "Utilise un visage de référence pour mettre en scène un portrait sobre en contre-plongée sous un vaste ciel couvert." },
-    "9": { "title": "Portrait outdoor au style robuste", "description": "Place le visage de référence dans une scène éditoriale en lumière naturelle, avec vêtements techniques et 4×4 ancien flouté." },
-    "10": { "title": "Campagne tennis haute couture", "description": "Compose un éditorial sportif minimaliste avec raquette géante, sol réfléchissant et typographie monumentale en arrière-plan." },
-    "11": { "title": "Diorama de science-fiction dans un livre ouvert", "description": "Organise quatre sujets de science-fiction en double page 2×2, entre dioramas miniatures et planches de conception." },
-    "12": { "title": "Planche de rotation d’un héros endurci", "description": "Une fiche de personnage cinématographique montrant la même silhouette de face, de profil et de dos." },
-    "13": { "title": "Mecha futuriste photoréaliste", "description": "Une recette de style réutilisable pour transformer créatures ou machines en mechas métalliques, cinématographiques et réalistes." },
-    "14": { "title": "Infographie technique d’un paquebot de luxe", "description": "Présente un navire fictif par des coupes de ponts, données techniques, espaces intérieurs et jauges de performance." },
-    "15": { "title": "Cartes de voyage illustrées et annotées", "description": "Construit des cartes nationales riches en monuments miniatures, gastronomie, faune, statistiques et légendes bilingues." },
-    "16": { "title": "Fiche technique de vêtement d’extérieur", "description": "Réunit vues du vêtement, gros plans matière, accessoires modulaires et caractéristiques sur une planche complète." },
-    "17": { "title": "Planche d’ingénierie en quatre coupes", "description": "Compare quatre appareils dans une grille précise avec vues éclatées, coupes transparentes, mesures et annotations." },
-    "18": { "title": "Storyboard d’amitié en huit plans d’anime", "description": "Cadre une histoire émouvante, avec indications de caméra, où un enfant silencieux trouve l’amitié après avoir perdu son moulinet." },
-    "19": { "title": "Portrait indie dans une chambre des années 1990", "description": "Recrée une photo lo-fi spontanée avec flash direct, murs couverts de collages, grain argentique et nostalgie indépendante." },
-    "20": { "title": "Prairie de montagne à l’heure dorée", "description": "Structure un paysage avec sentier sinueux, fleurs sauvages, arbre solitaire, animaux lointains et chaîne montagneuse lumineuse." },
-    "21": { "title": "Géante surréaliste à Venise", "description": "Met en scène, par perspective forcée, une photographie de voyage ludique entre les monuments de la place Saint-Marc." },
-    "22": { "title": "Selfie miroir couvert de gribouillis", "description": "Place le personnage de référence dans une chambre lumineuse puis ajoute notes manuscrites, icônes et contour lumineux." },
-    "23": { "title": "D’une photo de référence à une figurine de collection", "description": "Transforme une photo de personnage en figurine réaliste de bureau avec écran de modélisation, socle transparent et boîte illustrée." },
-    "24": { "title": "Objet se désagrégeant en briques LEGO", "description": "Fige un objet au milieu de sa transformation en briques LEGO flottantes tout en conservant ses couleurs et ses textures." },
-    "25": { "title": "Photographie éditoriale de produit en plongée verticale", "description": "Crée une scène réutilisable avec lumière naturelle, espace négatif maîtrisé et éléments d’accompagnement facultatifs." },
-    "26": { "title": "Logo en chrome sombre dans un vide blanc", "description": "Rend la marque comme un métal poli et lourd, avec micro-rayures, halo de bord, faible profondeur de champ et grain argentique." },
-    "27": { "title": "Avatar monochrome dans le style Notion", "description": "Crée un portrait vectoriel expressif avec lignes monolignes assurées et aplats noirs sélectifs, loin des icônes génériques." },
-    "28": { "title": "Transformation brodée fidèle à l’image de référence", "description": "Transformez une photo importée en broderie tactile de qualité muséale tout en conservant la composition, les identités, la pose et une petite vignette avant-après." },
-    "29": { "title": "Portrait mosaïque aux accents de plan technique", "description": "Composez un portrait contemporain à partir de fragments polygonaux imbriqués, de lignes de construction techniques et d’aplats modernistes audacieux." },
-    "30": { "title": "Triptyque éditorial de basket haut de gamme", "description": "Compose une campagne en trois panneaux avec poses assurées, parquet réfléchissant, décor cramoisi et typographie motivante précisément dirigée." },
-    "31": { "title": "Portrait de mode monochrome éclairé à la Rembrandt", "description": "Dirige un portrait noir et blanc introspectif avec lumière Rembrandt sculpturale, grain maîtrisé et finition éditoriale luxueuse." }
+    "1": {
+      "title": "Logo géométrique suisse en relief",
+      "description": "Transforme une marque en relief monochrome centré, bordé d’un effet verre liquide et entouré d’un espace blanc très maîtrisé."
+    },
+    "2": {
+      "title": "Sceau de cire de marque à l’aspect tactile",
+      "description": "Rend le logo fourni sous forme de sceau brillant, irrégulier et embossé, éclairé comme un produit haut de gamme."
+    },
+    "3": {
+      "title": "Collage mode pour campagne sociale",
+      "description": "Un système de direction artistique mêlant photographie de mode, fragments découpés, typographie et désordre visuel contrôlé."
+    },
+    "4": {
+      "title": "Modèle intégré de publicité sociale",
+      "description": "Crée une publicité réutilisable dont la marque, le titre, le système visuel et l’appel à l’action se remplacent par variables."
+    },
+    "5": {
+      "title": "Restaurer et coloriser une photographie ancienne",
+      "description": "Répare rayures, déchirures et décoloration tout en préservant les personnes, la lumière et l’atmosphère de l’original."
+    },
+    "6": {
+      "title": "Comparatif de portrait éditorial Gemini 2.5 contre 3.1",
+      "description": "Soumet le même brief de portrait à Gemini 2.5 Flash Image et Gemini 3.1 Flash Image pour comparer leur rendu."
+    },
+    "7": {
+      "title": "Affiche en relief en hommage à la France",
+      "description": "Associe portrait de profil, monuments parisiens, couleurs nationales et titre embossé dans une composition sculpturale."
+    },
+    "8": {
+      "title": "Portrait de science-fiction néo-noir en espace négatif",
+      "description": "Utilise un visage de référence pour mettre en scène un portrait sobre en contre-plongée sous un vaste ciel couvert."
+    },
+    "9": {
+      "title": "Portrait outdoor au style robuste",
+      "description": "Place le visage de référence dans une scène éditoriale en lumière naturelle, avec vêtements techniques et 4×4 ancien flouté."
+    },
+    "10": {
+      "title": "Campagne tennis haute couture",
+      "description": "Compose un éditorial sportif minimaliste avec raquette géante, sol réfléchissant et typographie monumentale en arrière-plan."
+    },
+    "11": {
+      "title": "Diorama de science-fiction dans un livre ouvert",
+      "description": "Organise quatre sujets de science-fiction en double page 2×2, entre dioramas miniatures et planches de conception."
+    },
+    "12": {
+      "title": "Planche de rotation d’un héros endurci",
+      "description": "Une fiche de personnage cinématographique montrant la même silhouette de face, de profil et de dos."
+    },
+    "13": {
+      "title": "Mecha futuriste photoréaliste",
+      "description": "Une recette de style réutilisable pour transformer créatures ou machines en mechas métalliques, cinématographiques et réalistes."
+    },
+    "14": {
+      "title": "Infographie technique d’un paquebot de luxe",
+      "description": "Présente un navire fictif par des coupes de ponts, données techniques, espaces intérieurs et jauges de performance."
+    },
+    "15": {
+      "title": "Cartes de voyage illustrées et annotées",
+      "description": "Construit des cartes nationales riches en monuments miniatures, gastronomie, faune, statistiques et légendes bilingues."
+    },
+    "16": {
+      "title": "Fiche technique de vêtement d’extérieur",
+      "description": "Réunit vues du vêtement, gros plans matière, accessoires modulaires et caractéristiques sur une planche complète."
+    },
+    "17": {
+      "title": "Planche d’ingénierie en quatre coupes",
+      "description": "Compare quatre appareils dans une grille précise avec vues éclatées, coupes transparentes, mesures et annotations."
+    },
+    "18": {
+      "title": "Storyboard d’amitié en huit plans d’anime",
+      "description": "Cadre une histoire émouvante, avec indications de caméra, où un enfant silencieux trouve l’amitié après avoir perdu son moulinet."
+    },
+    "19": {
+      "title": "Portrait indie dans une chambre des années 1990",
+      "description": "Recrée une photo lo-fi spontanée avec flash direct, murs couverts de collages, grain argentique et nostalgie indépendante."
+    },
+    "20": {
+      "title": "Prairie de montagne à l’heure dorée",
+      "description": "Structure un paysage avec sentier sinueux, fleurs sauvages, arbre solitaire, animaux lointains et chaîne montagneuse lumineuse."
+    },
+    "21": {
+      "title": "Géante surréaliste à Venise",
+      "description": "Met en scène, par perspective forcée, une photographie de voyage ludique entre les monuments de la place Saint-Marc."
+    },
+    "22": {
+      "title": "Selfie miroir couvert de gribouillis",
+      "description": "Place le personnage de référence dans une chambre lumineuse puis ajoute notes manuscrites, icônes et contour lumineux."
+    },
+    "23": {
+      "title": "D’une photo de référence à une figurine de collection",
+      "description": "Transforme une photo de personnage en figurine réaliste de bureau avec écran de modélisation, socle transparent et boîte illustrée."
+    },
+    "24": {
+      "title": "Objet se désagrégeant en briques LEGO",
+      "description": "Fige un objet au milieu de sa transformation en briques LEGO flottantes tout en conservant ses couleurs et ses textures."
+    },
+    "25": {
+      "title": "Photographie éditoriale de produit en plongée verticale",
+      "description": "Crée une scène réutilisable avec lumière naturelle, espace négatif maîtrisé et éléments d’accompagnement facultatifs."
+    },
+    "26": {
+      "title": "Logo en chrome sombre dans un vide blanc",
+      "description": "Rend la marque comme un métal poli et lourd, avec micro-rayures, halo de bord, faible profondeur de champ et grain argentique."
+    },
+    "27": {
+      "title": "Avatar monochrome dans le style Notion",
+      "description": "Crée un portrait vectoriel expressif avec lignes monolignes assurées et aplats noirs sélectifs, loin des icônes génériques."
+    },
+    "28": {
+      "title": "Transformation brodée fidèle à l’image de référence",
+      "description": "Transformez une photo importée en broderie tactile de qualité muséale tout en conservant la composition, les identités, la pose et une petite vignette avant-après."
+    },
+    "29": {
+      "title": "Portrait mosaïque aux accents de plan technique",
+      "description": "Composez un portrait contemporain à partir de fragments polygonaux imbriqués, de lignes de construction techniques et d’aplats modernistes audacieux."
+    },
+    "30": {
+      "title": "Triptyque éditorial de basket haut de gamme",
+      "description": "Compose une campagne en trois panneaux avec poses assurées, parquet réfléchissant, décor cramoisi et typographie motivante précisément dirigée."
+    },
+    "31": {
+      "title": "Portrait de mode monochrome éclairé à la Rembrandt",
+      "description": "Dirige un portrait noir et blanc introspectif avec lumière Rembrandt sculpturale, grain maîtrisé et finition éditoriale luxueuse."
+    },
+    "32": {
+      "title": "Scène de mode fusionnant treize références",
+      "description": "Test multiréférence réunissant mannequin, voiture, vêtements, accessoires, animaux et petits objets dans une photo de studio cohérente.",
+      "content": "Fusionnez les références en une photographie de studio cohérente. Une mannequin pose adossée à une BMW rose sur fond gris clair, avec les vêtements et accessoires fournis. Fixez le porte-clés extraterrestre vert au sac rose, placez naturellement le perroquet rose sur son épaule et le carlin près de la voiture. Préservez couleur, forme, matière et échelle des treize éléments. Unifiez perspective, lumière douce, ombres de contact et reflets. Évitez doublons, mains incorrectes, accessoires flottants et raccords de collage."
+    }
   }
 }
